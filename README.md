@@ -35,6 +35,8 @@ This portfolio demonstrates the strategic importance of data science in enhancin
 5. [Strategic Insights from Kaggle Competitions](#5-strategic-insights-from-kaggle-competitions)
     - [5.1 Introduction](#51-introduction)
     - [5.2 Data Science Frameworks](#52-data-science-frameworks)
+        - [5.2.1) Generalized Data Science Framework - Titanic](#521-generalized-datascience-framework-titanic)
+## Executive Summary
     - [5.3 Data Preparation](#53-data-preparation)
     - [5.4 Model Specific](#54-model-specific)
 6. [Proposed Projects](#6-proposed-projects)
@@ -200,6 +202,29 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 
 ### [5.2 Data Science Frameworks](https://github.com/rexcoleman/Importance-of-Structured-Approaches-in-Data-Science/tree/main)
 In today's rapidly evolving landscape of data science and artificial intelligence (AI), the strategic significance of structured approaches cannot be overstated. These methodologies serve as frameworks for honing technical skills, fostering innovation, and deriving actionable insights that can drive competitive advantage and mitigate risks in various fields, including cybersecurity. This report explores how structured approaches like CRISP-DM, TDSP, Agile Data Science, and Lean Data Science enhance data science proficiency, exemplify real-world applications, and align strategic goals with business imperatives.
+
+#### [5.2.1) Generalized Data Science Framework - Titanic](https://github.com/rexcoleman/GeneralizedDataScienceFramework-Titanic)
+## Executive Summary
+
+This project provides a comprehensive framework for solving data science problems. The project builds upon one of the most popular [Kaggle notebooks](https://www.kaggle.com/code/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy), leveraging best-in-class methodologies to create a reliable foundation for solving data science problems. By reproducing and substantially building upon this work, I aim to illustrate the value of learning from top practitioners while also solving one of the most important problems in data science.
+
+Rushing into a data science project without a structured approach can lead to numerous problems, which can severely impact project success, cost, and outcomes. This project addresses these issues by implementing a well-defined framework and best practices ensuring thorough problem understanding, effective data preprocessing, and robust model evaluation.
+
+Borrowing fron the giants of Agile, DevOps, and Lean Entrepreneurship, we are leveragine the concept of ['shifting left'](https://en.wikipedia.org/wiki/Shift-left_testing) to support a more flexible and adaptive development process, facilitating faster delivery of high-quality data science solutions that originate from clearly defined business needs.
+
+This project applies the above concepts to the popular "Titanic - Machine Learning from Disaster" Kaggle competition and can applied generally to a wide array of data science problems.
+
+Thank you for visiting my repository. I hope this project inspires you to implement a structured approach to avoid common data science pitfalls.  I welcome comments: especially those that will help improve upon this concept.
+
+![Model results table](img/ModelMeasurementsPlot.png)
+
+*Figure 1: Model Accuracy - This plot shows train, validate and test model accuracies in Kaggle test accuracy order.  The top four models (BaggineClassifier, BernoulliNB, XGBClassifier and EnsembleHardVoting) outperformed both hard and soft voting ensemble models.  The Baseline Handmade Decision Tree model several other models.*
+
+![Model variance indicator](img/bias_variance_plot.png)
+
+*Figure 3: Model Error Plot - This plot compares model error across multiple models. Bias error is defined as perfect accuracy minus train accuracy. Variance is defined as test error and train error.  Typically it is better to use the difference in dev errer (validation error) and training error.  In the case of our models, there is a wide margin between test error and validation error so I am including it in my variance error calculation.*
+
+
 
 ### 5.3 Data Preparation
 Data preparation is a critical step in the data science workflow, and Kaggle competitions emphasize its importance. Techniques such as data cleaning, normalization, and feature engineering are pivotal in transforming raw data into a format suitable for modeling. Effective data preparation leads to better model performance and more accurate predictions.
