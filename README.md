@@ -150,12 +150,21 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 
 *Figure 2: Name bias neutralization - The before image on the left illustrates the impact of bias in surveillance systems, highlighting how certain demographics may be disproportionately targeted or overlooked, leading to privacy concerns and unfair treatment.  The after image on the right demonstrates how techniques to neutralize bias associated with names in datasets, can level the playing field.*
 
-### 4.2 [Add other completed projects here]
+### 4.2 Project: Unlocking Cybersecurity Potential with Sentiment Analysis
+- **Description**: This project explores the diverse applications of sentiment analysis in cybersecurity, focusing on practical implementations such as the Emojify project. By analyzing sentiments expressed in textual data from various sources, organizations can proactively manage risks, improve incident handling, and safeguard their reputation.
+- **Tools and Techniques**: The project employs natural language processing (NLP) techniques, including word embeddings and sequence models like LSTM, to analyze and classify sentiments.
+- **Impact**: This project highlights the significance of sentiment analysis in enhancing threat detection, incident response, and overall security strategies. It demonstrates how understanding sentiments can lead to more proactive and effective cybersecurity measures.
+- **Results**: The Emojify project successfully created an embedding matrix and demonstrated the advantages of the GloVe algorithm. A sentiment classifier was built using word embeddings, and a more sophisticated classifier using an LSTM was trained, improving the accuracy of sentiment classification tasks.
+
+![GloVe_Emoji](img/think_like_a_hacker.png)
+
+*Figure 1: This image showing how the GloVe algorithm was used to classify sentiment analysis by appling an Emoji at the end of a sentence.*
+
+### 4.3 [Add other completed projects here]
 - **Description**: [Provide a brief description of other completed projects]
 - **Tools and Techniques**: [List the tools and techniques used in the projects]
 - **Impact**: [Explain the impact of these projects]
 - **Results**: [Summarize the results achieved]
-
 ## 5. Proposed Projects
 
 ### 5.1 Project: Network Traffic Anomaly Detection
