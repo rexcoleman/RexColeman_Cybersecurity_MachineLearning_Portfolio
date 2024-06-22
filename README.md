@@ -152,7 +152,28 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 
 *Figure 2: Name bias neutralization - The before image on the left illustrates the impact of bias in surveillance systems, highlighting how certain demographics may be disproportionately targeted or overlooked, leading to privacy concerns and unfair treatment.  The after image on the right demonstrates how techniques to neutralize bias associated with names in datasets, can level the playing field.*
 
-### 4.2 Project: Unlocking Cybersecurity Potential with Sentiment Analysis
+### 4.2 Project: Enhancing Phishing Detection with Neural Style Transfer
+- **Description**: This project leverages Neural Style Transfer (NST) to enhance phishing detection by analyzing visual content. By merging the content of one image with the style of another, NST helps detect subtle visual discrepancies that indicate phishing attempts.
+- **Tools and Techniques**: The project employs NST algorithms, pretrained ConvNets, and optimization techniques to analyze and generate images. The practical applications extend to phishing detection, image authentication, forensic analysis, and advanced obfuscation techniques.
+- **Impact**: This project demonstrates the relevance of NST in cybersecurity, highlighting its potential to improve the detection, analysis, and prevention of cyber threats through advanced visual content analysis.
+- **Results**: The project successfully applied NST to detect phishing websites and conceal sensitive information within images, showcasing its practical applications in enhancing cybersecurity measures.
+
+![nefarious_website_clong](img/website_style_change.png)
+
+*Figure 1: Detecting Phishing Websites with Neural Style Transfer - This image shows an exagerated visual representation of a legitimate website credit card form being altered by a hactivist meme and the resulting suspicious phishing website. The cybersecurity goal in this context is to identify phishing websites pretending to be legitimate websites but with subtly different style.*
+
+![surf_art](img/teahupoo_basquiet_1.png)
+
+*Figure 2: Surf Art Stenography - This image shows an exagerated visual representaqtion of a cybercriminal concealing sensitive infromation (Basquiat Painting) inside a surf image. The cybersecurity goal in this context would be to identify sensitive information such as malware or encryption keys that a threat actor subtly hid within the image to avoid detection.*
+
+
+### 4.3 Placeholder for Future Project
+- **Description**: [Provide a brief description of a future project]
+- **Tools and Techniques**: [List the tools and techniques to be used in the future project]
+- **Impact**: [Explain the anticipated impact of the future project]
+- **Results**: [Summarize the expected results of the future project]
+
+### 4.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis
 - **Description**: This project explores the diverse applications of sentiment analysis in cybersecurity, focusing on practical implementations such as the Emojify project. By analyzing sentiments expressed in textual data from various sources, organizations can proactively manage risks, improve incident handling, and safeguard their reputation.
 - **Tools and Techniques**: The project employs natural language processing (NLP) techniques, including word embeddings and sequence models like LSTM, to analyze and classify sentiments.
 - **Impact**: This project highlights the significance of sentiment analysis in enhancing threat detection, incident response, and overall security strategies. It demonstrates how understanding sentiments can lead to more proactive and effective cybersecurity measures.
@@ -161,13 +182,6 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 ![GloVe_Emoji](img/think_like_a_hacker.png)
 
 *Figure 1: This image showing how the GloVe algorithm was used to classify sentiment analysis by appling an Emoji at the end of a sentence.*
-
-### 4.3 [Add other completed projects here]
-- **Description**: [Provide a brief description of other completed projects]
-- **Tools and Techniques**: [List the tools and techniques used in the projects]
-- **Impact**: [Explain the impact of these projects]
-- **Results**: [Summarize the results achieved]
-## 5. Proposed Projects
 
 ### 5.1 Project: Network Traffic Anomaly Detection
 - **Description**: This proposed project involves developing a machine learning model to detect anomalies in network traffic. By analyzing network traffic data, the model will identify unusual patterns that may indicate a security threat.
