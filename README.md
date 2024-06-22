@@ -35,7 +35,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
 5. [Strategic Insights from Kaggle Competitions](#5-strategic-insights-from-kaggle-competitions)
     - [5.1 Introduction](#51-introduction)
     - [5.2 Data Science Frameworks](#52-data-science-frameworks)
-        - [5.2.1) Generalized Data Science Framework - Titanic](#521-generalized-datascience-framework-titanic)
+        - [5.2.1) Generalized Data Science Framework - Titanic](#521-generalized-data-science-framework---titanic)
 ## Executive Summary
     - [5.3 Data Preparation](#53-data-preparation)
     - [5.4 Model Specific](#54-model-specific)
