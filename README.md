@@ -36,6 +36,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [5.1 Introduction](#51-introduction)
     - [5.2 Data Science Frameworks](#52-data-science-frameworks)
         - [5.2.1) Generalized Data Science Framework - Titanic](#521-generalized-data-science-framework---titanic)
+        - [5.2.2) CRISP-DM Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
 ## Executive Summary
     - [5.3 Data Preparation](#53-data-preparation)
     - [5.4 Model Specific](#54-model-specific)
@@ -224,7 +225,7 @@ Thank you for visiting my repository. I hope this project inspires you to implem
 
 *Figure 3: Model Error Plot - This plot compares model error across multiple models. Bias error is defined as perfect accuracy minus train accuracy. Variance is defined as test error and train error.  Typically it is better to use the difference in dev errer (validation error) and training error.  In the case of our models, there is a wide margin between test error and validation error so I am including it in my variance error calculation.*
 
-
+#### [5.2.2) CRISP-DM Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
 
 ### 5.3 Data Preparation
 Data preparation is a critical step in the data science workflow, and Kaggle competitions emphasize its importance. Techniques such as data cleaning, normalization, and feature engineering are pivotal in transforming raw data into a format suitable for modeling. Effective data preparation leads to better model performance and more accurate predictions.
