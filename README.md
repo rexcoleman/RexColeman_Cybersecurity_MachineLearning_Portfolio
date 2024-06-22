@@ -38,7 +38,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.2.1) Hybrid Data Science Methodology - Titanic](#521-hybrid-data-science-methodology---titanic)
         - [5.2.2) CRISP-DM Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
     - [5.3 Data Preparation](#53-data-preparation)
-        - 5.3.1 [Data Preparation Project - Outlier Detection and Treatment](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
+        - [5.3.1 Data Preparation Project - Outlier Detection and Treatment](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
     - [5.4 Model Specific](#54-model-specific)
 6. [Proposed Projects](#6-proposed-projects)
     - [6.1 Project: Network Traffic Anomaly Detection](#61-project-network-traffic-anomaly-detection)
