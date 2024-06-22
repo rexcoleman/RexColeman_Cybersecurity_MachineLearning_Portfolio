@@ -167,13 +167,22 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 *Figure 2: Surf Art Stenography - This image shows an exagerated visual representaqtion of a cybercriminal concealing sensitive infromation (Basquiat Painting) inside a surf image. The cybersecurity goal in this context would be to identify sensitive information such as malware or encryption keys that a threat actor subtly hid within the image to avoid detection.*
 
 
+(https://github.com/rexcoleman/U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures)
+
 ### 4.3 Placeholder for Future Project
 - **Description**: [Provide a brief description of a future project]
 - **Tools and Techniques**: [List the tools and techniques to be used in the future project]
 - **Impact**: [Explain the anticipated impact of the future project]
 - **Results**: [Summarize the expected results of the future project]
 
-### 4.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis
+Releated Malware Families                             | Unreleated Malware Families
+:---------------------------------------------------: | :---------------------------------------------------:
+![related_malware_famalies](img/related_malware_families.webp) | ![unrelated_malware_famalies](img/unrelated_malware_famalies.webp)
+
+
+*Figure 2: U-net's ability to segment features in images could be applied to a wide array of cybersecurity use cases. As an exsample, this figure shows images of related malware families (left) and unrelated malware families (right).*
+
+### [4.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
 - **Description**: This project explores the diverse applications of sentiment analysis in cybersecurity, focusing on practical implementations such as the Emojify project. By analyzing sentiments expressed in textual data from various sources, organizations can proactively manage risks, improve incident handling, and safeguard their reputation.
 - **Tools and Techniques**: The project employs natural language processing (NLP) techniques, including word embeddings and sequence models like LSTM, to analyze and classify sentiments.
 - **Impact**: This project highlights the significance of sentiment analysis in enhancing threat detection, incident response, and overall security strategies. It demonstrates how understanding sentiments can lead to more proactive and effective cybersecurity measures.
