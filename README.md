@@ -30,7 +30,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
 4. [Completed Projects](#4-completed-projects)
     - [4.1 Project: Neutralizing Surveillance Privacy Bias](#41-project-neutralizing-surveillance-privacy-bias)
     - [4.2 Project: Enhancing Phishing Detection with Neural Style Transfer](#42-project-enhancing-phishing-detection-with-neural-style-transfer)
-    - [4.3 Placeholder for Future Project](#43-placeholder-for-future-project)
+    - [4.3 Project: U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](#43-project-u-net-in-cybersecurity-precision-image-segmentation-for-enhanced-security-measures)
     - [4.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis](#44-project-unlocking-cybersecurity-potential-with-sentiment-analysis)
 5. [Proposed Projects](#5-proposed-projects)
     - [5.1 Project: Network Traffic Anomaly Detection](#51-project-network-traffic-anomaly-detection)
@@ -136,7 +136,7 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 
 ## 4. Completed Projects
 
-### 4.1 Project: Neutralizing Surveillance Privacy Bias
+### [4.1 Project: Neutralizing Surveillance Privacy Bias](https://github.com/rexcoleman/Neutralizing-Surveillance-Privacy-Bias)
 - **Description**: This project addresses the critical issue of bias in cybersecurity, specifically focusing on surveillance privacy bias. The project aims to identify and mitigate biases that can compromise the effectiveness of security measures, lead to inefficient resource allocation, and damage user trust.
 - **Tools and Techniques**: The project employs word embeddings to analyze and understand biases in surveillance and privacy-related terms. Techniques such as fairness-aware algorithms and continuous model evaluation are used to mitigate these biases.
 - **Impact**: This project emphasizes the importance of addressing bias in cybersecurity to ensure fair and effective security measures. It highlights how biases can originate from historical data, algorithmic design, or human judgment and provides solutions to mitigate these biases.
