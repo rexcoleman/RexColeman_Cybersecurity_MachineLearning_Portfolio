@@ -37,7 +37,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [5.2 Data Science Frameworks](#52-data-science-frameworks)
     - [5.3 Data Preparation](#53-data-preparation)
     - [5.4 Model Specific](#54-model-specific)
-6. [Proposed Projects](#5-proposed-projects)
+6. [Proposed Projects](#6-proposed-projects)
     - [6.1 Project: Network Traffic Anomaly Detection](#51-project-network-traffic-anomaly-detection)
     - [6.2 Project: Threat Intelligence Aggregation](#52-project-threat-intelligence-aggregation)
     - [6.3 Project: Automated Incident Response](#53-project-automated-incident-response)
