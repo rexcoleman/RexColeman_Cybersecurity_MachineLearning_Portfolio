@@ -229,7 +229,7 @@ Thank you for visiting my repository. I hope this project inspires you to implem
 #### Executive Summary
 This project applies the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology to predict the onset of diabetes using the Pima Indians Diabetes Database. By following the six phases of CRISP-DM—Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Deployment—we developed a robust predictive model that accurately forecasts diabetes onset based on diagnostic measures. The model aims to assist in early diagnosis and timely intervention, thereby improving patient outcomes.
 
-### 5.3 Data Preparation
+### [5.3 Data Preparation](https://github.com/rexcoleman/Data-Preparation-Overview/tree/main)
 Data preparation is a critical step in the data science workflow, and Kaggle competitions emphasize its importance. Techniques such as data cleaning, normalization, and feature engineering are pivotal in transforming raw data into a format suitable for modeling. Effective data preparation leads to better model performance and more accurate predictions.
 
 ### 5.4 Model Specific
