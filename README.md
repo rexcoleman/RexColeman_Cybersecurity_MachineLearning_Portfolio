@@ -29,8 +29,9 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [3.6.2 Data Science Contribution](#362-data-science-contribution)
 4. [Completed Projects](#4-completed-projects)
     - [4.1 Project: Neutralizing Surveillance Privacy Bias](#41-project-neutralizing-surveillance-privacy-bias)
-    - [4.2 Project: Unlocking Cybersecurity Potential with Sentiment Analysis](#42-project-unlocking-cybersecurity-potential-with-sentiment-analysis)
-    - [4.3 [Add other completed projects here](#43-add-other-completed-projects-here)]
+    - [4.2 Project: Enhancing Phishing Detection with Neural Style Transfer](#42-project-enhancing-phishing-detection-with-neural-style-transfer)
+    - [4.3 Placeholder for Future Project](#43-placeholder-for-future-project)
+    - [4.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis](#44-project-unlocking-cybersecurity-potential-with-sentiment-analysis)
 5. [Proposed Projects](#5-proposed-projects)
     - [5.1 Project: Network Traffic Anomaly Detection](#51-project-network-traffic-anomaly-detection)
     - [5.2 Project: Threat Intelligence Aggregation](#52-project-threat-intelligence-aggregation)
