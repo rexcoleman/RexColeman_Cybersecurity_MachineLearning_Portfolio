@@ -38,6 +38,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.2.1) Hybrid Data Science Methodology - Titanic](#521-hybrid-data-science-methodology---titanic)
         - [5.2.2) CRISP-DM Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
     - [5.3 Data Preparation](#53-data-preparation)
+        - 5.3.1 [Data Preparation Project - Outlier Detection and Treatment](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
     - [5.4 Model Specific](#54-model-specific)
 6. [Proposed Projects](#6-proposed-projects)
     - [6.1 Project: Network Traffic Anomaly Detection](#61-project-network-traffic-anomaly-detection)
@@ -233,6 +234,8 @@ This project applies the CRISP-DM (Cross-Industry Standard Process for Data Mini
 ### Executive Summary
 
 Data preparation is a critical step in the data science process that directly impacts the quality and reliability of insights and model performance. This report highlights the importance of data preparation, providing a comprehensive overview of its key components, steps, challenges, case studies, and best practices. By embracing structured methodologies for data preparation, data scientists can enhance the quality and efficiency of their projects, leading to more accurate and robust models. The report also discusses the impact of data preparation on model performance and introduces tools and technologies that streamline the process. Understanding and implementing effective data preparation practices is essential for achieving successful outcomes in data science projects.
+
+##### [5.3.1 Data Preparation Project - Outlier Detection and Treatment](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
 
 ### 5.4 Model Specific
 Kaggle competitions provide a platform to experiment with various model-specific techniques and architectures. This includes fine-tuning hyperparameters, implementing ensemble methods, and applying transfer learning. Through iterative experimentation, data scientists can optimize their models to achieve the best possible performance.
