@@ -35,7 +35,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
 5. [Strategic Insights from Kaggle Competitions](#5-strategic-insights-from-kaggle-competitions)
     - [5.1 Introduction](#51-introduction)
     - [5.2 Data Science Frameworks](#52-data-science-frameworks)
-        - [5.2.1) Generalized Data Science Framework - Titanic](#521-generalized-data-science-framework---titanic)
+        - [5.2.1) Hybrid Data Science Methodology - Titanic](#521-hybrid-data-science-methodology---titanic)
         - [5.2.2) CRISP-DM Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
 ## Executive Summary
     - [5.3 Data Preparation](#53-data-preparation)
@@ -204,7 +204,7 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 ### [5.2 Data Science Frameworks](https://github.com/rexcoleman/Importance-of-Structured-Approaches-in-Data-Science/tree/main)
 In today's rapidly evolving landscape of data science and artificial intelligence (AI), the strategic significance of structured approaches cannot be overstated. These methodologies serve as frameworks for honing technical skills, fostering innovation, and deriving actionable insights that can drive competitive advantage and mitigate risks in various fields, including cybersecurity. This report explores how structured approaches like CRISP-DM, TDSP, Agile Data Science, and Lean Data Science enhance data science proficiency, exemplify real-world applications, and align strategic goals with business imperatives.
 
-#### [5.2.1) Generalized Data Science Framework - Titanic](https://github.com/rexcoleman/GeneralizedDataScienceFramework-Titanic)
+#### [5.2.1) Hybrid Data Science Methodology - Titanic](https://github.com/rexcoleman/GeneralizedDataScienceFramework-Titanic)
 #### Executive Summary
 
 This project provides a comprehensive framework for solving data science problems. The project builds upon one of the most popular [Kaggle notebooks](https://www.kaggle.com/code/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy), leveraging best-in-class methodologies to create a reliable foundation for solving data science problems. By reproducing and substantially building upon this work, I aim to illustrate the value of learning from top practitioners while also solving one of the most important problems in data science.
@@ -226,6 +226,9 @@ Thank you for visiting my repository. I hope this project inspires you to implem
 *Figure 3: Model Error Plot - This plot compares model error across multiple models. Bias error is defined as perfect accuracy minus train accuracy. Variance is defined as test error and train error.  Typically it is better to use the difference in dev errer (validation error) and training error.  In the case of our models, there is a wide margin between test error and validation error so I am including it in my variance error calculation.*
 
 #### [5.2.2) CRISP-DM Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
+
+#### Executive Summary
+This project applies the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology to predict the onset of diabetes using the Pima Indians Diabetes Database. By following the six phases of CRISP-DM—Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Deployment—we developed a robust predictive model that accurately forecasts diabetes onset based on diagnostic measures. The model aims to assist in early diagnosis and timely intervention, thereby improving patient outcomes.
 
 ### 5.3 Data Preparation
 Data preparation is a critical step in the data science workflow, and Kaggle competitions emphasize its importance. Techniques such as data cleaning, normalization, and feature engineering are pivotal in transforming raw data into a format suitable for modeling. Effective data preparation leads to better model performance and more accurate predictions.
