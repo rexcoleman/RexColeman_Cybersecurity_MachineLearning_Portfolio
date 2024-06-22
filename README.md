@@ -140,6 +140,16 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 - **Impact**: This project emphasizes the importance of addressing bias in cybersecurity to ensure fair and effective security measures. It highlights how biases can originate from historical data, algorithmic design, or human judgment and provides solutions to mitigate these biases.
 - **Results**: The project successfully demonstrated how to neutralize surveillance privacy bias using word vectors, leading to more equitable and trustworthy security measures.
 
+![Surveillance privacy bias](img/surveillance_privacy_bias.png)
+
+*Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue tend to be above the line and privacy related terms in orange tend to be below the line.*
+
+### 5.2 Name Bias Neutralization
+
+![name_bias_neutralization](img/name_bias_neutralization.png)
+
+*Figure 2: Name bias neutralization - The before image on the left illustrates the impact of bias in surveillance systems, highlighting how certain demographics may be disproportionately targeted or overlooked, leading to privacy concerns and unfair treatment.  The after image on the right demonstrates how techniques to neutralize bias associated with names in datasets, can level the playing field.*
+
 ### 4.2 [Add other completed projects here]
 - **Description**: [Provide a brief description of other completed projects]
 - **Tools and Techniques**: [List the tools and techniques used in the projects]
