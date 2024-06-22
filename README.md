@@ -146,8 +146,6 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 
 *Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue tend to be above the line and privacy related terms in orange tend to be below the line.*
 
-### 5.2 Name Bias Neutralization
-
 ![name_bias_neutralization](img/name_bias_neutralization.png)
 
 *Figure 2: Name bias neutralization - The before image on the left illustrates the impact of bias in surveillance systems, highlighting how certain demographics may be disproportionately targeted or overlooked, leading to privacy concerns and unfair treatment.  The after image on the right demonstrates how techniques to neutralize bias associated with names in datasets, can level the playing field.*
@@ -166,7 +164,7 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 
 *Figure 2: Surf Art Stenography - This image shows an exagerated visual representaqtion of a cybercriminal concealing sensitive infromation (Basquiat Painting) inside a surf image. The cybersecurity goal in this context would be to identify sensitive information such as malware or encryption keys that a threat actor subtly hid within the image to avoid detection.*
 
-### 4.3 Project: U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures
+### [4.3 Project: U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](https://github.com/rexcoleman/U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures)
 - **Description**: This project showcases the application of U-Net, a powerful convolutional neural network architecture, in cybersecurity through precision image segmentation. U-Net's ability to accurately segment images has significant implications for enhancing security measures such as intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics.
 - **Tools and Techniques**: The project employs U-Net architecture for precise image segmentation tasks, demonstrating its capabilities using the CARLA self-driving car dataset.
 - **Impact**: This project highlights U-Net's potential to improve security measures by accurately segmenting and analyzing images, thus enhancing various cybersecurity applications.
