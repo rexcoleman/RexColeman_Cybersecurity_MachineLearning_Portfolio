@@ -29,7 +29,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [3.6.2 Data Science Contribution](#362-data-science-contribution)
 4. [Deep Learning](#4-deep-learning)
     - [4.1 Introduction](#41-introduction)
-        - [4.1.1 Report: Comparing and Contrasting Deep Learning Models for Cybersecurity](#411-report-comparing-and-contrasting-deep-learning-models-for-cybersecurity)
+        - [4.1.1 Report: Comparing and Contrasting Deep Learning Models for Cybersecurity Application](#411-report-comparing-and-contrasting-deep-learning-models-for-cybersecurity-application)
     - [4.2 Completed Deep Learning Projects](#42-completed-deep-learning-projects)
         - [4.2.1 Project: Neutralizing Surveillance Privacy Bias](#421-project-neutralizing-surveillance-privacy-bias)
         - [4.2.2 Project: Enhancing Phishing Detection with Neural Style Transfer](#422-project-enhancing-phishing-detection-with-neural-style-transfer)
@@ -151,8 +151,13 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 
 ### 4.1 Introduction
 
-#### [4.1.1 Report: Comparing and Contrasting Deep Learning Models for Cybersecurity]()
+#### [4.1.1 Report: Comparing and Contrasting Deep Learning Models for Cybersecurity Application](https://github.com/rexcoleman/Comparing-and-Contrasting-Deep-Learning-Models-for-Cybersecurity-Application/tree/main)
 
+In the rapidly evolving field of cybersecurity, the application of deep learning models offers significant promise for enhancing threat detection, anomaly identification, and overall security measures. This report explores various deep learning models and their applicability to solving complex cybersecurity problems. By comparing and contrasting different models, the report aims to provide cybersecurity professionals with a clear understanding of when and how to utilize these advanced techniques to protect against increasingly sophisticated cyber threats.
+
+We begin by categorizing the models into supervised learning, unsupervised learning, reinforcement learning, and hybrid and specialized models. Each category is then broken down into specific models, such as Convolutional Neural Networks (CNNs), Generative Adversarial Networks (GANs), and Deep Q-Networks (DQNs), detailing their strengths, weaknesses, and ideal use cases. Additionally, the report discusses advanced learning paradigms like transfer learning and federated learning, which further enhance the adaptability and efficacy of deep learning in cybersecurity.
+
+The report emphasizes that the key to successful implementation of these models lies in understanding the specific security challenges at hand and selecting the appropriate model to address them. By leveraging the insights provided, organizations can better align their data science strategies with their security objectives, ultimately achieving a more robust and resilient cybersecurity posture. [Read More...](https://github.com/rexcoleman/Comparing-and-Contrasting-Deep-Learning-Models-for-Cybersecurity-Application/tree/main)
 
 ### 4.2 Completed Deep Learning Projects
 
