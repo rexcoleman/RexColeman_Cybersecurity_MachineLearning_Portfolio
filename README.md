@@ -148,7 +148,7 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 - **Description**: This project addresses the critical issue of bias in cybersecurity, specifically focusing on surveillance privacy bias. The project aims to identify and mitigate biases that can compromise the effectiveness of security measures, lead to inefficient resource allocation, and damage user trust.
 - **Tools and Techniques**: The project employs word embeddings to analyze and understand biases in surveillance and privacy-related terms. Techniques such as fairness-aware algorithms and continuous model evaluation are used to mitigate these biases.
 - **Impact**: This project emphasizes the importance of addressing bias in cybersecurity to ensure fair and effective security measures. It highlights how biases can originate from historical data, algorithmic design, or human judgment and provides solutions to mitigate these biases.
-- **Results**: The project successfully demonstrated how to neutralize surveillance privacy bias using word vectors, leading to more equitable and trustworthy security measures. [Read More...](https://github.com/rexcoleman/Neutralizing-Surveillance-Privacy-Bias)
+- **Results**: The project successfully demonstrated how to neutralize surveillance privacy bias using word vectors, leading to more equitable and trustworthy security measures. 
 
 ![Surveillance privacy bias](img/surveillance_privacy_bias.png)
 
@@ -158,11 +158,13 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 
 *Figure 2: Name bias neutralization - The before image on the left illustrates the impact of bias in surveillance systems, highlighting how certain demographics may be disproportionately targeted or overlooked, leading to privacy concerns and unfair treatment.  The after image on the right demonstrates how techniques to neutralize bias associated with names in datasets, can level the playing field.*
 
+[Read More...](https://github.com/rexcoleman/Neutralizing-Surveillance-Privacy-Bias)
+
 ### [4.2 Project: Enhancing Phishing Detection with Neural Style Transfer](https://github.com/rexcoleman/Enhancing_Phishing-Detection-With-Neural-Style-Transfer)
 - **Description**: This project leverages Neural Style Transfer (NST) to enhance phishing detection by analyzing visual content. By merging the content of one image with the style of another, NST helps detect subtle visual discrepancies that indicate phishing attempts.
 - **Tools and Techniques**: The project employs NST algorithms, pretrained ConvNets, and optimization techniques to analyze and generate images. The practical applications extend to phishing detection, image authentication, forensic analysis, and advanced obfuscation techniques.
 - **Impact**: This project demonstrates the relevance of NST in cybersecurity, highlighting its potential to improve the detection, analysis, and prevention of cyber threats through advanced visual content analysis.
-- **Results**: The project successfully applied NST to detect phishing websites and conceal sensitive information within images, showcasing its practical applications in enhancing cybersecurity measures. [Read More...](https://github.com/rexcoleman/Enhancing_Phishing-Detection-With-Neural-Style-Transfer)
+- **Results**: The project successfully applied NST to detect phishing websites and conceal sensitive information within images, showcasing its practical applications in enhancing cybersecurity measures. 
 
 ![nefarious_website_clong](img/website_style_change.png)
 
@@ -172,11 +174,13 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 
 *Figure 2: Surf Art Stenography - This image shows an exagerated visual representaqtion of a cybercriminal concealing sensitive infromation (Basquiat Painting) inside a surf image. The cybersecurity goal in this context would be to identify sensitive information such as malware or encryption keys that a threat actor subtly hid within the image to avoid detection.*
 
+[Read More...](https://github.com/rexcoleman/Enhancing_Phishing-Detection-With-Neural-Style-Transfer)
+
 ### [4.3 Project: U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](https://github.com/rexcoleman/U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures)
 - **Description**: This project showcases the application of U-Net, a powerful convolutional neural network architecture, in cybersecurity through precision image segmentation. U-Net's ability to accurately segment images has significant implications for enhancing security measures such as intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics.
 - **Tools and Techniques**: The project employs U-Net architecture for precise image segmentation tasks, demonstrating its capabilities using the CARLA self-driving car dataset.
 - **Impact**: This project highlights U-Net's potential to improve security measures by accurately segmenting and analyzing images, thus enhancing various cybersecurity applications.
-- **Results**: The project successfully demonstrated U-Net's effectiveness in semantic image segmentation, illustrating its application to cybersecurity contexts. [Read More...](https://github.com/rexcoleman/U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures)
+- **Results**: The project successfully demonstrated U-Net's effectiveness in semantic image segmentation, illustrating its application to cybersecurity contexts. 
 
 Releated Malware Families                             | Unreleated Malware Families
 :---------------------------------------------------: | :---------------------------------------------------:
@@ -185,15 +189,19 @@ Releated Malware Families                             | Unreleated Malware Famil
 
 *Figure 2: U-net's ability to segment features in images could be applied to a wide array of cybersecurity use cases. As an exsample, this figure shows images of related malware families (left) and unrelated malware families (right).*
 
+[Read More...](https://github.com/rexcoleman/U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures)
+
 ### [4.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
 - **Description**: This project explores the diverse applications of sentiment analysis in cybersecurity, focusing on practical implementations such as the Emojify project. By analyzing sentiments expressed in textual data from various sources, organizations can proactively manage risks, improve incident handling, and safeguard their reputation.
 - **Tools and Techniques**: The project employs natural language processing (NLP) techniques, including word embeddings and sequence models like LSTM, to analyze and classify sentiments.
 - **Impact**: This project highlights the significance of sentiment analysis in enhancing threat detection, incident response, and overall security strategies. It demonstrates how understanding sentiments can lead to more proactive and effective cybersecurity measures.
-- **Results**: The Emojify project successfully created an embedding matrix and demonstrated the advantages of the GloVe algorithm. A sentiment classifier was built using word embeddings, and a more sophisticated classifier using an LSTM was trained, improving the accuracy of sentiment classification tasks. [Read More...](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
+- **Results**: The Emojify project successfully created an embedding matrix and demonstrated the advantages of the GloVe algorithm. A sentiment classifier was built using word embeddings, and a more sophisticated classifier using an LSTM was trained, improving the accuracy of sentiment classification tasks. 
 
 ![GloVe_Emoji](img/think_like_a_hacker.png)
 
 *Figure 1: This image showing how the GloVe algorithm was used to classify sentiment analysis by appling an Emoji at the end of a sentence.*
+
+[Read More...](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
 
 ## 5. Strategic Insights from Kaggle Competitions
 
@@ -210,8 +218,8 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 - **Description**: This project provides a comprehensive framework to help beginners in the field of data science understand and apply essential concepts and techniques. It uses the Kaggle Titanic dataset to illustrate the process of defining a problem, gathering and preparing data, performing exploratory analysis, modeling data, and evaluating model performance.
 - **Tools and Techniques**: The project employs a variety of tools and libraries, including Python, pandas, matplotlib, seaborn, scikit-learn, and XGBoost. Techniques covered include data wrangling, feature engineering, decision trees, ensemble methods, and hyperparameter tuning. It emphasizes a structured approach to data science problems, promoting critical thinking over mere application of algorithms.
 - **Impact**: This project highlights the importance of understanding the underlying principles of data science rather than just using libraries and algorithms. It provides a detailed framework that guides beginners on how to approach and solve data science problems systematically, thus bridging the gap between theoretical knowledge and practical application.
-- **Results**: The project demonstrates successful application of various machine learning algorithms to predict the survival of passengers on the Titanic, achieving an accuracy of up to 82%. It also provides insights into model selection, hyperparameter tuning, and the impact of different features on model performance. [Read More...](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
-
+- **Results**: The project demonstrates successful application of various machine learning algorithms to predict the survival of passengers on the Titanic, achieving an accuracy of up to 82%. It also provides insights into model selection, hyperparameter tuning, and the impact of different features on model performance.
+  
 ![Model results table](img/ModelMeasurementsPlot.png)
 
 *Figure 1: Model Accuracy - This plot shows train, validate and test model accuracies in Kaggle test accuracy order.  The top four models (BaggineClassifier, BernoulliNB, XGBClassifier and EnsembleHardVoting) outperformed both hard and soft voting ensemble models.  The Baseline Handmade Decision Tree model several other models.*
@@ -219,6 +227,8 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 ![Model variance indicator](img/bias_variance_plot.png)
 
 *Figure 3: Model Error Plot - This plot compares model error across multiple models. Bias error is defined as perfect accuracy minus train accuracy. Variance is defined as test error and train error.  Typically it is better to use the difference in dev errer (validation error) and training error.  In the case of our models, there is a wide margin between test error and validation error so I am including it in my variance error calculation.*
+
+[Read More...](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
 
 #### [5.2.2) CRISP-DM Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
 
