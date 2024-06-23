@@ -207,13 +207,10 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 #### [5.2.1) Hybrid Data Science Methodology - Titanic](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
 #### Executive Summary
 
-This project provides a comprehensive framework for solving data science problems. The project builds upon one of the most popular [Kaggle notebooks](https://www.kaggle.com/code/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy), leveraging best-in-class methodologies to create a reliable foundation for solving data science problems. By reproducing and substantially building upon this work, I aim to illustrate the value of learning from top practitioners while also solving one of the most important problems in data science.
-
-Rushing into a data science project without a structured approach can lead to numerous problems, which can severely impact project success, cost, and outcomes. This project addresses these issues by implementing a well-defined framework and best practices ensuring thorough problem understanding, effective data preprocessing, and robust model evaluation.
-
-Borrowing fron the giants of Agile, DevOps, and Lean Entrepreneurship, we are leveragine the concept of ['shifting left'](https://en.wikipedia.org/wiki/Shift-left_testing) to support a more flexible and adaptive development process, facilitating faster delivery of high-quality data science solutions that originate from clearly defined business needs.
-
-This project applies the above concepts to the popular "Titanic - Machine Learning from Disaster" Kaggle competition and can applied generally to a wide array of data science problems. [Read More...](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
+- **Description**: This project provides a comprehensive framework to help beginners in the field of data science understand and apply essential concepts and techniques. It uses the Kaggle Titanic dataset to illustrate the process of defining a problem, gathering and preparing data, performing exploratory analysis, modeling data, and evaluating model performance.
+- **Tools and Techniques**: The project employs a variety of tools and libraries, including Python, pandas, matplotlib, seaborn, scikit-learn, and XGBoost. Techniques covered include data wrangling, feature engineering, decision trees, ensemble methods, and hyperparameter tuning. It emphasizes a structured approach to data science problems, promoting critical thinking over mere application of algorithms.
+- **Impact**: This project highlights the importance of understanding the underlying principles of data science rather than just using libraries and algorithms. It provides a detailed framework that guides beginners on how to approach and solve data science problems systematically, thus bridging the gap between theoretical knowledge and practical application.
+- **Results**: The project demonstrates successful application of various machine learning algorithms to predict the survival of passengers on the Titanic, achieving an accuracy of up to 82%. It also provides insights into model selection, hyperparameter tuning, and the impact of different features on model performance. [Read More...](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
 
 ![Model results table](img/ModelMeasurementsPlot.png)
 
