@@ -36,7 +36,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [5.1 Introduction](#51-introduction)
     - [5.2 Data Science Frameworks](#52-data-science-frameworks)
         - [5.2.1) Hybrid Data Science Methodology - Titanic](#521-hybrid-data-science-methodology---titanic)
-        - [5.2.2) CRISP-DM Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#522-crisp-dm-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
+        - [5.2.2) CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#522-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
     - [5.3 Data Preparation](#53-data-preparation)
         - [5.3.1 Data Preparation Project - Outlier Detection and Treatment](#531-data-preparation-project---outlier-detection-and-treatment)
     - [5.4 Model Specific](#54-model-specific) 
@@ -230,7 +230,7 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 
 [Read More...](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
 
-#### [5.2.2) CRISP-DM Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
+#### [5.2.2) CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
 
 **Description**: This project addresses the prediction of the onset of diabetes based on diagnostic measures using the Pima Indians Diabetes Database. The project follows the CRISP-DM (Cross Industry Standard Process for Data Mining) framework to develop a comprehensive machine learning pipeline that includes data preparation, visualization, outlier detection, feature engineering, and model evaluation.
 **Tools and Techniques**: The project employs various data preparation techniques, including standardization, MinMax scaling, and outlier removal methods such as the Tukey method. Feature selection is performed using correlation analysis and feature importance measures. Multiple machine learning algorithms are evaluated, including Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Decision Tree, AdaBoost, Gradient Boosting, Random Forest, and Extra Trees. Ensemble methods such as voting and stacking are also implemented.
