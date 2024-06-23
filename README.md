@@ -144,7 +144,7 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 - **Learning from Incidents**: Post-incident reviews can analyze data from past incidents to improve recovery processes, ensuring that lessons are learned and applied. Machine learning insights can predict future incidents and prepare recovery plans, enhancing preparedness.
 - **Communication Strategies**: Crisis communication models can ensure effective communication during recovery, providing clear and concise information to stakeholders. Information dissemination algorithms can manage and distribute recovery information, ensuring that it reaches the right people at the right time.
 
-## 4. Completed Projects
+## 4. Completed Deep Learning Projects
 
 ### [4.1 Project: Neutralizing Surveillance Privacy Bias](https://github.com/rexcoleman/Neutralizing-Surveillance-Privacy-Bias)
 - **Description**: This project addresses the critical issue of bias in cybersecurity, specifically focusing on surveillance privacy bias. The project aims to identify and mitigate biases that can compromise the effectiveness of security measures, lead to inefficient resource allocation, and damage user trust.
