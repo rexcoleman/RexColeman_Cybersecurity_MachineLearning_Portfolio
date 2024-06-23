@@ -158,13 +158,11 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 
 *Figure 2: Name bias neutralization - The before image on the left illustrates the impact of bias in surveillance systems, highlighting how certain demographics may be disproportionately targeted or overlooked, leading to privacy concerns and unfair treatment.  The after image on the right demonstrates how techniques to neutralize bias associated with names in datasets, can level the playing field.*
 
-[Read More...](https://github.com/rexcoleman/Neutralizing-Surveillance-Privacy-Bias)
-
 ### [4.2 Project: Enhancing Phishing Detection with Neural Style Transfer](https://github.com/rexcoleman/Enhancing_Phishing-Detection-With-Neural-Style-Transfer)
 - **Description**: This project leverages Neural Style Transfer (NST) to enhance phishing detection by analyzing visual content. By merging the content of one image with the style of another, NST helps detect subtle visual discrepancies that indicate phishing attempts.
 - **Tools and Techniques**: The project employs NST algorithms, pretrained ConvNets, and optimization techniques to analyze and generate images. The practical applications extend to phishing detection, image authentication, forensic analysis, and advanced obfuscation techniques.
 - **Impact**: This project demonstrates the relevance of NST in cybersecurity, highlighting its potential to improve the detection, analysis, and prevention of cyber threats through advanced visual content analysis.
-- **Results**: The project successfully applied NST to detect phishing websites and conceal sensitive information within images, showcasing its practical applications in enhancing cybersecurity measures.
+- **Results**: The project successfully applied NST to detect phishing websites and conceal sensitive information within images, showcasing its practical applications in enhancing cybersecurity measures. [Read More...](https://github.com/rexcoleman/Enhancing_Phishing-Detection-With-Neural-Style-Transfer)
 
 ![nefarious_website_clong](img/website_style_change.png)
 
@@ -178,7 +176,7 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 - **Description**: This project showcases the application of U-Net, a powerful convolutional neural network architecture, in cybersecurity through precision image segmentation. U-Net's ability to accurately segment images has significant implications for enhancing security measures such as intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics.
 - **Tools and Techniques**: The project employs U-Net architecture for precise image segmentation tasks, demonstrating its capabilities using the CARLA self-driving car dataset.
 - **Impact**: This project highlights U-Net's potential to improve security measures by accurately segmenting and analyzing images, thus enhancing various cybersecurity applications.
-- **Results**: The project successfully demonstrated U-Net's effectiveness in semantic image segmentation, illustrating its application to cybersecurity contexts.
+- **Results**: The project successfully demonstrated U-Net's effectiveness in semantic image segmentation, illustrating its application to cybersecurity contexts. [Read More...](https://github.com/rexcoleman/U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures)
 
 Releated Malware Families                             | Unreleated Malware Families
 :---------------------------------------------------: | :---------------------------------------------------:
@@ -191,7 +189,7 @@ Releated Malware Families                             | Unreleated Malware Famil
 - **Description**: This project explores the diverse applications of sentiment analysis in cybersecurity, focusing on practical implementations such as the Emojify project. By analyzing sentiments expressed in textual data from various sources, organizations can proactively manage risks, improve incident handling, and safeguard their reputation.
 - **Tools and Techniques**: The project employs natural language processing (NLP) techniques, including word embeddings and sequence models like LSTM, to analyze and classify sentiments.
 - **Impact**: This project highlights the significance of sentiment analysis in enhancing threat detection, incident response, and overall security strategies. It demonstrates how understanding sentiments can lead to more proactive and effective cybersecurity measures.
-- **Results**: The Emojify project successfully created an embedding matrix and demonstrated the advantages of the GloVe algorithm. A sentiment classifier was built using word embeddings, and a more sophisticated classifier using an LSTM was trained, improving the accuracy of sentiment classification tasks.
+- **Results**: The Emojify project successfully created an embedding matrix and demonstrated the advantages of the GloVe algorithm. A sentiment classifier was built using word embeddings, and a more sophisticated classifier using an LSTM was trained, improving the accuracy of sentiment classification tasks. [Read More...](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
 
 ![GloVe_Emoji](img/think_like_a_hacker.png)
 
@@ -201,7 +199,7 @@ Releated Malware Families                             | Unreleated Malware Famil
 
 ### [5.1 Introduction](https://github.com/rexcoleman/Kaggle-Competition-Value-Proposition-For-Advancing-Data-Science/tree/main)
 
-In today's rapidly evolving landscape of data science and artificial intelligence (AI), the strategic significance of Kaggle competitions cannot be overstated. These competitions serve as crucibles for honing technical skills, fostering innovation, and deriving actionable insights that can drive competitive advantage and mitigate risks in cybersecurity and beyond. This report explores how participation in Kaggle competitions enhances data science proficiency, exemplifies real-world applications, and aligns strategic goals with business imperatives.
+In today's rapidly evolving landscape of data science and artificial intelligence (AI), the strategic significance of Kaggle competitions cannot be overstated. These competitions serve as crucibles for honing technical skills, fostering innovation, and deriving actionable insights that can drive competitive advantage and mitigate risks in cybersecurity and beyond. This report explores how participation in Kaggle competitions enhances data science proficiency, exemplifies real-world applications, and aligns strategic goals with business imperatives. [Read More...](https://github.com/rexcoleman/Kaggle-Competition-Value-Proposition-For-Advancing-Data-Science/tree/main)
 
 ### [5.2 Data Science Frameworks](https://github.com/rexcoleman/Importance-of-Structured-Approaches-in-Data-Science/tree/main)
 In today's rapidly evolving landscape of data science and artificial intelligence (AI), the strategic significance of structured approaches cannot be overstated. These methodologies serve as frameworks for honing technical skills, fostering innovation, and deriving actionable insights that can drive competitive advantage and mitigate risks in various fields, including cybersecurity. This report explores how structured approaches like CRISP-DM, TDSP, Agile Data Science, and Lean Data Science enhance data science proficiency, exemplify real-world applications, and align strategic goals with business imperatives.
