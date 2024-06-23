@@ -27,12 +27,15 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [3.6 Recover](#36-recover)
         - [3.6.1 Security Team Responsibilities](#361-security-team-responsibilities)
         - [3.6.2 Data Science Contribution](#362-data-science-contribution)
-4. [Completed Deep Learning Projects](#4-completed-deep-learning-projects)
-    - [4.1 Project: Neutralizing Surveillance Privacy Bias](#41-project-neutralizing-surveillance-privacy-bias)
-    - [4.2 Project: Enhancing Phishing Detection with Neural Style Transfer](#42-project-enhancing-phishing-detection-with-neural-style-transfer)
-    - [4.3 Project: U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](#43-project-u-net-in-cybersecurity-precision-image-segmentation-for-enhanced-security-measures)
-    - [4.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis](#44-project-unlocking-cybersecurity-potential-with-sentiment-analysis)
-5. [Strategic Insights from Kaggle Competitions](#5-strategic-insights-from-kaggle-competitions)
+4. [Deep Learning](#4-deep-learning)
+    - [4.1 Introduction](#41-introduction)
+        - [4.1.1 Report: Comparing and Contrasting Deep Learning Models for Cybersecurity](#411-report-comparing-and-contrasting-deep-learning-models-for-cybersecurity)
+    - [4.2 Completed Deep Learning Projects](#42-completed-deep-learning-projects)
+        - [4.2.1 Project: Neutralizing Surveillance Privacy Bias](#421-project-neutralizing-surveillance-privacy-bias)
+        - [4.2.2 Project: Enhancing Phishing Detection with Neural Style Transfer](#422-project-enhancing-phishing-detection-with-neural-style-transfer)
+        - [4.2.3 Project: U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](#423-project-u-net-in-cybersecurity-precision-image-segmentation-for-enhanced-security-measures)
+        - [4.2.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis](#424-project-unlocking-cybersecurity-potential-with-sentiment-analysis)
+6. [Strategic Insights from Kaggle Competitions](#5-strategic-insights-from-kaggle-competitions)
     - [5.1 Introduction](#51-introduction)
         - [5.1.1 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](#511-report-strategic-importance-of-kaggle-competitions-in-advancing-data-science)
         - [5.1.2 Report: How to Win Kaggle Competitions](#512-report-how-to-win-kaggle-competitions)
@@ -42,7 +45,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [5.3 Data Preparation](#53-data-preparation)
         - [5.3.1 Data Preparation Project - Outlier Detection and Treatment](#531-data-preparation-project---outlier-detection-and-treatment)
     - [5.4 Model Specific](#54-model-specific) 
-6. [Proposed Projects](#6-proposed-projects)
+7. [Proposed Projects](#6-proposed-projects)
     - [6.1 Project: Network Traffic Anomaly Detection](#61-project-network-traffic-anomaly-detection)
     - [6.2 Project: Threat Intelligence Aggregation](#62-project-threat-intelligence-aggregation)
     - [6.3 Project: Automated Incident Response](#63-project-automated-incident-response)
@@ -51,10 +54,10 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [6.6 Project: Compliance Monitoring System](#66-project-compliance-monitoring-system)
     - [6.7 Project: Predictive Vulnerability Analysis](#67-project-predictive-vulnerability-analysis)
     - [6.8 Project: Patch Management Optimization](#68-project-patch-management-optimization)
-7. [Future Directions](#7-future-directions)
+8. [Future Directions](#7-future-directions)
     - [7.1 Innovative Approaches](#71-innovative-approaches)
     - [7.2 Vision for the Future](#72-vision-for-the-future)
-8. [Conclusion](#8-conclusion)
+9. [Conclusion](#8-conclusion)
     - [8.1 Summary](#81-summary)
     - [8.2 Call to Action](#82-call-to-action)
 
@@ -144,9 +147,16 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 - **Learning from Incidents**: Post-incident reviews can analyze data from past incidents to improve recovery processes, ensuring that lessons are learned and applied. Machine learning insights can predict future incidents and prepare recovery plans, enhancing preparedness.
 - **Communication Strategies**: Crisis communication models can ensure effective communication during recovery, providing clear and concise information to stakeholders. Information dissemination algorithms can manage and distribute recovery information, ensuring that it reaches the right people at the right time.
 
-## 4. Completed Deep Learning Projects
+## 4. Deep Learning
 
-### [4.1 Project: Neutralizing Surveillance Privacy Bias](https://github.com/rexcoleman/Neutralizing-Surveillance-Privacy-Bias)
+### 4.1 Introduction
+
+#### [4.1.1 Report: Comparing and Contrasting Deep Learning Models for Cybersecurity]()
+
+
+### 4.2 Completed Deep Learning Projects
+
+#### [4.2.1 Project: Neutralizing Surveillance Privacy Bias](https://github.com/rexcoleman/Neutralizing-Surveillance-Privacy-Bias)
 - **Description**: This project addresses the critical issue of bias in cybersecurity, specifically focusing on surveillance privacy bias. The project aims to identify and mitigate biases that can compromise the effectiveness of security measures, lead to inefficient resource allocation, and damage user trust.
 - **Tools and Techniques**: The project employs word embeddings to analyze and understand biases in surveillance and privacy-related terms. Techniques such as fairness-aware algorithms and continuous model evaluation are used to mitigate these biases.
 - **Impact**: This project emphasizes the importance of addressing bias in cybersecurity to ensure fair and effective security measures. It highlights how biases can originate from historical data, algorithmic design, or human judgment and provides solutions to mitigate these biases.
@@ -162,7 +172,7 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 
 [Read More...](https://github.com/rexcoleman/Neutralizing-Surveillance-Privacy-Bias)
 
-### [4.2 Project: Enhancing Phishing Detection with Neural Style Transfer](https://github.com/rexcoleman/Enhancing_Phishing-Detection-With-Neural-Style-Transfer)
+#### [4.2.2 Project: Enhancing Phishing Detection with Neural Style Transfer](https://github.com/rexcoleman/Enhancing_Phishing-Detection-With-Neural-Style-Transfer)
 - **Description**: This project leverages Neural Style Transfer (NST) to enhance phishing detection by analyzing visual content. By merging the content of one image with the style of another, NST helps detect subtle visual discrepancies that indicate phishing attempts.
 - **Tools and Techniques**: The project employs NST algorithms, pretrained ConvNets, and optimization techniques to analyze and generate images. The practical applications extend to phishing detection, image authentication, forensic analysis, and advanced obfuscation techniques.
 - **Impact**: This project demonstrates the relevance of NST in cybersecurity, highlighting its potential to improve the detection, analysis, and prevention of cyber threats through advanced visual content analysis.
@@ -178,7 +188,7 @@ The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for man
 
 [Read More...](https://github.com/rexcoleman/Enhancing_Phishing-Detection-With-Neural-Style-Transfer)
 
-### [4.3 Project: U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](https://github.com/rexcoleman/U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures)
+#### [4.2.3 Project: U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](https://github.com/rexcoleman/U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures)
 - **Description**: This project showcases the application of U-Net, a powerful convolutional neural network architecture, in cybersecurity through precision image segmentation. U-Net's ability to accurately segment images has significant implications for enhancing security measures such as intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics.
 - **Tools and Techniques**: The project employs U-Net architecture for precise image segmentation tasks, demonstrating its capabilities using the CARLA self-driving car dataset.
 - **Impact**: This project highlights U-Net's potential to improve security measures by accurately segmenting and analyzing images, thus enhancing various cybersecurity applications.
@@ -193,7 +203,7 @@ Releated Malware Families                             | Unreleated Malware Famil
 
 [Read More...](https://github.com/rexcoleman/U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures)
 
-### [4.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
+#### [4.2.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
 - **Description**: This project explores the diverse applications of sentiment analysis in cybersecurity, focusing on practical implementations such as the Emojify project. By analyzing sentiments expressed in textual data from various sources, organizations can proactively manage risks, improve incident handling, and safeguard their reputation.
 - **Tools and Techniques**: The project employs natural language processing (NLP) techniques, including word embeddings and sequence models like LSTM, to analyze and classify sentiments.
 - **Impact**: This project highlights the significance of sentiment analysis in enhancing threat detection, incident response, and overall security strategies. It demonstrates how understanding sentiments can lead to more proactive and effective cybersecurity measures.
@@ -204,6 +214,13 @@ Releated Malware Families                             | Unreleated Malware Famil
 *Figure 1: This image showing how the GloVe algorithm was used to classify sentiment analysis by appling an Emoji at the end of a sentence.*
 
 [Read More...](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
+
+
+
+
+
+
+
 
 ## 5. Strategic Insights from Kaggle Competitions
 
