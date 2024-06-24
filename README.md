@@ -10,23 +10,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [1.2 Purpose of the Portfolio](#12-purpose-of-the-portfolio)
 2. [Scope of Responsibility of the Security Team in a Fortune 100 Organization](#2-scope-of-responsibility-of-the-security-team-in-a-fortune-100-organization)
     - [2.1 Overview of the Security Team Role](#21-overview-of-the-security-team-role)
-3. [Breakdown of Security Team Responsibilities According to the NIST Cybersecurity Framework](#3-breakdown-of-security-team-responsibilities-according-to-the-nist-cybersecurity-framework)
-    - [3.1 NIST Cybersecurity Framework Overview](#31-nist-cybersecurity-framework-overview)
-    - [3.2 Identify](#32-identify)
-        - [3.2.1 Security Team Responsibilities](#321-security-team-responsibilities)
-        - [3.2.2 Data Science Contribution](#322-data-science-contribution)
-    - [3.3 Protect](#33-protect)
-        - [3.3.1 Security Team Responsibilities](#331-security-team-responsibilities)
-        - [3.3.2 Data Science Contribution](#332-data-science-contribution)
-    - [3.4 Detect](#34-detect)
-        - [3.4.1 Security Team Responsibilities](#341-security-team-responsibilities)
-        - [3.4.2 Data Science Contribution](#342-data-science-contribution)
-    - [3.5 Respond](#35-respond)
-        - [3.5.1 Security Team Responsibilities](#351-security-team-responsibilities)
-        - [3.5.2 Data Science Contribution](#352-data-science-contribution)
-    - [3.6 Recover](#36-recover)
-        - [3.6.1 Security Team Responsibilities](#361-security-team-responsibilities)
-        - [3.6.2 Data Science Contribution](#362-data-science-contribution)
+3. [NIST Cybrersecurity Framework: How Data Science Contributes to Cybresecurity Teams](#3-nist-cybrersecurity-framework-how-data-science-contributes-to-cybresecurity-teams)
 4. [Deep Learning](#4-deep-learning)
     - [4.1 Introduction](#41-introduction)
         - [4.1.1 Report: Comparing and Contrasting Deep Learning Models for Cybersecurity Application](#411-report-comparing-and-contrasting-deep-learning-models-for-cybersecurity-application)
@@ -77,7 +61,7 @@ The purpose of this portfolio is to demonstrate my ability to apply data science
 ### 2.1 Overview of the Security Team Role
 The security team in a Fortune 100 organization is responsible for ensuring the security of the organization's information and technology assets. The security team's primary responsibilities include risk management, regulatory compliance, incident response, safeguarding assets, and strategic planning. In this role, the security team faces numerous challenges, including advanced persistent threats, zero-day vulnerabilities, insider threats, continuous monitoring, and resource allocation.
 
-## 3. Breakdown of Security Team Responsibilities According to the NIST Cybersecurity Framework
+## 3. NIST Cybrersecurity Framework: How Data Science Contributes to Cybresecurity Teams
 
 ### 3.1 NIST Cybersecurity Framework Overview
 The NIST Cybersecurity Framework (NIST CSF) is a comprehensive guideline for managing and mitigating cybersecurity risks. It consists of five core functions: Identify, Protect, Detect, Respond, and Recover. Each function plays a crucial role in enhancing the organization's cybersecurity posture.
