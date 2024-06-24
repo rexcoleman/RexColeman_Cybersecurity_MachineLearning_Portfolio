@@ -280,6 +280,7 @@ Data preparation is a critical step in the data science process that directly im
 [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](https://github.com/rexcoleman/Unlocking-Data-Potential-Advanced-Feature-Engineering-Techniques-for-Cybersecurity)
 
 #### [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](https://github.com/rexcoleman/Feature-Engineering-Deep-Dive-Pima-Indians-Pima-Indians)
+#### Executive Summary
 - **Description**: This project aims to predict diabetes in the Pima Indian population using machine learning techniques. The dataset includes various medical predictors such as glucose levels, blood pressure, BMI, and more. The project involves extensive exploratory data analysis (EDA) and advanced feature engineering to enhance the accuracy of the predictions.
 - **Tools and Techniques**: Tools and techniques used in this project include Python, Pandas, NumPy, Scikit-learn, LightGBM, and K-Nearest Neighbors (KNN). Key techniques include handling missing values, creating new features through polynomial, interaction, and binary feature creation, feature encoding (one-hot, label, and frequency encoding), and feature scaling (normalization and standardization).
 - **Impact**: The project demonstrates how advanced feature engineering and machine learning techniques can significantly improve the predictive accuracy of diabetes diagnosis. It highlights the importance of preprocessing, feature creation, and model tuning in building effective predictive models.
