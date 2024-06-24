@@ -280,9 +280,7 @@ Data preparation is a critical step in the data science process that directly im
 - **Description**: This project focuses on predicting diabetes onset using the Pima Indians Diabetes Database. It aims to provide a comprehensive exploratory data analysis (EDA) and develop a robust machine learning model to achieve high prediction accuracy. The project demonstrates the use of various data preprocessing techniques, feature engineering, and machine learning algorithms to optimize the prediction performance.
 - **Tools and Techniques**: The project employs data cleaning techniques to handle missing values, exploratory data analysis for understanding data distribution, and feature engineering to create new informative features. Machine learning techniques such as LightGBM and K-Nearest Neighbors (KNN) are used, along with hyperparameter optimization through Random Search and Grid Search.
 - **Impact**: This project highlights the importance of thorough data preprocessing and the impact of feature engineering on model performance. It showcases how combining different models, like LightGBM and KNN, can lead to improved accuracy and robust predictions, essential for medical diagnosis and decision-making.
-- **Results**: The project achieved a high prediction accuracy of 90.6% using a combination of LightGBM and KNN models. The comprehensive approach to handling missing values and creating new features significantly contributed to the model's performance, providing valuable insights into diabetes prediction and prevention.
-
-
+- **Results**: The project achieved a high prediction accuracy of 90.6% using a combination of LightGBM and KNN models. The comprehensive approach to handling missing values and creating new features significantly contributed to the model's performance, providing valuable insights into diabetes prediction and prevention. [Read More...](https://github.com/rexcoleman/Feature-Engineering-Deep-Dive-Pima-Indians-Pima-Indians)
 
 #### [5.3.2 Project: Outlier Detection and Treatment - Pima Indians](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
 
