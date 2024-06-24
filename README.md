@@ -223,13 +223,6 @@ Releated Malware Families                             | Unreleated Malware Famil
 
 [Read More...](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
 
-
-
-
-
-
-
-
 ## 5. Strategic Insights from Kaggle Competitions
 
 ### 5.1 Introduction
@@ -280,6 +273,18 @@ Data preparation is a critical step in the data science process that directly im
 
 #### [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](https://github.com/rexcoleman/Unlocking-Data-Potential-Advanced-Feature-Engineering-Techniques-for-Cybersecurity)
 #### Executive Summary
+- **Description**: This project aims to predict diabetes in the Pima Indian population using machine learning techniques. The dataset includes various medical predictors such as glucose levels, blood pressure, BMI, and more. The project involves extensive exploratory data analysis (EDA) and advanced feature engineering to enhance the accuracy of the predictions.
+- **Tools and Techniques**: Tools and techniques used in this project include Python, Pandas, NumPy, Scikit-learn, LightGBM, and K-Nearest Neighbors (KNN). Key techniques include handling missing values, creating new features through polynomial, interaction, and binary feature creation, feature encoding (one-hot, label, and frequency encoding), and feature scaling (normalization and standardization).
+- **Impact**: The project demonstrates how advanced feature engineering and machine learning techniques can significantly improve the predictive accuracy of diabetes diagnosis. It highlights the importance of preprocessing, feature creation, and model tuning in building effective predictive models.
+- **Results**: The LightGBM model achieved an accuracy of 89.8%, while a hybrid LightGBM-KNN model improved the accuracy to 90.6%. The models' performance was evaluated using various metrics, including accuracy, precision, recall, F1 score, and ROC-AUC. 
+
+*Figure: Glucose vs. Blood Pressure Scatter Plot with Box*  
+![Feature engineering example](img/FeatureEngineering.png)  
+This scatter plot highlights the relationship between glucose levels and blood pressure, with a boxed region indicating the concentration of healthy individuals.
+
+*Figure: Final Model Performance Report*  
+![Feature engineering example](img/EDA_Model_Performance_Report.png)  
+The final model performance report shows the confusion matrix, various performance metrics, the ROC curve, and the precision-recall curve for the LightGBM & KNN model.
 
 #### [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](https://github.com/rexcoleman/Feature-Engineering-Deep-Dive-Pima-Indians-Pima-Indians)
 #### Executive Summary
