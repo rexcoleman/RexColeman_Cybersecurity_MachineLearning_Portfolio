@@ -41,11 +41,12 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.1.1 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](#511-report-strategic-importance-of-kaggle-competitions-in-advancing-data-science)
         - [5.1.2 Report: How to Win Kaggle Competitions](#512-report-how-to-win-kaggle-competitions)
     - [5.2 Data Science Frameworks](#52-data-science-frameworks)
-        - [5.2.1) Hybrid Data Science Methodology - Titanic](#521-hybrid-data-science-methodology---titanic)
-        - [5.2.2) CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#522-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
+        - [5.2.1) Projecdt: Hybrid Data Science Methodology - Titanic](#521-project-hybrid-data-science-methodology---titanic)
+        - [5.2.2) Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#522-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
     - [5.3 Data Preparation](#53-data-preparation)
-        - [5.3.1 Project: Feature Engineering Deep Dive - Pima Indians](#531-project-feature-engineering-deep-dive---pima-indians)
-        - [5.3.2 Project: Outlier Detection and Treatment - Pima Indians](#532-project-outlier-detection-and-treatment---pima-indians)
+        - [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#531-project-unlocking-data-potential---advanced-feature-engineering-techniques-for-cdybersecurity)
+        - [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](#532-project-feature-engineering-deep-dive---pima-indians)
+        - [5.3.3 Project: Outlier Detection and Treatment - Pima Indians](#533-project-outlier-detection-and-treatment---pima-indians)
     - [5.4 Model Specific](#54-model-specific) 
 7. [Proposed Projects](#6-proposed-projects)
     - [6.1 Project: Network Traffic Anomaly Detection](#61-project-network-traffic-anomaly-detection)
@@ -245,7 +246,7 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 ### [5.2 Data Science Frameworks](https://github.com/rexcoleman/Importance-of-Structured-Approaches-in-Data-Science/tree/main)
 In today's rapidly evolving landscape of data science and artificial intelligence (AI), the strategic significance of structured approaches cannot be overstated. These methodologies serve as frameworks for honing technical skills, fostering innovation, and deriving actionable insights that can drive competitive advantage and mitigate risks in various fields, including cybersecurity. This report explores how structured approaches like CRISP-DM, TDSP, Agile Data Science, and Lean Data Science enhance data science proficiency, exemplify real-world applications, and align strategic goals with business imperatives. [Read More...](https://github.com/rexcoleman/Importance-of-Structured-Approaches-in-Data-Science/tree/main)
 
-#### [5.2.1) Hybrid Data Science Methodology - Titanic](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
+#### [5.2.1) Project: Hybrid Data Science Methodology - Titanic](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
 #### Executive Summary
 
 - **Description**: This project provides a comprehensive framework to help beginners in the field of data science understand and apply essential concepts and techniques. It uses the Kaggle Titanic dataset to illustrate the process of defining a problem, gathering and preparing data, performing exploratory analysis, modeling data, and evaluating model performance.
@@ -263,7 +264,7 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 
 [Read More...](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
 
-#### [5.2.2) CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
+#### [5.2.2) Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
 
 **Description**: This project addresses the prediction of the onset of diabetes based on diagnostic measures using the Pima Indians Diabetes Database. The project follows the CRISP-DM (Cross Industry Standard Process for Data Mining) framework to develop a comprehensive machine learning pipeline that includes data preparation, visualization, outlier detection, feature engineering, and model evaluation.
 **Tools and Techniques**: The project employs various data preparation techniques, including standardization, MinMax scaling, and outlier removal methods such as the Tukey method. Feature selection is performed using correlation analysis and feature importance measures. Multiple machine learning algorithms are evaluated, including Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Decision Tree, AdaBoost, Gradient Boosting, Random Forest, and Extra Trees. Ensemble methods such as voting and stacking are also implemented.
@@ -276,7 +277,9 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 
 Data preparation is a critical step in the data science process that directly impacts the quality and reliability of insights and model performance. This report highlights the importance of data preparation, providing a comprehensive overview of its key components, steps, challenges, case studies, and best practices. By embracing structured methodologies for data preparation, data scientists can enhance the quality and efficiency of their projects, leading to more accurate and robust models. The report also discusses the impact of data preparation on model performance and introduces tools and technologies that streamline the process. Understanding and implementing effective data preparation practices is essential for achieving successful outcomes in data science projects. [Read More...](https://github.com/rexcoleman/Data-Preparation-Overview/tree/main)
 
-#### [5.3.1 Project: Feature Engineering Deep Dive - Pima Indians](https://github.com/rexcoleman/Feature-Engineering-Deep-Dive-Pima-Indians-Pima-Indians)
+[5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](https://github.com/rexcoleman/Unlocking-Data-Potential-Advanced-Feature-Engineering-Techniques-for-Cybersecurity)
+
+#### [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](https://github.com/rexcoleman/Feature-Engineering-Deep-Dive-Pima-Indians-Pima-Indians)
 - **Description**: This project focuses on predicting diabetes onset using the Pima Indians Diabetes Database. It aims to provide a comprehensive exploratory data analysis (EDA) and develop a robust machine learning model to achieve high prediction accuracy. The project demonstrates the use of various data preprocessing techniques, feature engineering, and machine learning algorithms to optimize the prediction performance.
 - **Tools and Techniques**: The project employs data cleaning techniques to handle missing values, exploratory data analysis for understanding data distribution, and feature engineering to create new informative features. Machine learning techniques such as LightGBM and K-Nearest Neighbors (KNN) are used, along with hyperparameter optimization through Random Search and Grid Search.
 - **Impact**: This project highlights the importance of thorough data preprocessing and the impact of feature engineering on model performance. It showcases how combining different models, like LightGBM and KNN, can lead to improved accuracy and robust predictions, essential for medical diagnosis and decision-making.
