@@ -280,16 +280,18 @@ Data preparation is a critical step in the data science process that directly im
 [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](https://github.com/rexcoleman/Unlocking-Data-Potential-Advanced-Feature-Engineering-Techniques-for-Cybersecurity)
 
 #### [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](https://github.com/rexcoleman/Feature-Engineering-Deep-Dive-Pima-Indians-Pima-Indians)
-- **Description**: This project focuses on predicting diabetes onset using the Pima Indians Diabetes Database. It aims to provide a comprehensive exploratory data analysis (EDA) and develop a robust machine learning model to achieve high prediction accuracy. The project demonstrates the use of various data preprocessing techniques, feature engineering, and machine learning algorithms to optimize the prediction performance.
-- **Tools and Techniques**: The project employs data cleaning techniques to handle missing values, exploratory data analysis for understanding data distribution, and feature engineering to create new informative features. Machine learning techniques such as LightGBM and K-Nearest Neighbors (KNN) are used, along with hyperparameter optimization through Random Search and Grid Search.
-- **Impact**: This project highlights the importance of thorough data preprocessing and the impact of feature engineering on model performance. It showcases how combining different models, like LightGBM and KNN, can lead to improved accuracy and robust predictions, essential for medical diagnosis and decision-making.
-- **Results**: The project achieved a high prediction accuracy of 90.6% using a combination of LightGBM and KNN models. The comprehensive approach to handling missing values and creating new features significantly contributed to the model's performance, providing valuable insights into diabetes prediction and prevention.
+- **Description**: This project aims to predict diabetes in the Pima Indian population using machine learning techniques. The dataset includes various medical predictors such as glucose levels, blood pressure, BMI, and more. The project involves extensive exploratory data analysis (EDA) and advanced feature engineering to enhance the accuracy of the predictions.
+- **Tools and Techniques**: Tools and techniques used in this project include Python, Pandas, NumPy, Scikit-learn, LightGBM, and K-Nearest Neighbors (KNN). Key techniques include handling missing values, creating new features through polynomial, interaction, and binary feature creation, feature encoding (one-hot, label, and frequency encoding), and feature scaling (normalization and standardization).
+- **Impact**: The project demonstrates how advanced feature engineering and machine learning techniques can significantly improve the predictive accuracy of diabetes diagnosis. It highlights the importance of preprocessing, feature creation, and model tuning in building effective predictive models.
+- **Results**: The LightGBM model achieved an accuracy of 89.8%, while a hybrid LightGBM-KNN model improved the accuracy to 90.6%. The models' performance was evaluated using various metrics, including accuracy, precision, recall, F1 score, and ROC-AUC. 
 
-![Feature engineering example](img/FeatureEngineering.png)
+*Figure: Glucose vs. Blood Pressure Scatter Plot with Box*  
+![Feature engineering example](img/FeatureEngineering.png)  
+This scatter plot highlights the relationship between glucose levels and blood pressure, with a boxed region indicating the concentration of healthy individuals.
 
-*Figure 1: Model Error Plot - This plot compares model error across multiple models. Bias error is defined as perfect accuracy minus train accuracy. Variance is defined as test error and train error.  Typically it is better to use the difference in dev errer (validation error) and training error.  In the case of our models, there is a wide margin between test error and validation error so I am including it in my variance error calculation.*
-
-[Read More...](https://github.com/rexcoleman/Feature-Engineering-Deep-Dive-Pima-Indians-Pima-Indians)
+*Figure: Final Model Performance Report*  
+![Feature engineering example](img/EDA_Model_Performance_Report.png)  
+The final model performance report shows the confusion matrix, various performance metrics, the ROC curve, and the precision-recall curve for the LightGBM & KNN model.
 
 #### [5.3.2 Project: Outlier Detection and Treatment - Pima Indians](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
 
