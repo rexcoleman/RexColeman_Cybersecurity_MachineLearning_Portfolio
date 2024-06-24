@@ -44,8 +44,8 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.2.1) Hybrid Data Science Methodology - Titanic](#521-hybrid-data-science-methodology---titanic)
         - [5.2.2) CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#522-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
     - [5.3 Data Preparation](#53-data-preparation)
-        - [5.3.1 Data Preparation Project - Outlier Detection and Treatment](#531-data-preparation-project---outlier-detection-and-treatment)
-        - [5.3.2 Data Preparation Project - 
+        - [5.3.1 Project - Feature Engineering Deep Dive: Pima Indians](#531-feature-engineering-pima-indians)
+        - [5.3.2 Project - Outlier Detection and Treatment: Pima Indians](#532-data-preparation-project---outlier-detection-and-treatment)
     - [5.4 Model Specific](#54-model-specific) 
 7. [Proposed Projects](#6-proposed-projects)
     - [6.1 Project: Network Traffic Anomaly Detection](#61-project-network-traffic-anomaly-detection)
@@ -276,7 +276,7 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 
 Data preparation is a critical step in the data science process that directly impacts the quality and reliability of insights and model performance. This report highlights the importance of data preparation, providing a comprehensive overview of its key components, steps, challenges, case studies, and best practices. By embracing structured methodologies for data preparation, data scientists can enhance the quality and efficiency of their projects, leading to more accurate and robust models. The report also discusses the impact of data preparation on model performance and introduces tools and technologies that streamline the process. Understanding and implementing effective data preparation practices is essential for achieving successful outcomes in data science projects. [Read More...](https://github.com/rexcoleman/Data-Preparation-Overview/tree/main)
 
-#### [5.3.1 Data Preparation Project - Outlier Detection and Treatment](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
+#### [5.3.1 Project - Feature Engineering Deep Dive: Pima Indians](https://github.com/rexcoleman/Feature-Engineering-Deep-Dive-Pima-Indians-Pima-Indians)
 - **Description**: This project focuses on predicting diabetes onset using the Pima Indians Diabetes Database. It aims to provide a comprehensive exploratory data analysis (EDA) and develop a robust machine learning model to achieve high prediction accuracy. The project demonstrates the use of various data preprocessing techniques, feature engineering, and machine learning algorithms to optimize the prediction performance.
 - **Tools and Techniques**: The project employs data cleaning techniques to handle missing values, exploratory data analysis for understanding data distribution, and feature engineering to create new informative features. Machine learning techniques such as LightGBM and K-Nearest Neighbors (KNN) are used, along with hyperparameter optimization through Random Search and Grid Search.
 - **Impact**: This project highlights the importance of thorough data preprocessing and the impact of feature engineering on model performance. It showcases how combining different models, like LightGBM and KNN, can lead to improved accuracy and robust predictions, essential for medical diagnosis and decision-making.
@@ -284,7 +284,7 @@ Data preparation is a critical step in the data science process that directly im
 
 
 
-#### [5.3.2 Data Preparation Project - Outlier Detection and Treatment](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
+#### [5.3.2 Project - Outlier Detection and Treatment: Pima Indians](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
 
 #### Executive Summary
 - **Description**: This project addresses the critical task of detecting and handling outliers in datasets. Outliers can significantly skew the results of data analysis, leading to incorrect conclusions and poor model performance. The project aims to demonstrate various techniques for identifying and managing outliers to ensure robust and reliable data analysis.
