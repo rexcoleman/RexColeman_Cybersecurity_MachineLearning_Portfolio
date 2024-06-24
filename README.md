@@ -44,7 +44,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.2.1) Projecdt: Hybrid Data Science Methodology - Titanic](#521-project-hybrid-data-science-methodology---titanic)
         - [5.2.2) Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#522-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
     - [5.3 Data Preparation](#53-data-preparation)
-        - [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#531-project-unlocking-data-potential---advanced-feature-engineering-techniques-for-cdybersecurity)
+        - [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#531-report-unlocking-data-potential---advanced-feature-engineering-techniques-for-cdybersecurity)
         - [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](#532-project-feature-engineering-deep-dive---pima-indians)
         - [5.3.3 Project: Outlier Detection and Treatment - Pima Indians](#533-project-outlier-detection-and-treatment---pima-indians)
     - [5.4 Model Specific](#54-model-specific) 
