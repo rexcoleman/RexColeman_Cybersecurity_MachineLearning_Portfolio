@@ -30,6 +30,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
 4. [Deep Learning](#4-deep-learning)
     - [4.1 Introduction](#41-introduction)
         - [4.1.1 Report: Comparing and Contrasting Deep Learning Models for Cybersecurity Application](#411-report-comparing-and-contrasting-deep-learning-models-for-cybersecurity-application)
+        - [4.1.2 Proposed Report: A Data Journey Through The MITRE ATTACK Framework]
     - [4.2 Completed Deep Learning Projects](#42-completed-deep-learning-projects)
         - [4.2.1 Project: Neutralizing Surveillance Privacy Bias](#421-project-neutralizing-surveillance-privacy-bias)
         - [4.2.2 Project: Enhancing Phishing Detection with Neural Style Transfer](#422-project-enhancing-phishing-detection-with-neural-style-transfer)
@@ -44,6 +45,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.2.2) CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#522-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
     - [5.3 Data Preparation](#53-data-preparation)
         - [5.3.1 Data Preparation Project - Outlier Detection and Treatment](#531-data-preparation-project---outlier-detection-and-treatment)
+        - [5.3.2 Data Preparation Project - 
     - [5.4 Model Specific](#54-model-specific) 
 7. [Proposed Projects](#6-proposed-projects)
     - [6.1 Project: Network Traffic Anomaly Detection](#61-project-network-traffic-anomaly-detection)
