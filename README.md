@@ -251,6 +251,9 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
  [Read More...](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
 
 ### [5.2.3) Project: Methodology Learned from IBM Data Science Professional Certificate](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main)
+### Executive Summary
+
+This repository showcases my journey through the IBM Data Science Professional Certificate program. This specialization provides a comprehensive overview of data science fundamentals, emphasizing practical applications and real-world scenarios.  Each project aligns with the skills and knowledge necessary for a data scientist, culminating in this capstone project forecasting SpaceX rocket launch success: [report](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/blob/main/Capstone_Project_WinningTheSpaceRaceWithDataScience.pdf), [code](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C_10_AppliedDataScienceCapstone). Specifically for this repository, I would like to showcase 4 skills that are not as clearly demonstrated in other parts of my portfolio: web scraping, SQL, interactive map plotting with Folium, and dashboard plotting with Plotly and Dash.
 
 ### [5.3 Data Preparation](https://github.com/rexcoleman/Data-Preparation-Overview/tree/main)
 ### Executive Summary
