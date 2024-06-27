@@ -27,6 +27,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [5.2 Data Science Frameworks](#52-data-science-frameworks)
         - [5.2.1) Projecdt: Hybrid Data Science Methodology - Titanic](#521-project-hybrid-data-science-methodology---titanic)
         - [5.2.2) Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#522-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
+        - [5.2.3) Project: Methodology Learned from IBM Data Science Professional Certificate](#523-project-methodology-learned-from-ibm-data-science-professional-certificate)
     - [5.3 Data Preparation](#53-data-preparation)
         - [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#531-report-unlocking-data-potential---advanced-feature-engineering-techniques-for-cybersecurity)
         - [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](#532-project-feature-engineering-deep-dive---pima-indians)
@@ -248,6 +249,8 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 **Impact**: This project emphasizes the importance of thorough data preparation and feature engineering in building effective machine learning models. It demonstrates how addressing outliers and selecting relevant features can significantly improve model performance. The project also highlights the value of ensemble methods in achieving higher accuracy. By adhering to the CRISP-DM framework, the project ensures a structured approach to data mining, leading to reliable and actionable insights.
 **Results**: The project successfully demonstrated an accuracy of 84.37% on the test set using the Super Learner ensemble method. The rigorous data preparation and model evaluation process, following the CRISP-DM methodology, resulted in robust and reliable predictions for diabetes onset.
  [Read More...](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
+
+### [5.2.3) Project: Methodology Learned from IBM Data Science Professional Certificate](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main)
 
 ### [5.3 Data Preparation](https://github.com/rexcoleman/Data-Preparation-Overview/tree/main)
 ### Executive Summary
