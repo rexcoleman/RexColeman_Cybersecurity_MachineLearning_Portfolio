@@ -255,6 +255,30 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 
 This repository showcases my journey through the IBM Data Science Professional Certificate program. This specialization provides a comprehensive overview of data science fundamentals, emphasizing practical applications and real-world scenarios.  Each project aligns with the skills and knowledge necessary for a data scientist, culminating in this capstone project forecasting SpaceX rocket launch success: [report](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/blob/main/Capstone_Project_WinningTheSpaceRaceWithDataScience.pdf), [code](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C_10_AppliedDataScienceCapstone). Specifically for this repository, I would like to showcase 4 skills that are not as clearly demonstrated in other parts of my portfolio: web scraping, SQL, interactive map plotting with Folium, and dashboard plotting with Plotly and Dash.
 
+![Web_Scraping](img/html_table.png)
+
+*Figure 1: [HTML Tables](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches) showing list of Falcon 9 and Falcon Heavy launches.*
+
+![Web_Scraping](img/dratframe_created_from_webscraping.png)
+
+*Figure 2: Result Pandas DataFrame from BeautifulSoup webscraping.*
+
+![sql](img/sql.png)
+
+*Figure 3: SQL analysis ranking landing outcomes between 2010-06-04 and 2017-03-20.*
+
+![sql](img/folium_map_launch_sites.png)
+
+*Figure 4: Interactive folium map showing SpaceX launch sites.*
+
+![SQL](img/folium_map_success_failurs_at_site.png)
+
+*Figure 4: Interactive folium map showing launch success/failures at a specific launch site using marker-clusters.*
+
+![Dashboard](img/interactive_plotly_dashboard_2.png)
+
+*Figure 5: Plotly interactive dashborad showing launch successes by launch site.  Kennedy Space Center has the highest successful launch rate.*
+
 ### [5.3 Data Preparation](https://github.com/rexcoleman/Data-Preparation-Overview/tree/main)
 ### Executive Summary
 
