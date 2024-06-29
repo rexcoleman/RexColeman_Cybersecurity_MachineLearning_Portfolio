@@ -294,14 +294,12 @@ Data preparation is a critical step in the data science process that directly im
 - **Tools and Techniques**: Tools and techniques used in this project include Python, Pandas, NumPy, Scikit-learn, LightGBM, and K-Nearest Neighbors (KNN). Key techniques include handling missing values, creating new features through polynomial, interaction, and binary feature creation, feature encoding (one-hot, label, and frequency encoding), and feature scaling (normalization and standardization).
 - **Impact**: The project demonstrates how advanced feature engineering and machine learning techniques can significantly improve the predictive accuracy of diabetes diagnosis. It highlights the importance of preprocessing, feature creation, and model tuning in building effective predictive models.
 - **Results**: The LightGBM model achieved an accuracy of 89.8%, while a hybrid LightGBM-KNN model improved the accuracy to 90.6%. The models' performance was evaluated using various metrics, including accuracy, precision, recall, F1 score, and ROC-AUC. 
-
-*Figure: Glucose vs. Blood Pressure Scatter Plot with Box*  
+ 
 ![Feature engineering example](img/FeatureEngineering.png)  
-This scatter plot highlights the relationship between glucose levels and blood pressure, with a boxed region indicating the concentration of healthy individuals.
-
-*Figure: Final Model Performance Report*  
+*Figure: Glucose vs. Blood Pressure Scatter Plot with Box: This scatter plot highlights the relationship between glucose levels and blood pressure, with a boxed region indicating the concentration of healthy individuals.* 
+  
 ![Feature engineering example](img/EDA_Model_Performance_Report.png)  
-The final model performance report shows the confusion matrix, various performance metrics, the ROC curve, and the precision-recall curve for the LightGBM & KNN model.
+*Figure: Final Model Performance Report: The final model performance report shows the confusion matrix, various performance metrics, the ROC curve, and the precision-recall curve for the LightGBM & KNN model.*
 
 #### [5.3.3 Project: Outlier Detection and Treatment - Pima Indians](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
 
