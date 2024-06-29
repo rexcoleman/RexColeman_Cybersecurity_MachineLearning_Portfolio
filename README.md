@@ -22,7 +22,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [4.2.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis](#424-project-unlocking-cybersecurity-potential-with-sentiment-analysis)
 5. [Data Science Process](#5-data-science-process)
     - [5.1 Introduction](#51-introduction)
-        - [5.1.1 Report: Data-Driven Defense - Adapting Data Science Methodologies for Cybersecurity Excellence](#511-data-driven-defense-adapting-data-science-methodologies-for-cybersecurity-excellence)
+        - [5.1.1 Report: Data-Driven Defense - Adapting Data Science Methodologies for Cybersecurity Excellence](#511-report-data-driven-defense---adapting-data-science-methodologies-for-cybersecurity-excellence)
         - [5.1.2 Project: Hybrid Data Science Methodology - Titanic](#512-project-hybrid-data-science-methodology---titanic)
         - [5.1.3 Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#513-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
         - [5.1.4 Project: Methodology Learned from IBM Data Science Professional Certificate](#514-project-methodology-learned-from-ibm-data-science-professional-certificate)
