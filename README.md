@@ -31,7 +31,6 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [5.3 Data Preparation](#53-data-preparation)
         - [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#531-report-unlocking-data-potential---advanced-feature-engineering-techniques-for-cybersecurity)
         - [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](#532-project-feature-engineering-deep-dive---pima-indians)
-
         - [5.3.3 Project: Outlier Detection and Treatment - Pima Indians](#533-project-outlier-detection-and-treatment---pima-indians)
     - [5.4 Model Specific](#54-model-specific) 
 7. [Proposed Projects](#6-proposed-projects)
@@ -304,7 +303,7 @@ This scatter plot highlights the relationship between glucose levels and blood p
 ![Feature engineering example](img/EDA_Model_Performance_Report.png)  
 The final model performance report shows the confusion matrix, various performance metrics, the ROC curve, and the precision-recall curve for the LightGBM & KNN model.
 
-#### [5.3.2 Project: Outlier Detection and Treatment - Pima Indians](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
+#### [5.3.3 Project: Outlier Detection and Treatment - Pima Indians](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
 
 #### Executive Summary
 - **Description**: This project addresses the critical task of detecting and handling outliers in datasets. Outliers can significantly skew the results of data analysis, leading to incorrect conclusions and poor model performance. The project aims to demonstrate various techniques for identifying and managing outliers to ensure robust and reliable data analysis.
