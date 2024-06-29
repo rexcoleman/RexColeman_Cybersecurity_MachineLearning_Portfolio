@@ -32,7 +32,8 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#531-report-unlocking-data-potential---advanced-feature-engineering-techniques-for-cybersecurity)
         - [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](#532-project-feature-engineering-deep-dive---pima-indians)
         - [5.3.3 Project: Outlier Detection and Treatment - Pima Indians](#533-project-outlier-detection-and-treatment---pima-indians)
-    - [5.4 Model Specific](#54-model-specific) 
+    - [5.4 Model Specific](#54-model-specific)
+        - [5.4.1 Projrect: TensorFlow - Decision Forest - Titanic](#541-project-tensorflow-decision-forest-titanic)  
 7. [Proposed Projects](#6-proposed-projects)
     - [6.1 Project: Network Traffic Anomaly Detection](#61-project-network-traffic-anomaly-detection)
     - [6.2 Project: Threat Intelligence Aggregation](#62-project-threat-intelligence-aggregation)
@@ -310,7 +311,8 @@ Data preparation is a critical step in the data science process that directly im
 - **Results**: The project successfully demonstrated multiple methods for detecting outliers and showcased the impact of outliers on statistical measures like mean and standard deviation. By applying these techniques, the project highlighted best practices for ensuring data quality and model robustness. [Read More...](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
 
 ### 5.4 Model Specific
-Kaggle competitions provide a platform to experiment with various model-specific techniques and architectures. This includes fine-tuning hyperparameters, implementing ensemble methods, and applying transfer learning. Through iterative experimentation, data scientists can optimize their models to achieve the best possible performance.
+
+#### [5.4.1 Projrect: TensorFlow - Decision Forest - Titanic]()
 
 ## 6. Proposed Projects
 
