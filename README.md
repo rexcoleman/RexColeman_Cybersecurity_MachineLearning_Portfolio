@@ -312,7 +312,7 @@ Data preparation is a critical step in the data science process that directly im
 
 ### 5.4 Model Specific
 
-#### [5.4.1 Project: TensorFlow - Decision Forest - Titanic]()
+#### 5.4.1 Project: TensorFlow - Decision Forest - Titanic
 
 ## 6. Proposed Projects
 
