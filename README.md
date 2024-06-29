@@ -213,17 +213,16 @@ Releated Malware Families                             | Unreleated Malware Famil
 
 ### 5.1 Introduction
 
-#### [5.1.1 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](https://github.com/rexcoleman/Kaggle-Competition-Value-Proposition-For-Advancing-Data-Science/tree/main)
+### [5.1.1 Data Science Methodologies](https://github.com/rexcoleman/Importance-of-Structured-Approaches-in-Data-Science/tree/main)
+In today's rapidly evolving landscape of data science and artificial intelligence (AI), the strategic significance of structured approaches cannot be overstated. These methodologies serve as frameworks for honing technical skills, fostering innovation, and deriving actionable insights that can drive competitive advantage and mitigate risks in various fields, including cybersecurity. This report explores how structured approaches like CRISP-DM, TDSP, Agile Data Science, and Lean Data Science enhance data science proficiency, exemplify real-world applications, and align strategic goals with business imperatives. [Read More...](https://github.com/rexcoleman/Importance-of-Structured-Approaches-in-Data-Science/tree/main)
+
+#### [5.1.1.2 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](https://github.com/rexcoleman/Kaggle-Competition-Value-Proposition-For-Advancing-Data-Science/tree/main)
 
 In today's rapidly evolving landscape of data science and artificial intelligence (AI), the strategic significance of Kaggle competitions cannot be overstated. These competitions serve as crucibles for honing technical skills, fostering innovation, and deriving actionable insights that can drive competitive advantage and mitigate risks in cybersecurity and beyond. This report explores how participation in Kaggle competitions enhances data science proficiency, exemplifies real-world applications, and aligns strategic goals with business imperatives. [Read More...](https://github.com/rexcoleman/Kaggle-Competition-Value-Proposition-For-Advancing-Data-Science/tree/main)
 
 #### [5.1.2 Report: How to Win Kaggle Competitions](https://github.com/rexcoleman/How-To-Win-Kaggle-Competitions)
 
 In today's rapidly evolving landscape of data science and artificial intelligence (AI), Kaggle competitions serve as crucial platforms for honing technical skills, fostering innovation, and solving real-world problems. This report provides a detailed guide on how to succeed in Kaggle competitions, outlining key steps such as initial data exploration, data cleaning, feature engineering, model development, validation, ensemble methods, and effective collaboration. Each step is ranked based on its impact on success, providing a strategic framework for participants aiming to achieve top performance. By understanding and applying these insights, data scientists can significantly enhance their chances of winning Kaggle competitions and deriving actionable insights that drive competitive advantage in various fields, including cybersecurity. [Read More...](https://github.com/rexcoleman/How-To-Win-Kaggle-Competitions)
-
-
-### [5.2 Data Science Frameworks](https://github.com/rexcoleman/Importance-of-Structured-Approaches-in-Data-Science/tree/main)
-In today's rapidly evolving landscape of data science and artificial intelligence (AI), the strategic significance of structured approaches cannot be overstated. These methodologies serve as frameworks for honing technical skills, fostering innovation, and deriving actionable insights that can drive competitive advantage and mitigate risks in various fields, including cybersecurity. This report explores how structured approaches like CRISP-DM, TDSP, Agile Data Science, and Lean Data Science enhance data science proficiency, exemplify real-world applications, and align strategic goals with business imperatives. [Read More...](https://github.com/rexcoleman/Importance-of-Structured-Approaches-in-Data-Science/tree/main)
 
 #### [5.2.1) Project: Hybrid Data Science Methodology - Titanic](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
 #### Executive Summary
