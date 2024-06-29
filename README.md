@@ -25,7 +25,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.1.1 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](#511-report-strategic-importance-of-kaggle-competitions-in-advancing-data-science)
         - [5.1.2 Report: How to Win Kaggle Competitions](#512-report-how-to-win-kaggle-competitions)
     - [5.2 Data Science Frameworks](#52-data-science-frameworks)
-        - [5.2.1) Projecdt: Hybrid Data Science Methodology - Titanic](#521-project-hybrid-data-science-methodology---titanic)
+        - [5.2.1) Project: Hybrid Data Science Methodology - Titanic](#521-project-hybrid-data-science-methodology---titanic)
         - [5.2.2) Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#522-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
         - [5.2.3) Project: Methodology Learned from IBM Data Science Professional Certificate](#523-project-methodology-learned-from-ibm-data-science-professional-certificate)
     - [5.3 Data Preparation](#53-data-preparation)
