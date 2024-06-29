@@ -20,7 +20,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [4.2.2 Project: Enhancing Phishing Detection with Neural Style Transfer](#422-project-enhancing-phishing-detection-with-neural-style-transfer)
         - [4.2.3 Project: U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](#423-project-u-net-in-cybersecurity-precision-image-segmentation-for-enhanced-security-measures)
         - [4.2.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis](#424-project-unlocking-cybersecurity-potential-with-sentiment-analysis)
-5. Data Science Process
+5. [Data Science Process](#5-data-science-process)
     - [5.1 Introduction](#51-introduction)    
         - [5.1.1 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](#511-report-strategic-importance-of-kaggle-competitions-in-advancing-data-science)
         - [5.1.2 Report: How to Win Kaggle Competitions](#512-report-how-to-win-kaggle-competitions)
@@ -209,7 +209,7 @@ Releated Malware Families                             | Unreleated Malware Famil
 
 [Read More...](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
 
-## 5. Strategic Insights from Kaggle Competitions
+## 5. Data Science Process
 
 ### 5.1 Introduction
 
