@@ -33,7 +33,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](#532-project-feature-engineering-deep-dive---pima-indians)
         - [5.3.3 Project: Outlier Detection and Treatment - Pima Indians](#533-project-outlier-detection-and-treatment---pima-indians)
     - [5.4 Model Specific](#54-model-specific)
-        - [5.4.1 Project: TensorFlow - Decision Forest - Titanic](#541-project-tensorflow---decision---forest-titanic)  
+        - [5.4.1 Project: TensorFlow - Decision Forest - Titanic](#541-project-tensorflow---decision-forest---titanic)
 7. [Proposed Projects](#6-proposed-projects)
     - [6.1 Project: Network Traffic Anomaly Detection](#61-project-network-traffic-anomaly-detection)
     - [6.2 Project: Threat Intelligence Aggregation](#62-project-threat-intelligence-aggregation)
