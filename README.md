@@ -262,6 +262,10 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 **Results**: The project successfully demonstrated an accuracy of 84.37% on the test set using the Super Learner ensemble method. The rigorous data preparation and model evaluation process, following the CRISP-DM methodology, resulted in robust and reliable predictions for diabetes onset.
  [Read More...](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
 
+ <img src="img/variable_importance.png" alt="Feature Importance" width="600">
+
+*Figure 1: Feature importance analysis was conducted to understand which features contributed most to the model predictions. This analysis also enhanced model interpretability and trustworthiness.*
+ 
 ### [5.1.6 Project: IBM Data Science Methodology](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main)
 ### Executive Summary
 
