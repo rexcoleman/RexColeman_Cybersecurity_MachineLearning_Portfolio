@@ -321,6 +321,10 @@ Data preparation is a critical step in the data science process that directly im
 - **Impact**: This project emphasizes the importance of outlier detection and treatment in data analysis and machine learning. By identifying and appropriately handling outliers, data scientists can improve the accuracy and reliability of their models, leading to better decision-making and insights.
 - **Results**: The project successfully demonstrated multiple methods for detecting outliers and showcased the impact of outliers on statistical measures like mean and standard deviation. By applying these techniques, the project highlighted best practices for ensuring data quality and model robustness. [Read More...](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
 
+Box Plot Before Median Imputation                     | Box Plot Before Median Imputation 
+:---------------------------------------------------: | :---------------------------------------------------:
+![Box Plot Before Median Imputation](img/box_plot_before_mediun_imputation.png) | ![Box Plot Before Median Imputation ](box_plot_after_median_imputation.png)
+
 ### 5.4 Model Specific
 
 #### [5.4.1 Project: TensorFlow - Decision Forest - Titanic](https://github.com/rexcoleman/TensorFlow-Decision-Forest-Titanic)
