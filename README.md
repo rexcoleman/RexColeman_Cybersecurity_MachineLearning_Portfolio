@@ -32,8 +32,9 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.2.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#521-report-unlocking-data-potential---advanced-feature-engineering-techniques-for-cybersecurity)
         - [5.2.2 Project: Feature Engineering Deep Dive - Pima Indians](#522-project-feature-engineering-deep-dive---pima-indians)
         - [5.2.3 Project: Outlier Detection and Treatment - Pima Indians](#523-project-outlier-detection-and-treatment---pima-indians)
-    - [5.3 Model Specific](#53-model-specific)
-        - [5.3.1 Project: TensorFlow - Decision Forest - Titanic](#531-project-tensorflow---decision-forest---titanic)
+    - [5.3 Modeling](#53-modeling)
+        - [5.3.1 Report: Data Science Model Selection in Cybersecurity](#531-report-data-science-model-selection-in-cybersecurity)
+        - [5.3.2 Project: TensorFlow - Decision Forest - Titanic](#532-project-tensorflow---decision-forest---titanic)
 7. [Proposed Projects](#6-proposed-projects)
     - [6.1 Project: Network Traffic Anomaly Detection](#61-project-network-traffic-anomaly-detection)
     - [6.2 Project: Threat Intelligence Aggregation](#62-project-threat-intelligence-aggregation)
@@ -336,9 +337,11 @@ Box Plot Before Median Imputation                     | Box Plot Before Median I
 :---------------------------------------------------: | :---------------------------------------------------:
 ![Box Plot Before Median Imputation](img/box_plot_before_mediun_imputation.png) | ![Box Plot Before Median Imputation ](img/box_plot_after_median_imputation.png)
 
-### 5.3 Model Specific
+### 5.3 Modeling
 
-#### [5.3.1 Project: TensorFlow - Decision Forest - Titanic](https://github.com/rexcoleman/TensorFlow-Decision-Forest-Titanic)
+#### [5.3.1 Report: Data Science Model Selection in Cybersecurity](https://github.com/rexcoleman/Data-Science-Model-Selection-in-Cybersecurity/tree/main)
+
+#### [5.3.2 Project: TensorFlow - Decision Forest - Titanic](https://github.com/rexcoleman/TensorFlow-Decision-Forest-Titanic)
 
 ## 6. Proposed Projects
 
