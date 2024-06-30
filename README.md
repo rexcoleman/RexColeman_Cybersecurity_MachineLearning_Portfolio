@@ -209,14 +209,6 @@ Releated Malware Families                             | Unreleated Malware Famil
 
 [Read More...](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
 
-
-        - [5.1.1 Report: Data-Driven Defense - Adapting Data Science Methodologies for Cybersecurity Excellence](#511-report-data-driven-defense---adapting-data-science-methodologies-for-cybersecurity-excellence)
-        - [5.1.2 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](#512-report-strategic-importance-of-kaggle-competitions-in-advancing-data-science)
-        - [5.1.3 Report: How to Win Kaggle Competitions](#513-report-how-to-win-kaggle-competitions)
-        - [5.1.4 Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#513-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
-        - [5.1.5 Project: Hybrid Data Science Methodology - Titanic](#514-project-hybrid-data-science-methodology---titanic)
-        - [5.1.6 Project: IBM Data Science Methodology](#515-project-methodology-learned-from-ibm-data-science-professional-certificate)
-
 ## 5. Data Science Process
 
 ### 5.1 Introduction
@@ -277,7 +269,7 @@ This repository showcases my journey through the IBM Data Science Professional C
 
 ![Web_Scraping](img/html_table.png)
 
-*Figure 1: [HTML Tables](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches) showing list of Falcon 9 and Falcon Heavy launches.*
+*Figure 1: [Web Scraping Target HTML Tables](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches) showing list of Falcon 9 and Falcon Heavy launches.*
 
 ![Web_Scraping](img/dratframe_created_from_webscraping.png)
 
