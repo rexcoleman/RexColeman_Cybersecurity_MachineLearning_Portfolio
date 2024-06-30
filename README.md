@@ -323,7 +323,7 @@ Data preparation is a critical step in the data science process that directly im
 
 Box Plot Before Median Imputation                     | Box Plot Before Median Imputation 
 :---------------------------------------------------: | :---------------------------------------------------:
-![Box Plot Before Median Imputation](img/box_plot_before_mediun_imputation.png) | ![Box Plot Before Median Imputation ](box_plot_after_median_imputation.png)
+![Box Plot Before Median Imputation](img/box_plot_before_mediun_imputation.png) | ![Box Plot Before Median Imputation ](img/box_plot_after_median_imputation.png)
 
 ### 5.4 Model Specific
 
