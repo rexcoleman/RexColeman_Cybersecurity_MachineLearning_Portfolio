@@ -263,15 +263,9 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 
 Releated Malware Families                             | Unreleated Malware Families
 :---------------------------------------------------: | :---------------------------------------------------:
-<img src="img/CRISP-DM_Process_Diagram.png" alt="CRISP-DM" width="400"> | <img src="img/variable_importance.png" alt="Feature Importance" width="400">
+<img src="img/CRISP-DM_Process_Diagram.png" alt="CRISP-DM" width="400"> | <img src="img/variable_importance.png" alt="Feature Importance" width="420">
 
-<img src="img/CRISP-DM_Process_Diagram.png" alt="CRISP-DM" width="400">
-
-*Figure 1: CRISP-DM diagram*
-
- <img src="img/variable_importance.png" alt="Feature Importance" width="400">
-
-*Figure 2: Feature importance analysis was conducted to understand which features contributed most to the model predictions. This analysis also enhanced model interpretability and trustworthiness.*
+*Figure 1: CRISP-DM diagram (left) and feature importance analysis (right) feature importance analysis was conducted to understand which features contributed most to the model predictions. This analysis also enhanced model interpretability and trustworthiness.*
 
 [Read More...](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
  
