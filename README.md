@@ -23,13 +23,13 @@ This portfolio demonstrates the strategic importance of data science in enhancin
 5. [Data Science Process](#5-data-science-process)
     - [5.1 Introduction](#51-introduction)
         - [5.1.1 Report: Data-Driven Defense - Adapting Data Science Methodologies for Cybersecurity Excellence](#511-report-data-driven-defense---adapting-data-science-methodologies-for-cybersecurity-excellence)
-        - [5.1.2 Project: Hybrid Data Science Methodology - Titanic](#512-project-hybrid-data-science-methodology---titanic)
-        - [5.1.3 Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#513-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
-        - [5.1.4 Project: Methodology Learned from IBM Data Science Professional Certificate](#514-project-methodology-learned-from-ibm-data-science-professional-certificate)
-        - [5.1.5 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](#515-report-strategic-importance-of-kaggle-competitions-in-advancing-data-science)
-        - [5.1.6 Report: How to Win Kaggle Competitions](#516-report-how-to-win-kaggle-competitions)
+        - [5.1.2 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](#512-report-strategic-importance-of-kaggle-competitions-in-advancing-data-science)
+        - [5.1.3 Report: How to Win Kaggle Competitions](#513-report-how-to-win-kaggle-competitions)
+        - [5.1.4 Project: Hybrid Data Science Methodology - Titanic](#514-project-hybrid-data-science-methodology---titanic)
+        - [5.1.5 Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#515-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
+        - [5.1.6 Project: IBM Data Science Methodology](#515-project-methodology-learned-from-ibm-data-science-professional-certificate)
     - [5.3 Data Preparation](#53-data-preparation)
-        - [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#531-report-unlocking-data-potential---advanced-feature-engineering-techniques-for-cybersecurity)
+        - [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#536-report-unlocking-data-potential---advanced-feature-engineering-techniques-for-cybersecurity)
         - [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](#532-project-feature-engineering-deep-dive---pima-indians)
         - [5.3.3 Project: Outlier Detection and Treatment - Pima Indians](#533-project-outlier-detection-and-treatment---pima-indians)
     - [5.4 Model Specific](#54-model-specific)
@@ -209,6 +209,14 @@ Releated Malware Families                             | Unreleated Malware Famil
 
 [Read More...](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
 
+
+        - [5.1.1 Report: Data-Driven Defense - Adapting Data Science Methodologies for Cybersecurity Excellence](#511-report-data-driven-defense---adapting-data-science-methodologies-for-cybersecurity-excellence)
+        - [5.1.2 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](#512-report-strategic-importance-of-kaggle-competitions-in-advancing-data-science)
+        - [5.1.3 Report: How to Win Kaggle Competitions](#513-report-how-to-win-kaggle-competitions)
+        - [5.1.4 Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#513-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
+        - [5.1.5 Project: Hybrid Data Science Methodology - Titanic](#514-project-hybrid-data-science-methodology---titanic)
+        - [5.1.6 Project: IBM Data Science Methodology](#515-project-methodology-learned-from-ibm-data-science-professional-certificate)
+
 ## 5. Data Science Process
 
 ### 5.1 Introduction
@@ -226,17 +234,17 @@ By examining both theoretical aspects and practical applications, this report ai
 
 *Figure 2: IBM Data Science Methodology flowchart*
 
-#### [5.1.1.2 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](https://github.com/rexcoleman/Kaggle-Competition-Value-Proposition-For-Advancing-Data-Science/tree/main)
+### [5.1.2 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](https://github.com/rexcoleman/Kaggle-Competition-Value-Proposition-For-Advancing-Data-Science/tree/main)
 #### Executive Summary
 
 In today's rapidly evolving landscape of data science and artificial intelligence (AI), the strategic significance of Kaggle competitions cannot be overstated. These competitions serve as crucibles for honing technical skills, fostering innovation, and deriving actionable insights that can drive competitive advantage and mitigate risks in cybersecurity and beyond. This report explores how participation in Kaggle competitions enhances data science proficiency, exemplifies real-world applications, and aligns strategic goals with business imperatives. [Read More...](https://github.com/rexcoleman/Kaggle-Competition-Value-Proposition-For-Advancing-Data-Science/tree/main)
 
-#### [5.1.2 Report: How to Win Kaggle Competitions](https://github.com/rexcoleman/How-To-Win-Kaggle-Competitions)
+### [5.1.3 Report: How to Win Kaggle Competitions](https://github.com/rexcoleman/How-To-Win-Kaggle-Competitions)
 #### Executive Summary
 
 In today's rapidly evolving landscape of data science and artificial intelligence (AI), Kaggle competitions serve as crucial platforms for honing technical skills, fostering innovation, and solving real-world problems. This report provides a detailed guide on how to succeed in Kaggle competitions, outlining key steps such as initial data exploration, data cleaning, feature engineering, model development, validation, ensemble methods, and effective collaboration. Each step is ranked based on its impact on success, providing a strategic framework for participants aiming to achieve top performance. By understanding and applying these insights, data scientists can significantly enhance their chances of winning Kaggle competitions and deriving actionable insights that drive competitive advantage in various fields, including cybersecurity. [Read More...](https://github.com/rexcoleman/How-To-Win-Kaggle-Competitions)
 
-#### [5.2.1) Project: Hybrid Data Science Methodology - Titanic](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
+#### [5.1.4) Project: Hybrid Data Science Methodology - Titanic](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
 #### Executive Summary
 
 - **Description**: This project provides a comprehensive framework to help beginners in the field of data science understand and apply essential concepts and techniques. It uses the Kaggle Titanic dataset to illustrate the process of defining a problem, gathering and preparing data, performing exploratory analysis, modeling data, and evaluating model performance.
@@ -254,7 +262,7 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 
 [Read More...](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
 
-#### [5.2.2) Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
+#### [5.1.5) Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
 
 **Description**: This project addresses the prediction of the onset of diabetes based on diagnostic measures using the Pima Indians Diabetes Database. The project follows the CRISP-DM (Cross Industry Standard Process for Data Mining) framework to develop a comprehensive machine learning pipeline that includes data preparation, visualization, outlier detection, feature engineering, and model evaluation.
 **Tools and Techniques**: The project employs various data preparation techniques, including standardization, MinMax scaling, and outlier removal methods such as the Tukey method. Feature selection is performed using correlation analysis and feature importance measures. Multiple machine learning algorithms are evaluated, including Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Decision Tree, AdaBoost, Gradient Boosting, Random Forest, and Extra Trees. Ensemble methods such as voting and stacking are also implemented.
@@ -262,10 +270,10 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 **Results**: The project successfully demonstrated an accuracy of 84.37% on the test set using the Super Learner ensemble method. The rigorous data preparation and model evaluation process, following the CRISP-DM methodology, resulted in robust and reliable predictions for diabetes onset.
  [Read More...](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
 
-### [5.2.3) Project: Methodology Learned from IBM Data Science Professional Certificate](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main)
+### [5.1.6 Project: IBM Data Science Methodology](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main)
 ### Executive Summary
 
-This repository showcases my journey through the IBM Data Science Professional Certificate program. This specialization provides a comprehensive overview of data science fundamentals, emphasizing practical applications and real-world scenarios.  Each project aligns with the skills and knowledge necessary for a data scientist, culminating in this capstone project forecasting SpaceX rocket launch success: [report](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/blob/main/Capstone_Project_WinningTheSpaceRaceWithDataScience.pdf), [code](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C_10_AppliedDataScienceCapstone). Specifically for this repository, I would like to showcase 4 skills that are not as clearly demonstrated in other parts of my portfolio: i) web scraping, ii) SQL, iii) interactive map plotting with Folium and iv) dashboard plotting with Plotly and Dash.
+This repository showcases my journey through the IBM Data Science Professional Certificate program. This specialization provides a comprehensive overview of data science fundamentals, emphasizing practical applications and real-world scenarios.  Each project aligns with the skills and knowledge necessary for a data scientist, culminating in this capstone project forecasting SpaceX rocket launch success: [report](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/blob/main/Capstone_Project_WinningTheSpaceRaceWithDataScience.pdf), [code](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C_10_AppliedDataScienceCapstone). Specifically for this repository, I showcase 4 skills that are as clearly demonstrated in other parts of my portfolio: i) web scraping, ii) SQL, iii) interactive map plotting with Folium and iv) dashboard plotting with Plotly and Dash.
 
 ![Web_Scraping](img/html_table.png)
 
