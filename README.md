@@ -261,6 +261,10 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 **Impact**: This project emphasizes the importance of thorough data preparation and feature engineering in building effective machine learning models. It demonstrates how addressing outliers and selecting relevant features can significantly improve model performance. The project also highlights the value of ensemble methods in achieving higher accuracy. By adhering to the CRISP-DM framework, the project ensures a structured approach to data mining, leading to reliable and actionable insights.
 **Results**: The project successfully demonstrated an accuracy of 84.37% on the test set using the Super Learner ensemble method. The rigorous data preparation and model evaluation process, following the CRISP-DM methodology, resulted in robust and reliable predictions for diabetes onset.
 
+Releated Malware Families                             | Unreleated Malware Families
+:---------------------------------------------------: | :---------------------------------------------------:
+<img src="img/CRISP-DM_Process_Diagram.png" alt="CRISP-DM" width="400"> | <img src="img/variable_importance.png" alt="Feature Importance" width="400">
+
 <img src="img/CRISP-DM_Process_Diagram.png" alt="CRISP-DM" width="400">
 
 *Figure 1: CRISP-DM diagram*
