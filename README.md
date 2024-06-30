@@ -28,12 +28,12 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.1.4 Project: Hybrid Data Science Methodology - Titanic](#514-project-hybrid-data-science-methodology---titanic)
         - [5.1.5 Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#515-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
         - [5.1.6 Project: IBM Data Science Methodology](#516-project-ibm-data-science-methodology)
-    - [5.3 Data Preparation](#53-data-preparation)
-        - [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#536-report-unlocking-data-potential---advanced-feature-engineering-techniques-for-cybersecurity)
-        - [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](#532-project-feature-engineering-deep-dive---pima-indians)
-        - [5.3.3 Project: Outlier Detection and Treatment - Pima Indians](#533-project-outlier-detection-and-treatment---pima-indians)
-    - [5.4 Model Specific](#54-model-specific)
-        - [5.4.1 Project: TensorFlow - Decision Forest - Titanic](#541-project-tensorflow---decision-forest---titanic)
+    - [5.2 Data Preparation](#52-data-preparation)
+        - [5.2.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#521-report-unlocking-data-potential---advanced-feature-engineering-techniques-for-cybersecurity)
+        - [5.2.2 Project: Feature Engineering Deep Dive - Pima Indians](#522-project-feature-engineering-deep-dive---pima-indians)
+        - [5.2.3 Project: Outlier Detection and Treatment - Pima Indians](#523-project-outlier-detection-and-treatment---pima-indians)
+    - [5.3 Model Specific](#53-model-specific)
+        - [5.3.1 Project: TensorFlow - Decision Forest - Titanic](#531-project-tensorflow---decision-forest---titanic)
 7. [Proposed Projects](#6-proposed-projects)
     - [6.1 Project: Network Traffic Anomaly Detection](#61-project-network-traffic-anomaly-detection)
     - [6.2 Project: Threat Intelligence Aggregation](#62-project-threat-intelligence-aggregation)
@@ -299,7 +299,7 @@ Data preparation is a critical step in the data science process that directly im
 
 #### [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](https://github.com/rexcoleman/Unlocking-Data-Potential-Advanced-Feature-Engineering-Techniques-for-Cybersecurity)
 
-# Executive Summary
+#### Executive Summary
 
 Feature engineering is a critical aspect of the data science process, involving the transformation of raw data into meaningful features that enhance model performance. This report delves into the fundamentals and advanced techniques of feature engineering, emphasizing its application in cybersecurity. By exploring various methods such as feature creation, encoding techniques, scaling, and dimensionality reduction, this report highlights how feature engineering can improve the detection of cyber threats, malware analysis, and fraud detection. The report aims to provide a comprehensive guide for data scientists and cybersecurity professionals to leverage feature engineering for robust and effective cybersecurity solutions. [Read More...]((https://github.com/rexcoleman/Unlocking-Data-Potential-Advanced-Feature-Engineering-Techniques-for-Cybersecurity))
 
