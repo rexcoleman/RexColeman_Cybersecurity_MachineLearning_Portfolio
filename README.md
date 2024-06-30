@@ -27,7 +27,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.1.3 Report: How to Win Kaggle Competitions](#513-report-how-to-win-kaggle-competitions)
         - [5.1.4 Project: Hybrid Data Science Methodology - Titanic](#514-project-hybrid-data-science-methodology---titanic)
         - [5.1.5 Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#515-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
-        - [5.1.6 Project: IBM Data Science Methodology](#515-project-methodology-learned-from-ibm-data-science-professional-certificate)
+        - [5.1.6 Project: IBM Data Science Methodology](#516-project-ibm-data-science-methodology)
     - [5.3 Data Preparation](#53-data-preparation)
         - [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#536-report-unlocking-data-potential---advanced-feature-engineering-techniques-for-cybersecurity)
         - [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](#532-project-feature-engineering-deep-dive---pima-indians)
