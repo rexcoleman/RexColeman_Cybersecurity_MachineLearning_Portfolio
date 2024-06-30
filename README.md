@@ -213,14 +213,18 @@ Releated Malware Families                             | Unreleated Malware Famil
 
 ### 5.1 Introduction
 
-### [5.1.1 Report: Data-Driven Defense - Adapting Data Science Methodologies for Cybersecurity Excellence](#511-data-driven-defense-adapting-data-science-methodologies-for-cybersecurity-excellence)
+### [5.1.1 Report: Data-Driven Defense - Adapting Data Science Methodologies for Cybersecurity Excellence](https://github.com/rexcoleman/Data-Driven-Defense-Adapting-Data-Science-Methodologies-for-Cybersecurity-Excellence)
 #### Executive Summary
 
 In today's rapidly evolving cyber threat landscape, integrating data science methodologies into cybersecurity practices has become essential. This report explores both general and specialized data science methodologies, including CRISP-DM, IBM Data Science Methodology, and cybersecurity-specific frameworks such as CSDS. By examining how these methodologies can be adapted to meet the complex challenges of cybersecurity, this report provides a comprehensive overview of their role in enhancing detection capabilities and preventative measures.
 
 Key topics covered include the strategic implementation of predictive analytics to foresee potential breaches and the deployment of sophisticated machine learning models that dynamically respond to emerging threats. Through practical case studies, the report illustrates the effectiveness of these methodologies in real-world scenarios, highlighting their potential to significantly improve the prediction, detection, and mitigation of cyber threats. The ultimate goal is to demonstrate how data science-driven strategies can form the foundation of robust cybersecurity efforts, thereby increasing organizational resilience against cyber-attacks.
 
-By examining both theoretical aspects and practical applications, this report aims to equip cybersecurity professionals with the knowledge and tools necessary to select and implement the most appropriate methodologies. In doing so, it seeks to transform their security strategies into proactive, data-informed defenses capable of effectively managing today's digital threats. [Read More...](https://github.com/rexcoleman/Importance-of-Structured-Approaches-in-Data-Science/tree/main)
+By examining both theoretical aspects and practical applications, this report aims to equip cybersecurity professionals with the knowledge and tools necessary to select and implement the most appropriate methodologies. In doing so, it seeks to transform their security strategies into proactive, data-informed defenses capable of effectively managing today's digital threats. [Read More...](https://github.com/rexcoleman/Data-Driven-Defense-Adapting-Data-Science-Methodologies-for-Cybersecurity-Excellence)
+
+<img src="img/datascience_methodology_flowchart.png" alt="IBM" width="600">
+
+*Figure 2: IBM Data Science Methodology flowchart*
 
 #### [5.1.1.2 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](https://github.com/rexcoleman/Kaggle-Competition-Value-Proposition-For-Advancing-Data-Science/tree/main)
 #### Executive Summary
