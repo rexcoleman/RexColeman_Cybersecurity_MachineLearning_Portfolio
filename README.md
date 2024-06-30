@@ -273,7 +273,7 @@ This repository showcases my journey through the IBM Data Science Professional C
 
 ![Web_Scraping](img/dratframe_created_from_webscraping.png)
 
-*Figure 2: Result Pandas DataFrame from BeautifulSoup webscraping.*
+*Figure 2: Resulting Pandas DataFrame from BeautifulSoup webscraping.*
 
 ![sql](img/sql.png)
 
