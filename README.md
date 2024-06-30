@@ -291,19 +291,19 @@ This repository showcases my journey through the IBM Data Science Professional C
 
 *Figure 5: Plotly interactive dashborad showing launch successes by launch site.  Kennedy Space Center has the highest successful launch rate.*
 
-### [5.3 Data Preparation](https://github.com/rexcoleman/Data-Preparation-Overview/tree/main)
+### [5.2 Data Preparation](https://github.com/rexcoleman/Data-Preparation-Overview/tree/main)
 ### Executive Summary
 
 Data preparation is a critical step in the data science process that directly impacts the quality and reliability of insights and model performance. This report highlights the importance of data preparation, providing a comprehensive overview of its key components, steps, challenges, case studies, and best practices. By embracing structured methodologies for data preparation, data scientists can enhance the quality and efficiency of their projects, leading to more accurate and robust models. The report also discusses the impact of data preparation on model performance and introduces tools and technologies that streamline the process. Understanding and implementing effective data preparation practices is essential for achieving successful outcomes in data science projects. [Read More...](https://github.com/rexcoleman/Data-Preparation-Overview/tree/main)
 
 
-#### [5.3.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](https://github.com/rexcoleman/Unlocking-Data-Potential-Advanced-Feature-Engineering-Techniques-for-Cybersecurity)
+#### [5.2.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](https://github.com/rexcoleman/Unlocking-Data-Potential-Advanced-Feature-Engineering-Techniques-for-Cybersecurity)
 
 #### Executive Summary
 
 Feature engineering is a critical aspect of the data science process, involving the transformation of raw data into meaningful features that enhance model performance. This report delves into the fundamentals and advanced techniques of feature engineering, emphasizing its application in cybersecurity. By exploring various methods such as feature creation, encoding techniques, scaling, and dimensionality reduction, this report highlights how feature engineering can improve the detection of cyber threats, malware analysis, and fraud detection. The report aims to provide a comprehensive guide for data scientists and cybersecurity professionals to leverage feature engineering for robust and effective cybersecurity solutions. [Read More...]((https://github.com/rexcoleman/Unlocking-Data-Potential-Advanced-Feature-Engineering-Techniques-for-Cybersecurity))
 
-#### [5.3.2 Project: Feature Engineering Deep Dive - Pima Indians](https://github.com/rexcoleman/Feature-Engineering-Deep-Dive-Pima-Indians-Pima-Indians)
+#### [5.2.2 Project: Feature Engineering Deep Dive - Pima Indians](https://github.com/rexcoleman/Feature-Engineering-Deep-Dive-Pima-Indians-Pima-Indians)
 
 #### Executive Summary
 - **Description**: This project aims to predict diabetes in the Pima Indian population using machine learning techniques. The dataset includes various medical predictors such as glucose levels, blood pressure, BMI, and more. The project involves extensive exploratory data analysis (EDA) and advanced feature engineering to enhance the accuracy of the predictions.
@@ -317,7 +317,7 @@ Feature engineering is a critical aspect of the data science process, involving 
 ![Feature engineering example](img/EDA_Model_Performance_Report.png)  
 *Figure 2: Final Model Performance Report: The final model performance report shows the confusion matrix, various performance metrics, the ROC curve, and the precision-recall curve for the LightGBM & KNN model.*
 
-#### [5.3.3 Project: Outlier Detection and Treatment - Pima Indians](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
+#### [5.2.3 Project: Outlier Detection and Treatment - Pima Indians](https://github.com/rexcoleman/Data-Preparation-Project---Outlier-Detection-and-Treatment/tree/main)
 
 #### Executive Summary
 - **Description**: This project addresses the critical task of detecting and handling outliers in datasets. Outliers can significantly skew the results of data analysis, leading to incorrect conclusions and poor model performance. The project aims to demonstrate various techniques for identifying and managing outliers to ensure robust and reliable data analysis.
@@ -329,9 +329,9 @@ Box Plot Before Median Imputation                     | Box Plot Before Median I
 :---------------------------------------------------: | :---------------------------------------------------:
 ![Box Plot Before Median Imputation](img/box_plot_before_mediun_imputation.png) | ![Box Plot Before Median Imputation ](img/box_plot_after_median_imputation.png)
 
-### 5.4 Model Specific
+### 5.3 Model Specific
 
-#### [5.4.1 Project: TensorFlow - Decision Forest - Titanic](https://github.com/rexcoleman/TensorFlow-Decision-Forest-Titanic)
+#### [5.3.1 Project: TensorFlow - Decision Forest - Titanic](https://github.com/rexcoleman/TensorFlow-Decision-Forest-Titanic)
 
 ## 6. Proposed Projects
 
