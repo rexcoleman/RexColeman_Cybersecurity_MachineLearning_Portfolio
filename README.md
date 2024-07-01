@@ -413,6 +413,3 @@ In this portfolio, I have demonstrated how data science can enhance the security
 ### 8.2 Call to Action
 I am enthusiastic about the opportunity to further discuss and explore the integration of data science in cybersecurity with industry leaders. I look forward to collaborating on innovative solutions and contributing to the field of cybersecurity.
 
----
-
-By following this structured approach, you will present a detailed and compelling portfolio that effectively demonstrates your skills and expertise in data science and cybersecurity. Each section highlights the impact of your work and aligns your projects with the responsibilities of a security team, making you an attractive candidate for positions within the industry.
