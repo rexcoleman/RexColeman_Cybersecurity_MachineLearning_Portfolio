@@ -35,7 +35,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [5.3 Modeling](#53-modeling)
         - [5.3.1 Report: Data Science Model Selection in Cybersecurity](#531-report-data-science-model-selection-in-cybersecurity)
         - [5.3.2 Project: TensorFlow - Decision Forest - Titanic](#532-project-tensorflow---decision-forest---titanic)
-6. [Computer Science Fundamentals](#7-computer-science-fundamentals)
+6. [Computer Science Fundamentals](#6-computer-science-fundamentals)
 7. [Proposed Projects](#7-proposed-projects)
     - [7.1 Project: Network Traffic Anomaly Detection](#71-project-network-traffic-anomaly-detection)
     - [7.2 Project: Threat Intelligence Aggregation](#72-project-threat-intelligence-aggregation)
