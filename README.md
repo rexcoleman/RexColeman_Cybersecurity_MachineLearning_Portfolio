@@ -35,21 +35,22 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [5.3 Modeling](#53-modeling)
         - [5.3.1 Report: Data Science Model Selection in Cybersecurity](#531-report-data-science-model-selection-in-cybersecurity)
         - [5.3.2 Project: TensorFlow - Decision Forest - Titanic](#532-project-tensorflow---decision-forest---titanic)
-7. [Proposed Projects](#6-proposed-projects)
-    - [6.1 Project: Network Traffic Anomaly Detection](#61-project-network-traffic-anomaly-detection)
-    - [6.2 Project: Threat Intelligence Aggregation](#62-project-threat-intelligence-aggregation)
-    - [6.3 Project: Automated Incident Response](#63-project-automated-incident-response)
-    - [6.4 Project: Forensic Analysis of Security Incidents](#64-project-forensic-analysis-of-security-incidents)
-    - [6.5 Project: Risk Scoring for Cybersecurity](#65-project-risk-scoring-for-cybersecurity)
-    - [6.6 Project: Compliance Monitoring System](#66-project-compliance-monitoring-system)
-    - [6.7 Project: Predictive Vulnerability Analysis](#67-project-predictive-vulnerability-analysis)
-    - [6.8 Project: Patch Management Optimization](#68-project-patch-management-optimization)
-8. [Future Directions](#7-future-directions)
-    - [7.1 Innovative Approaches](#71-innovative-approaches)
-    - [7.2 Vision for the Future](#72-vision-for-the-future)
-9. [Conclusion](#8-conclusion)
-    - [8.1 Summary](#81-summary)
-    - [8.2 Call to Action](#82-call-to-action)
+6. [Computer Science Fundamentals](#7-computer-science-fundamentals)
+7. [Proposed Projects](#7-proposed-projects)
+    - [7.1 Project: Network Traffic Anomaly Detection](#71-project-network-traffic-anomaly-detection)
+    - [7.2 Project: Threat Intelligence Aggregation](#72-project-threat-intelligence-aggregation)
+    - [7.3 Project: Automated Incident Response](#73-project-automated-incident-response)
+    - [7.4 Project: Forensic Analysis of Security Incidents](#74-project-forensic-analysis-of-security-incidents)
+    - [7.5 Project: Risk Scoring for Cybersecurity](#75-project-risk-scoring-for-cybersecurity)
+    - [7.6 Project: Compliance Monitoring System](#76-project-compliance-monitoring-system)
+    - [7.7 Project: Predictive Vulnerability Analysis](#77-project-predictive-vulnerability-analysis)
+    - [7.8 Project: Patch Management Optimization](#78-project-patch-management-optimization)
+8. [Future Directions](#8-future-directions)
+    - [8.1 Innovative Approaches](#81-innovative-approaches)
+    - [8.2 Vision for the Future](#82-vision-for-the-future)
+9. [Conclusion](#9-conclusion)
+    - [9.1 Summary](#91-summary)
+    - [9.2 Call to Action](#92-call-to-action)
 
 ## 1. Introduction
 
@@ -343,73 +344,75 @@ Box Plot Before Median Imputation                     | Box Plot Before Median I
 
 #### [5.3.2 Project: TensorFlow - Decision Forest - Titanic](https://github.com/rexcoleman/TensorFlow-Decision-Forest-Titanic)
 
-## 6. Proposed Projects
+## 6. Computer Science Fundamentals
 
-### 6.1 Project: Network Traffic Anomaly Detection
+## 7. Proposed Projects
+
+### 7.1 Project: Network Traffic Anomaly Detection
 - **Description**: This proposed project involves developing a machine learning model to detect anomalies in network traffic. By analyzing network traffic data, the model will identify unusual patterns that may indicate a security threat.
 - **Tools and Techniques**: The project will use unsupervised learning algorithms, clustering techniques, and real-time stream processing.
 - **Impact**: This project aims to address the challenge of detecting advanced persistent threats and zero-day vulnerabilities by identifying anomalous behavior in network traffic.
 - **Invitation to Collaborate**: I invite interested parties to collaborate on this project. Your expertise and contributions will be invaluable in making this project a success.
 
-### 6.2 Project: Threat Intelligence Aggregation
+### 7.2 Project: Threat Intelligence Aggregation
 - **Description**: This proposed project focuses on aggregating and analyzing threat intelligence data from various sources. By using natural language processing and machine learning, the project aims to identify emerging threats and provide actionable insights.
 - **Tools and Techniques**: The project will use natural language processing (NLP), machine learning algorithms, and data aggregation techniques.
 - **Impact**: The project aims to enhance the organization’s threat intelligence capabilities, allowing for proactive identification of emerging threats.
 - **Invitation to Collaborate**: I invite interested parties to collaborate on this project. Your expertise and contributions will be invaluable in making this project a success.
 
-### 6.3 Project: Automated Incident Response
+### 7.3 Project: Automated Incident Response
 - **Description**: This proposed project involves developing an automated incident response system that uses reinforcement learning to dynamically adjust its response strategies based on the evolving threat landscape.
 - **Tools and Techniques**: The project will use reinforcement learning, automated response systems, and real-time analysis.
 - **Impact**: The project aims to address the challenge of reducing response times to security incidents by automating the response process.
 - **Invitation to Collaborate**: I invite interested parties to collaborate on this project. Your expertise and contributions will be invaluable in making this project a success.
 
-### 6.4 Project: Forensic Analysis of Security Incidents
+### 7.4 Project: Forensic Analysis of Security Incidents
 - **Description**: This proposed project focuses on using data science techniques to analyze log data and reconstruct attack timelines. The goal is to understand how security incidents occurred and prevent future attacks.
 - **Tools and Techniques**: The project will use clustering, pattern recognition, and log analysis techniques.
 - **Impact**: The project aims to enhance the organization’s forensic analysis capabilities, allowing for a better understanding of security incidents.
 - **Invitation to Collaborate**: I invite interested parties to collaborate on this project. Your expertise and contributions will be invaluable in making this project a success.
 
-### 6.5 Project: Risk Scoring for Cybersecurity
+### 7.5 Project: Risk Scoring for Cybersecurity
 - **Description**: This proposed project involves developing a risk scoring model that quantifies the cybersecurity risk associated with different assets and activities. The model will help prioritize security efforts based on risk.
 - **Tools and Techniques**: The project will use logistic regression, decision trees, and risk assessment techniques.
 - **Impact**: The project aims to address the challenge of risk management by providing a data-driven approach to quantifying and prioritizing risk.
 - **Invitation to Collaborate**: I invite interested parties to collaborate on this project. Your expertise and contributions will be invaluable in making this project a success.
 
-### 6.6 Project: Compliance Monitoring System
+### 7.6 Project: Compliance Monitoring System
 - **Description**: This proposed project focuses on developing a compliance monitoring system that uses rule-based algorithms and machine learning to continuously monitor regulatory compliance.
 - **Tools and Techniques**: The project will use rule-based algorithms, machine learning, and real-time monitoring techniques.
 - **Impact**: The project aims to enhance the organization’s ability to ensure compliance with relevant regulations and industry standards.
 - **Invitation to Collaborate**: I invite interested parties to collaborate on this project. Your expertise and contributions will be invaluable in making this project a success.
 
-### 6.7 Project: Predictive Vulnerability Analysis
+### 7.7 Project: Predictive Vulnerability Analysis
 - **Description**: This proposed project involves using machine learning to predict which vulnerabilities are most likely to be exploited. The goal is to prioritize vulnerabilities based on their likelihood of exploitation.
 - **Tools and Techniques**: The project will use supervised learning techniques, historical data analysis, and vulnerability assessment.
 - **Impact**: The project aims to address the challenge of vulnerability management by providing a data-driven approach to prioritizing vulnerabilities.
 - **Invitation to Collaborate**: I invite interested parties to collaborate on this project. Your expertise and contributions will be invaluable in making this project a success.
 
-### 6.8 Project: Patch Management Optimization
+### 7.8 Project: Patch Management Optimization
 - **Description**: This proposed project focuses on optimizing the patch management process using data-driven strategies. The goal is to ensure that patches are applied efficiently and effectively.
 - **Tools and Techniques**: The project will use optimization algorithms, scheduling techniques, and patch management.
 - **Impact**: The project aims to enhance the organization’s ability to manage patches, reducing downtime and minimizing the risk of exploitation.
 - **Invitation to Collaborate**: I invite interested parties to collaborate on this project. Your expertise and contributions will be invaluable in making this project a success.
 
-## 7. Future Directions
+## 8. Future Directions
 
-### 7.1 Innovative Approaches
+### 8.1 Innovative Approaches
 - **Advanced AI Techniques**: Discuss the potential of advanced AI techniques, such as deep learning and neural networks, in cybersecurity. These techniques can enhance threat detection and response capabilities, providing more accurate and efficient security measures.
 - **Behavioral Analytics**: Explain the role of behavioral analytics in detecting insider threats and enhancing security. By monitoring and analyzing user behavior, organizations can identify unusual patterns that may indicate malicious activity.
 - **Integration with IoT Security**: Discuss the unique security challenges posed by the Internet of Things (IoT) and potential data science solutions. IoT devices can introduce new vulnerabilities, and data science techniques can help identify and mitigate these risks.
 
-### 7.2 Vision for the Future
+### 8.2 Vision for the Future
 - **Integrated Security Approach**: Describe your vision for a more integrated and proactive approach to cybersecurity. This involves combining data science techniques with traditional security measures to create a comprehensive security strategy.
 - **Advancing Analytical Capabilities**: Discuss the importance of continuously advancing analytical capabilities to stay ahead of cyber threats. This includes adopting new technologies and methodologies to enhance threat detection and response.
 - **Embracing Emerging Technologies**: Highlight the need to embrace emerging technologies to enhance security measures. By staying up-to-date with technological advancements, organizations can improve their security posture and better protect against evolving threats.
 
-## 8. Conclusion
+## 9. Conclusion
 
-### 8.1 Summary
+### 9.1 Summary
 In this portfolio, I have demonstrated how data science can enhance the security team's ability to manage and mitigate cybersecurity risks. By leveraging advanced analytical techniques, organizations can improve their threat detection, response, and recovery capabilities. Data science provides a strategic advantage, enabling proactive and efficient security measures.
 
-### 8.2 Call to Action
+### 9.2 Call to Action
 I am enthusiastic about the opportunity to further discuss and explore the integration of data science in cybersecurity with industry leaders. I look forward to collaborating on innovative solutions and contributing to the field of cybersecurity.
 
