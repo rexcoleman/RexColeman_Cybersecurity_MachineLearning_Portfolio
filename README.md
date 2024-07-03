@@ -36,7 +36,8 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.3.1 Report: Data Science Model Selection in Cybersecurity](#531-report-data-science-model-selection-in-cybersecurity)
         - [5.3.2 Project: TensorFlow - Decision Forest - Titanic](#532-project-tensorflow---decision-forest---titanic)
 6. [Computer Science Fundamentals](#6-computer-science-fundamentals)
-7. [Proposed Projects](#7-proposed-projects)
+    - [6.1 100 Days of Code: The Complete Python Pro Bootcamp](#61-100-days-of-code-the-complete-python-pro-bootcamp)
+8. [Proposed Projects](#7-proposed-projects)
     - [7.1 Project: Network Traffic Anomaly Detection](#71-project-network-traffic-anomaly-detection)
     - [7.2 Project: Threat Intelligence Aggregation](#72-project-threat-intelligence-aggregation)
     - [7.3 Project: Automated Incident Response](#73-project-automated-incident-response)
@@ -45,10 +46,10 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [7.6 Project: Compliance Monitoring System](#76-project-compliance-monitoring-system)
     - [7.7 Project: Predictive Vulnerability Analysis](#77-project-predictive-vulnerability-analysis)
     - [7.8 Project: Patch Management Optimization](#78-project-patch-management-optimization)
-8. [Future Directions](#8-future-directions)
+9. [Future Directions](#8-future-directions)
     - [8.1 Innovative Approaches](#81-innovative-approaches)
     - [8.2 Vision for the Future](#82-vision-for-the-future)
-9. [Conclusion](#9-conclusion)
+10. [Conclusion](#9-conclusion)
     - [9.1 Summary](#91-summary)
     - [9.2 Call to Action](#92-call-to-action)
 
@@ -345,6 +346,8 @@ Box Plot Before Median Imputation                     | Box Plot Before Median I
 #### [5.3.2 Project: TensorFlow - Decision Forest - Titanic](https://github.com/rexcoleman/TensorFlow-Decision-Forest-Titanic)
 
 ## 6. Computer Science Fundamentals
+
+### [6.1 100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/README.md)
 
 ## 7. Proposed Projects
 
