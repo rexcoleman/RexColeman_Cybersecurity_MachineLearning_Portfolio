@@ -354,41 +354,31 @@ Box Plot Before Median Imputation                     | Box Plot Before Median I
 
 #### [6.1.1 100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/README.md)
 
-## Executive Summary
+#### Executive Summary
 
 This repository is a comprehensive showcase of my journey through the "100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu. It demonstrates a broad array of foundational Python programming skills, highlighting my persistence, consistency, and passion for learning and mastering Python.
 
 Throughout this intensive program, I have tackled various projects that encompass key programming concepts and skills essential for any aspiring data scientist or software developer. Each project builds upon the previous ones, progressively enhancing my understanding and proficiency in Python.  This structured journey not only illustrates my proficiency in Python but also my ability to consistently apply these skills in practical scenarios, demonstrating my readiness for complex problem-solving and software development tasks in a professional setting.
 
-## Showcased Projects:
-
-### [Project 1: Days 1 - 70 Blog Webapp Capstone Project](https://github.com/rexcoleman/Singularity-Cybersecurity-Blog-Capstone-Project)
-Explore my Blog Webapp Capstone Project from Angela Yu's 100 Days of Code Bootcamp! Dive into a full-stack web application showcasing advanced skills in Flask, Bootstrap, PostgreSQL, and more. Witness how modern web development practices create a dynamic, secure, and user-friendly platform.
-
 ![Web App](img/singularity_cybersecurity_blog_web_app.png)
 
 *Figure 1: [Singularity Cybersecurity web app](https://rex-coleman-blog-01b248947442.herokuapp.com/).*
 
-### [Project 2: Days 39, 40 Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Days_39_40_Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests)
-Description: App that searches the web for flight prices and compares data to the prices listed in a google sheet. If it finds a better price it sends notifications by both text and email. Skills Demonstrated: Object Oriented Programming, API Requests.
+#### High-Level Summary of Skills:
 
-### [Project 3: Day 53 Web-Scraping-Capstone-Project-Data-Entry-Automation](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_53_Web_Scraping_Capstone_Project_Data_Entry_Automation)
-Skills Demonstrated: Use Beautiful Soup to Scrape Rental Price Data from Zillow Website and Selenium Webdriver to Automate Data Entry Into a Google Form and Sheet.
-
-## High-Level Summary of Skills:
-
-- **Basic Python Skills**: Printing, Commenting, Debugging, String Manipulation, Variables, Data Types, Numbers, Operations, Type Conversion, f-Strings.
-- **Control Structures**: Conditional Statements, Logical Operators, Code Blocks, Scope, For & While Loops, If/Else.
+- **Basic Python**: Printing, Commenting, Debugging, String Manipulation, Variables, Data Types, Numbers, Operations, Type Conversion, f-Strings.
+- **Control Structures**: Conditional Statements, Logical Operators, Code Blocks, Scope, Loops, If/Else.
 - **Data Structures**: Lists, Dictionaries, Nesting, Tuples, CSV Files, Pandas DataFrame.
-- **Functions and Modules**: Functions with Inputs, Outputs, Arguments, Parameters, Modules, Importing.
-- **Object-Oriented Programming (OOP)**: Creating Classes, Inheritance, Class Methods, Attributes, OOP Principles.
+- **Functions and Modules**: Inputs, Outputs, Arguments, Parameters, Modules, Importing.
+- **OOP**: Creating Classes, Inheritance, Class Methods, Attributes, Principles.
 - **Error Handling**: Errors, Exceptions, Debugging.
 - **File Handling**: Reading/Writing Files, JSON Data Handling.
-- **APIs**: Making API Requests, Handling API Responses, Authentication, Environment Variables.
+- **APIs**: Requests, Responses, Authentication, Environment Variables.
 - **Web Development**: HTML, CSS, Flask, Bootstrap, SQLAlchemy, WTForms.
-- **Graphical User Interfaces (GUIs)**: Tkinter for Building GUIs.
-- **Automation and Web Scraping**: Selenium, Beautiful Soup.
-- **Data Analysis**: Using Pandas for Data Manipulation, List & Dictionary Comprehensions.
+- **GUIs**: Tkinter for Building GUIs.
+- **Automation/Web Scraping**: Selenium, Beautiful Soup.
+- **Data Analysis**: Pandas, List & Dictionary Comprehensions.
+
 
 #### [6.1.2 Data Structures and Algorithms](https://github.com/rexcoleman/LeetCode-Programming-Exercises-Repository)
 
