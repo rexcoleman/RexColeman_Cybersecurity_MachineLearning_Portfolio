@@ -39,6 +39,7 @@ This portfolio demonstrates the strategic importance of data science in enhancin
     - [6.1 Software Development](#61-software-development)
         - [6.1.1 100 Days of Code: The Complete Python Pro Bootcamp](#611-100-days-of-code-the-complete-python-pro-bootcamp)
         - [6.1.2 Data Structures and Algorithms](#612-data-structures-and-algorithms)
+    - [6.2 Mathematics for Computer Science and Machine Learning](#62-mathematics-for-computer-science-and-machine-learning)
 8. [Proposed Projects](#7-proposed-projects)
     - [7.1 Project: Network Traffic Anomaly Detection](#71-project-network-traffic-anomaly-detection)
     - [7.2 Project: Threat Intelligence Aggregation](#72-project-threat-intelligence-aggregation)
@@ -355,13 +356,11 @@ Box Plot Before Median Imputation                     | Box Plot Before Median I
 
 #### [6.1.2 Data Structures and Algorithms](https://github.com/rexcoleman/LeetCode-Programming-Exercises-Repository)
 
+### 6.2 Mathematics for Computer Science and Machine Learning
+
 #### Executive Summary
 
 Welcome to my LeetCode Programming Exercises repository! This repository collates my solutions to over 760 coding exercises from various courses and platforms. It serves as a comprehensive showcase of my problem-solving skills and dedication to mastering data structures, algorithms, and mathematical thinking. LeetCode exercises are a critical part of honing your problem-solving and coding skills. They simulate real-world interview questions and provide a platform to practice and perfect your approach to algorithmic challenges. By engaging with these exercises, you develop the ability to think critically, optimize code, and gain confidence in tackling a wide variety of technical problems. This repository reflects my commitment to continuous learning and preparation for technical interviews in the competitive field of software engineering and data science. [Read More...](https://github.com/rexcoleman/LeetCode-Programming-Exercises-Repository)
-
-## Total Coding Exercises: 760+
-
-
 
 ## 7. Proposed Projects
 
