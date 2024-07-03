@@ -355,6 +355,13 @@ Box Plot Before Median Imputation                     | Box Plot Before Median I
 
 #### [6.1.2 Data Structures and Algorithms](https://github.com/rexcoleman/LeetCode-Programming-Exercises-Repository)
 
+#### Executive Summary
+
+Welcome to my LeetCode Programming Exercises repository! This repository collates my solutions to over 760 coding exercises from various courses and platforms. It serves as a comprehensive showcase of my problem-solving skills and dedication to mastering data structures, algorithms, and mathematical thinking. LeetCode exercises are a critical part of honing your problem-solving and coding skills. They simulate real-world interview questions and provide a platform to practice and perfect your approach to algorithmic challenges. By engaging with these exercises, you develop the ability to think critically, optimize code, and gain confidence in tackling a wide variety of technical problems. This repository reflects my commitment to continuous learning and preparation for technical interviews in the competitive field of software engineering and data science. [Read More...](https://github.com/rexcoleman/LeetCode-Programming-Exercises-Repository)
+
+## Total Coding Exercises: 760+
+
+
 
 ## 7. Proposed Projects
 
