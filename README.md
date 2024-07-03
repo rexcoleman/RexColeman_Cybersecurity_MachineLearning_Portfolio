@@ -360,10 +360,6 @@ This repository is a comprehensive showcase of my journey through the "100 Days 
 
 Throughout this intensive program, I have tackled various projects that encompass key programming concepts and skills essential for any aspiring data scientist or software developer. Each project builds upon the previous ones, progressively enhancing my understanding and proficiency in Python.  This structured journey not only illustrates my proficiency in Python but also my ability to consistently apply these skills in practical scenarios, demonstrating my readiness for complex problem-solving and software development tasks in a professional setting.
 
-![Web App](img/singularity_cybersecurity_blog_web_app.png)
-
-*Figure 1: [Singularity Cybersecurity web app](https://rex-coleman-blog-01b248947442.herokuapp.com/).*
-
 #### High-Level Summary of Skills:
 
 - **Basic Python**: Printing, Commenting, Debugging, String Manipulation, Variables, Data Types, Numbers, Operations, Type Conversion, f-Strings.
@@ -379,6 +375,9 @@ Throughout this intensive program, I have tackled various projects that encompas
 - **Automation/Web Scraping**: Selenium, Beautiful Soup.
 - **Data Analysis**: Pandas, List & Dictionary Comprehensions.
 
+![Web App](img/singularity_cybersecurity_blog_web_app.png)
+
+*Figure 1: [Singularity Cybersecurity web app](https://rex-coleman-blog-01b248947442.herokuapp.com/).*
 
 #### [6.1.2 Data Structures and Algorithms](https://github.com/rexcoleman/LeetCode-Programming-Exercises-Repository)
 
