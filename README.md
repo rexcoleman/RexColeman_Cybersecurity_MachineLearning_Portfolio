@@ -36,7 +36,9 @@ This portfolio demonstrates the strategic importance of data science in enhancin
         - [5.3.1 Report: Data Science Model Selection in Cybersecurity](#531-report-data-science-model-selection-in-cybersecurity)
         - [5.3.2 Project: TensorFlow - Decision Forest - Titanic](#532-project-tensorflow---decision-forest---titanic)
 6. [Computer Science Fundamentals](#6-computer-science-fundamentals)
-    - [6.1 100 Days of Code: The Complete Python Pro Bootcamp](#61-100-days-of-code-the-complete-python-pro-bootcamp)
+    - [6.1 Software Development](#61-software-development)
+        - [6.1.1 100 Days of Code: The Complete Python Pro Bootcamp](#611-100-days-of-code-the-complete-python-pro-bootcamp)
+        - [6.1.2 Data Structures and Algorithms](#612-data-structures-and-algorithms)
 8. [Proposed Projects](#7-proposed-projects)
     - [7.1 Project: Network Traffic Anomaly Detection](#71-project-network-traffic-anomaly-detection)
     - [7.2 Project: Threat Intelligence Aggregation](#72-project-threat-intelligence-aggregation)
@@ -347,7 +349,12 @@ Box Plot Before Median Imputation                     | Box Plot Before Median I
 
 ## 6. Computer Science Fundamentals
 
-### [6.1 100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/README.md)
+### 6.1 Software Development
+
+#### [6.1.1 100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/README.md)
+
+#### [6.1.2 Data Structures and Algorithms](https://github.com/rexcoleman/LeetCode-Programming-Exercises-Repository)
+
 
 ## 7. Proposed Projects
 
