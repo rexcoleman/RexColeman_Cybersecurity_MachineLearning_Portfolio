@@ -360,7 +360,21 @@ Box Plot Before Median Imputation                     | Box Plot Before Median I
 
 Welcome to my LeetCode Programming Exercises repository! This repository collates my solutions to over 760 coding exercises from various courses and platforms. It serves as a comprehensive showcase of my problem-solving skills and dedication to mastering data structures, algorithms, and mathematical thinking. LeetCode exercises are a critical part of honing your problem-solving and coding skills. They simulate real-world interview questions and provide a platform to practice and perfect your approach to algorithmic challenges. By engaging with these exercises, you develop the ability to think critically, optimize code, and gain confidence in tackling a wide variety of technical problems. This repository reflects my commitment to continuous learning and preparation for technical interviews in the competitive field of software engineering and data science. [Read More...](https://github.com/rexcoleman/LeetCode-Programming-Exercises-Repository)
 
-### 6.2 Mathematics for Computer Science and Machine Learning
+### [6.2 Mathematics for Computer Science and Machine Learning](https://github.com/rexcoleman/Mathematics-For-Computer-Science-and-Machine-Learning/tree/main)
+
+#### Executive Summary
+
+This section showcases my proficiency in the mathematical foundations critical for data science and machine learning. It includes:
+
+- **Linear Algebra**: Vector spaces, matrix operations.
+- **Calculus**: Differentiation, integration.
+- **Probability and Statistics**: Statistical methods, probability theory.
+- **Discrete Mathematics**: Graph theory, combinatorics.
+- **Multivariate Calculus**: Functions of multiple variables.
+- **Principal Component Analysis (PCA)**: Dimensionality reduction.
+
+These skills demonstrate my commitment to mastering essential concepts for advanced data science and cybersecurity applications.
+
 
 ## 7. Proposed Projects
 
