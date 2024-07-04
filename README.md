@@ -22,10 +22,10 @@ Categories of NLP Models
 1. Text Preprocessing
 Definition: Text preprocessing involves preparing and cleaning text data for analysis. This step is crucial for improving the performance of NLP models by standardizing the input data.
 Tokenization
-When to Use: Use tokenization to split text into smaller units, such as words or sentences.
-How It Works: Tokenization breaks down text into individual tokens (words, phrases, or sentences) that can be processed by NLP models.
-Cost Function: Tokenization does not use a traditional cost function but aims to optimize the splitting of text for further processing.
-Example: Tokenizing security incident reports to analyze the frequency of specific terms related to different types of attacks.
+- When to Use: Use tokenization to split text into smaller units, such as words or sentences.
+- How It Works: Tokenization breaks down text into individual tokens (words, phrases, or sentences) that can be processed by NLP models.
+- Cost Function: Tokenization does not use a traditional cost function but aims to optimize the splitting of text for further processing.
+- Example: Tokenizing security incident reports to analyze the frequency of specific terms related to different types of attacks.
 
 
 
