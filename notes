@@ -1,3 +1,21 @@
 
 
 [5.3.1 Report: Data Science Model Selection in Cybersecurity](#531-report-data-science-model-selection-in-cybersecurity) This 112 page report on model selection does an excellent job at simplifiying a wide array of complex topics.  It covers over 190 models, 17 cost functions and 9 performance metrics, makes the topics suprisingly easy to understand, provides multiple tools to assist with selecting models and is loaded with cybersecurity examples. Here is one example
+
+
+
+My anacedotal evidencse supports commonly held opinon that executing well feature engineering plus boosting algorithms is one of the fastest routes to competition success.
+
+
+Of the three [Pima Indians Diabetes Database](https://www.kaggle.com/code/mragpavank/pima-indians-diabetes-database) I worked on, the [Feature Engineering Deep Dive](#522-project-feature-engineering-deep-dive---pima-indians) project crused the others by a wide margin.
+
+| Highest (Accuracy) Score | SkLearn K-Nearest Neighbors | CRISP-DM Methodology Case Study  | Feature Engineering Deep Dive |
+|---------------------------|---------------------------|---------------------------------|----------------------------|
+|                          | 0.77218                      | 0.82813                    | 0.90625                   |
+
+Of the three [Titanic](https://www.kaggle.com/competitions/titanic) projects I worked on.  The [TensorFlow Decision Forest]((#532-project-tensorflow---decision-forest---titanic)) had the highest submission score.
+
+
+| Highest Submission (Accuracy) Score | SkLearn Random Forest Ensemble | Hybrid Data Science Methodology | TensorFlow Decision Forest |
+|---------------------------|---------------------------|---------------------------------|----------------------------|
+|                              | 0.77511                         | 0.78468                     | 0.80143                     |
