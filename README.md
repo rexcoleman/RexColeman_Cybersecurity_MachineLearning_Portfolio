@@ -6,9 +6,23 @@ This portfolio demonstrates my capability to leverage data science and machine l
 
 Through a series of completed and proposed projects aligned with the NIST Cybersecurity Framework, this portfolio showcases practical applications of data science in threat detection, incident response, risk management, and compliance. It also invites collaboration on innovative future projects, aiming to drive strategic initiatives and enhance organizational resilience against cyber threats.
 
+
+
+
+I worked on three [Titanic](https://www.kaggle.com/competitions/titanic) projects.  The TensorFlow Decision Forest had the highest submission score.
+
 | SkLearn Random Forest Ensemble | Hybrid Data Science Methodology | TensorFlow Decision Forest |
 |---------------------------|---------------------------------|----------------------------|
 | 0.77511                         | 0.78468                     | 0.80143                     |
+
+
+
+| SkLearn Random Forest Ensemble | Hybrid Data Science Methodology | TensorFlow Decision Forest |
+|---------------------------|---------------------------------|----------------------------|
+| 0.77511                         | 0.78468                     | 0.80143                     |
+
+
+
 
 
 ## Table of Contents
