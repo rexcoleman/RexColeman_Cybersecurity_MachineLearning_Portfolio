@@ -29,7 +29,7 @@ Through a series of completed and proposed projects aligned with the NIST Cybers
         - [5.1.3 Report: How to Win Kaggle Competitions](#513-report-how-to-win-kaggle-competitions)
         - [5.1.4 Project: Hybrid Data Science Methodology - Titanic](#514-project-hybrid-data-science-methodology---titanic)
         - [5.1.5 Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#515-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
-        - [5.1.6 Project: IBM Data Science Methodology - IBM Data Science Professional Specialization](#516-project-ibm-data-science-methodology---ibm-data-science-professional-specialization)
+        - [5.1.6 Project: IBM Data Science Methodology - IBM Data Science Professional Specialization](#516-ibm-data-science-methodology---ibm-data-science-professional-specialization)
     - [5.2 Data Preparation](#52-data-preparation)
         - [5.2.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#521-report-unlocking-data-potential---advanced-feature-engineering-techniques-for-cybersecurity)
         - [5.2.2 Project: Feature Engineering Deep Dive - Pima Indians](#522-project-feature-engineering-deep-dive---pima-indians)
