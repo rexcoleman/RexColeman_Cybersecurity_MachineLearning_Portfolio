@@ -9,17 +9,18 @@ Through a series of completed and proposed projects aligned with the NIST Cybers
 
 
 
-I worked on three [Titanic](https://www.kaggle.com/competitions/titanic) projects.  The TensorFlow Decision Forest had the highest submission score.
+Of the three [Titanic](https://www.kaggle.com/competitions/titanic) projects I worked on.  The TensorFlow Decision Forest had the highest submission  score.
 
-| SkLearn Random Forest Ensemble | Hybrid Data Science Methodology | TensorFlow Decision Forest |
-|---------------------------|---------------------------------|----------------------------|
-| 0.77511                         | 0.78468                     | 0.80143                     |
+| Highest Submission (Accuracy) Score | SkLearn Random Forest Ensemble | Hybrid Data Science Methodology | TensorFlow Decision Forest |
+|---------------------------|---------------------------|---------------------------------|----------------------------|
+|                              | 0.77511                         | 0.78468                     | 0.80143                     |
 
 
+Of the three [Pima Indians Diabetes Database](https://www.kaggle.com/code/mragpavank/pima-indians-diabetes-database) I worked on, the Feature Engineering Deep Dive project crused the others by a wide margin.
 
-| SkLearn Random Forest Ensemble | Hybrid Data Science Methodology | TensorFlow Decision Forest |
-|---------------------------|---------------------------------|----------------------------|
-| 0.77511                         | 0.78468                     | 0.80143                     |
+| Highest (Accuracy) Score | SkLearn K-Nearest Neighbors | CRISP-DM Methodology Case Study  | Feature Engineering Deep Dive |
+|---------------------------|---------------------------|---------------------------------|----------------------------|
+|                          | 0.77218                      | 0.82813                    | 0.90625                   |
 
 
 
