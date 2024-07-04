@@ -23,7 +23,7 @@ Through a series of completed and proposed projects aligned with the NIST Cybers
         - [4.2.3 Project: U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](#423-project-u-net-in-cybersecurity-precision-image-segmentation-for-enhanced-security-measures)
         - [4.2.4 Project: Unlocking Cybersecurity Potential with Sentiment Analysis](#424-project-unlocking-cybersecurity-potential-with-sentiment-analysis)
 5. [Data Science Process](#5-data-science-process)
-    - [5.1 Introduction](#51-introduction)
+    - [5.1 Data Science Methodologies](#51-data-science-methodologies)
         - [5.1.1 Report: Data-Driven Defense - Adapting Data Science Methodologies for Cybersecurity Excellence](#511-report-data-driven-defense---adapting-data-science-methodologies-for-cybersecurity-excellence)
         - [5.1.2 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](#512-report-strategic-importance-of-kaggle-competitions-in-advancing-data-science)
         - [5.1.3 Report: How to Win Kaggle Competitions](#513-report-how-to-win-kaggle-competitions)
@@ -221,7 +221,7 @@ Releated Malware Families                             | Unreleated Malware Famil
 
 ## 5. Data Science Process
 
-### 5.1 Introduction
+### 5.1 Data Science Methodologies
 
 ### [5.1.1 Report: Data-Driven Defense - Adapting Data Science Methodologies for Cybersecurity Excellence](https://github.com/rexcoleman/Data-Driven-Defense-Adapting-Data-Science-Methodologies-for-Cybersecurity-Excellence)
 #### Executive Summary
