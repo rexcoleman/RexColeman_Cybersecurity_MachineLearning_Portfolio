@@ -258,13 +258,7 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
 
 In today's rapidly evolving landscape of data science and artificial intelligence (AI), Kaggle competitions serve as crucial platforms for honing technical skills, fostering innovation, and solving real-world problems. This report provides a detailed guide on how to succeed in Kaggle competitions, outlining key steps such as initial data exploration, data cleaning, feature engineering, model development, validation, ensemble methods, and effective collaboration. Each step is ranked based on its impact on success, providing a strategic framework for participants aiming to achieve top performance. By understanding and applying these insights, data scientists can significantly enhance their chances of winning Kaggle competitions and deriving actionable insights that drive competitive advantage in various fields, including cybersecurity. 
 
-My anacedotal evidencse supports commonly held opinon that tree ensembles and feature engineering is one of the fastest routes to competition success.
-
-Of the three [Titanic](https://www.kaggle.com/competitions/titanic) projects I worked on.  The [TensorFlow Decision Forest]((#532-project-tensorflow---decision-forest---titanic)) had the highest submission score.
-
-| Highest Submission (Accuracy) Score | SkLearn Random Forest Ensemble | Hybrid Data Science Methodology | TensorFlow Decision Forest |
-|---------------------------|---------------------------|---------------------------------|----------------------------|
-|                              | 0.77511                         | 0.78468                     | 0.80143                     |
+My anacedotal evidencse supports commonly held opinon that executing well feature engineering plus boosting algorithms is one of the fastest routes to competition success.
 
 
 Of the three [Pima Indians Diabetes Database](https://www.kaggle.com/code/mragpavank/pima-indians-diabetes-database) I worked on, the [Feature Engineering Deep Dive](#522-project-feature-engineering-deep-dive---pima-indians) project crused the others by a wide margin.
@@ -272,6 +266,15 @@ Of the three [Pima Indians Diabetes Database](https://www.kaggle.com/code/mragpa
 | Highest (Accuracy) Score | SkLearn K-Nearest Neighbors | CRISP-DM Methodology Case Study  | Feature Engineering Deep Dive |
 |---------------------------|---------------------------|---------------------------------|----------------------------|
 |                          | 0.77218                      | 0.82813                    | 0.90625                   |
+
+Of the three [Titanic](https://www.kaggle.com/competitions/titanic) projects I worked on.  The [TensorFlow Decision Forest]((#532-project-tensorflow---decision-forest---titanic)) had the highest submission score.
+
+
+| Highest Submission (Accuracy) Score | SkLearn Random Forest Ensemble | Hybrid Data Science Methodology | TensorFlow Decision Forest |
+|---------------------------|---------------------------|---------------------------------|----------------------------|
+|                              | 0.77511                         | 0.78468                     | 0.80143                     |
+
+
 
 
 [Read More...](https://github.com/rexcoleman/How-To-Win-Kaggle-Competitions)
