@@ -288,21 +288,18 @@ This repository showcases my journey through the IBM Data Science Professional C
 
 Web Scraping Target: HTML Tables Data                 | Resulting Pandas DataFrame
 :---------------------------------------------------: | :---------------------------------------------------:
-<img src="img/html_table.png" alt="CRISP-DM" width="400"> | <img src="img/dratframe_created_from_webscraping.png" alt="Feature Importance" width="525">
+<img src="img/html_table.png" alt="HTML Table Target" width="400"> | <img src="img/dratframe_created_from_webscraping.png" alt="Beautiful Soup Result" width="525">
 
 *Figure 1: [Web Scraping Target HTML Tables](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches) showing list of Falcon 9 and Falcon Heavy launches (left) and Resulting Pandas DataFrame from BeautifulSoup webscraping (right).*
-
-![Web_Scraping](img/html_table.png)
-
-*Figure 1: [Web Scraping Target HTML Tables](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches) showing list of Falcon 9 and Falcon Heavy launches.*
-
-![Web_Scraping](img/dratframe_created_from_webscraping.png)
-
-*Figure 2: Resulting Pandas DataFrame from BeautifulSoup webscraping.*
 
 ![sql](img/sql.png)
 
 *Figure 3: SQL analysis ranking landing outcomes between 2010-06-04 and 2017-03-20.*
+
+Web Scraping Target: HTML Tables Data                 | Resulting Pandas DataFrame
+:---------------------------------------------------: | :---------------------------------------------------:
+<img src="img/folium_map_launch_sites.png" alt="CRISP-DM" width="400"> | <img src="img/folium_map_success_failurs_at_site.png" alt="Feature Importance" width="400">
+
 
 ![sql](img/folium_map_launch_sites.png)
 
