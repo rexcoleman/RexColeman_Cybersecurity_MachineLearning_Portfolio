@@ -286,7 +286,7 @@ CRISP-DM diagram                                      | Feature Importance Analy
 This repository showcases my journey through the IBM Data Science Professional Certificate program. This specialization provides a comprehensive overview of data science fundamentals, emphasizing practical applications and real-world scenarios.  Each project aligns with the skills and knowledge necessary for a data scientist, culminating in this capstone project forecasting SpaceX rocket launch success: [report](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/blob/main/Capstone_Project_WinningTheSpaceRaceWithDataScience.pdf), [code](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C_10_AppliedDataScienceCapstone). Specifically for this repository, I showcase 4 skills that are as clearly demonstrated in other parts of my portfolio: i) web scraping, ii) SQL, iii) interactive map plotting with Folium and iv) dashboard plotting with Plotly and Dash.
 
 
-Web Scraping Target HTML Tables                       | Resulting Pandas DataFrame
+Web Scraping Target: HTML Tables Data                 | Resulting Pandas DataFrame
 :---------------------------------------------------: | :---------------------------------------------------:
 <img src="img/html_table.png" alt="CRISP-DM" width="400"> | <img src="img/dratframe_created_from_webscraping.png" alt="Feature Importance" width="525">
 
