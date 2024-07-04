@@ -307,7 +307,7 @@ SpaceX Launch Sites                                   | Successes/Failures at Ke
 
 Comparing Magnitude of Launch Success by Site         | Individual Launch Site Success Rates
 :---------------------------------------------------: | :---------------------------------------------------:
-<img src="img/interactive_plotly_dashboard_2.png" alt="Plotly" width="450"> | <img src="img/interactive_plotly_dashboard_1.png" alt="Plotly" width="450">
+<img src="img/interactive_plotly_dashboard_2.png" alt="Plotly" width="400"> | <img src="img/interactive_plotly_dashboard_1.png" alt="Plotly" width="400">
 
 *Figure 4: Plotly interactive dashborad comparing launch successes by launch site (left) and success rates for individual sites (right). Kennedy Space Center has both the largest number of successful launches and the highest successful launch rate.*
 
