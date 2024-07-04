@@ -365,6 +365,11 @@ By the end of this report, readers will have a thorough understanding of the key
 
 #### [5.3.2 Project: TensorFlow - Decision Forest - Titanic](https://github.com/rexcoleman/TensorFlow-Decision-Forest-Titanic)
 
+#### Executive Summary
+
+This project involves the comprehensive evaluation and optimization of [TensorFlow Decision Forests](https://github.com/rexcoleman/Data-Science-Model-Selection-in-Cybersecurity/blob/main/README.md#decision-forests) for a [classification task](https://github.com/rexcoleman/Data-Science-Model-Selection-in-Cybersecurity/blob/main/README.md#41-classification
+). The primary objective was to explore various hyperparameters to improve model performance and determine the most effective settings for the dataset. This report details the data exploration and preprocessing steps, the selection and training of the model, the hyperparameters evaluated, and the final results. The project demonstrates the advantages of using Gradient Boosted Trees and provides insights into the model's strengths and weaknesses compared to other machine learning models.
+
 ## 6. Computer Science Fundamentals
 
 ### 6.1 Software Development
