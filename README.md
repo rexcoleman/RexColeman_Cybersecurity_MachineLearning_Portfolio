@@ -292,30 +292,18 @@ Web Scraping Target: HTML Tables Data                 | Resulting Pandas DataFra
 
 *Figure 1: [Web Scraping Target HTML Tables](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches) showing list of Falcon 9 and Falcon Heavy launches (left) and Resulting Pandas DataFrame from BeautifulSoup webscraping (right).*
 
-![sql](img/sql.png)
-
-*Figure 3: SQL analysis ranking landing outcomes between 2010-06-04 and 2017-03-20.*
-
-SpaceX Launch Sites                                   | Successes/Failures at Kennedy Space Center Site
+2015 Drone Ship Landing Failures by Launch Site       | Ranked Landing Outcomes 
 :---------------------------------------------------: | :---------------------------------------------------:
 <img src="img/SQL_2.png" alt="Folium" width="412"> | <img src="img/sql.png" alt="Folium" width="400">
 
-*Figure 1: Interactive folium maps showing SpaceX launch sites (left) and launch successes/failures at Kennedy Space Center Site site using marker-clusters (right).*
+*Figure 2: SQL analysis showing drone ship langing failures by launch site in 2015 (left) and ranking landing outcomes between 2010-06-04 and 2017-03-20 (right).*
 
 
 SpaceX Launch Sites                                   | Successes/Failures at Kennedy Space Center Site
 :---------------------------------------------------: | :---------------------------------------------------:
 <img src="img/folium_map_launch_sites.png" alt="Folium" width="400"> | <img src="img/folium_map_success_failurs_at_site.png" alt="Folium" width="450">
 
-*Figure 1: Interactive folium maps showing SpaceX launch sites (left) and launch successes/failures at Kennedy Space Center Site site using marker-clusters (right).*
-
-![sql](img/folium_map_launch_sites.png)
-
-*Figure 4: Interactive folium map showing SpaceX launch sites.*
-
-![SQL](img/folium_map_success_failurs_at_site.png)
-
-*Figure 4: Interactive folium map showing launch success/failures at a specific launch site using marker-clusters.*
+*Figure 3: Interactive folium maps showing SpaceX launch sites (left) and launch successes/failures at Kennedy Space Center Site site using marker-clusters (right).*
 
 ![Dashboard](img/interactive_plotly_dashboard_2.png)
 
