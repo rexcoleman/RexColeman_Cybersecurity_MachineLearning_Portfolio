@@ -298,7 +298,7 @@ Web Scraping Target: HTML Tables Data                 | Resulting Pandas DataFra
 
 SpaceX Launch Sites                                   | Successes/Failures at Kennedy Space Center Site
 :---------------------------------------------------: | :---------------------------------------------------:
-<img src="img/sql_2.png" alt="Folium" width="400"> | <img src="img/sql.png" alt="Folium" width="400">
+<img src="img/SQL_2.png" alt="Folium" width="400"> | <img src="img/sql.png" alt="Folium" width="400">
 
 *Figure 1: Interactive folium maps showing SpaceX launch sites (left) and launch successes/failures at Kennedy Space Center Site site using marker-clusters (right).*
 
