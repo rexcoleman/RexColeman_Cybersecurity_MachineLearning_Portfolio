@@ -296,10 +296,11 @@ Web Scraping Target: HTML Tables Data                 | Resulting Pandas DataFra
 
 *Figure 3: SQL analysis ranking landing outcomes between 2010-06-04 and 2017-03-20.*
 
-Web Scraping Target: HTML Tables Data                 | Resulting Pandas DataFrame
+SpaceX Launch Sites                                   | Successes/Failures at a Specific Launch Site
 :---------------------------------------------------: | :---------------------------------------------------:
-<img src="img/folium_map_launch_sites.png" alt="CRISP-DM" width="400"> | <img src="img/folium_map_success_failurs_at_site.png" alt="Feature Importance" width="400">
+<img src="img/folium_map_launch_sites.png" alt="CRISP-DM" width="400"> | <img src="img/folium_map_success_failurs_at_site.png" alt="Feature Importance" width="450">
 
+*Figure 1: Interactive folium maps showing SpaceX launch sites (left) and launch successes/failures at a specific launch site using marker-clusters (right).*
 
 ![sql](img/folium_map_launch_sites.png)
 
