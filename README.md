@@ -6,7 +6,7 @@ This portfolio demonstrates my capability to leverage data science and machine l
 
 Through a series of completed and proposed projects aligned with the NIST Cybersecurity Framework, this portfolio showcases practical applications of data science in threat detection, incident response, risk management, and compliance. It also invites collaboration on innovative future projects, aiming to drive strategic initiatives and enhance organizational resilience against cyber threats.
 
-| Out of the Box SkLearn Random Forest Ensemble | Hybrid Data Science Methodology | TensorFlow Decision Forest |
+| SkLearn Random Forest Ensemble | Hybrid Data Science Methodology | TensorFlow Decision Forest |
 |---------------------------|---------------------------------|----------------------------|
 | 0.77511                         | 0.78468                     | 0.80143                     |
 
