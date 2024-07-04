@@ -384,7 +384,11 @@ Throughout this intensive program, I have tackled various projects that encompas
 
 ![Web App](img/singularity_cybersecurity_blog_web_app.png)
 
-*Figure 1: [Singularity Cybersecurity web app](https://rex-coleman-blog-01b248947442.herokuapp.com/).*
+*Figure 1: Project 1: Days 1 - 70 Blog Webapp Capstone Project [Link to Singularity Cybersecurity Web App](https://rex-coleman-blog-01b248947442.herokuapp.com/). [Link to GitHub Repo](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/README.md) Explore my Blog Webapp Capstone Project from Angela Yu's 100 Days of Code Bootcamp! Dive into a full-stack web application showcasing advanced skills in Flask, Bootstrap, PostgreSQL, and more. Witness how modern web development practices create a dynamic, secure, and user-friendly platform.*
+
+![Web App](img/singularity_cybersecurity_blog_web_app.png)
+
+*Figure 1: [Link to Singularity Cybersecurity Web App](https://rex-coleman-blog-01b248947442.herokuapp.com/).*
 
 #### [6.1.2 Data Structures and Algorithms](https://github.com/rexcoleman/LeetCode-Programming-Exercises-Repository)
 
