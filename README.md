@@ -288,7 +288,7 @@ This repository showcases my journey through the IBM Data Science Professional C
 
 Web Scraping Target: HTML Tables Data                 | Resulting Pandas DataFrame
 :---------------------------------------------------: | :---------------------------------------------------:
-<img src="img/html_table.png" alt="HTML Table Target" width="400"> | <img src="img/dratframe_created_from_webscraping.png" alt="Beautiful Soup Result" width="525">
+<img src="img/html_table.png" alt="HTML Table Target" width="400"> | <img src="img/dratframe_created_from_webscraping.png" alt="Beautiful Soup Result" width="535">
 
 *Figure 1: [Web Scraping Target HTML Tables](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches) showing list of Falcon 9 and Falcon Heavy launches (left) and Resulting Pandas DataFrame from BeautifulSoup webscraping (right).*
 
@@ -298,7 +298,7 @@ Web Scraping Target: HTML Tables Data                 | Resulting Pandas DataFra
 
 SpaceX Launch Sites                                   | Successes/Failures at Kennedy Space Center Site
 :---------------------------------------------------: | :---------------------------------------------------:
-<img src="img/SQL_2.png" alt="Folium" width="400"> | <img src="img/sql.png" alt="Folium" width="400">
+<img src="img/SQL_2.png" alt="Folium" width="425"> | <img src="img/sql.png" alt="Folium" width="400">
 
 *Figure 1: Interactive folium maps showing SpaceX launch sites (left) and launch successes/failures at Kennedy Space Center Site site using marker-clusters (right).*
 
