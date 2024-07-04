@@ -16,7 +16,7 @@ Of the three [Titanic](https://www.kaggle.com/competitions/titanic) projects I w
 |                              | 0.77511                         | 0.78468                     | 0.80143                     |
 
 
-Of the three [Pima Indians Diabetes Database](https://www.kaggle.com/code/mragpavank/pima-indians-diabetes-database) I worked on, the Feature Engineering Deep Dive project crused the others by a wide margin.
+Of the three [Pima Indians Diabetes Database](https://www.kaggle.com/code/mragpavank/pima-indians-diabetes-database) I worked on, the [Feature Engineering Deep Dive]() project crused the others by a wide margin.
 
 | Highest (Accuracy) Score | SkLearn K-Nearest Neighbors | CRISP-DM Methodology Case Study  | Feature Engineering Deep Dive |
 |---------------------------|---------------------------|---------------------------------|----------------------------|
