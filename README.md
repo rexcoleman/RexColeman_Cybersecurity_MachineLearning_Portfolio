@@ -8,6 +8,26 @@ Through a series of completed and proposed projects aligned with the NIST Cybers
 
 
 
+[5.3.1 Report: Data Science Model Selection in Cybersecurity](#531-report-data-science-model-selection-in-cybersecurity)
+
+This 112 page report on model selection does an excellent job at simplifiying a wide array of complex topics.  It covers over 190 models, 17 cost functions and 9 performance metrics, makes the topics suprisingly easy to understand, provides multiple tools to assist with selecting models and is loaded with cybersecurity examples. Here is one example
+
+4.6 Natural Language Processing
+
+Overview
+
+Natural Language Processing (NLP) involves the interaction between computers and human language. In cybersecurity, NLP can be applied to tasks such as analyzing security reports, detecting phishing emails, and monitoring social media for threat intelligence. By understanding and applying NLP models, we can enhance our ability to process and analyze large volumes of text data effectively.
+
+Categories of NLP Models
+1. Text Preprocessing
+Definition: Text preprocessing involves preparing and cleaning text data for analysis. This step is crucial for improving the performance of NLP models by standardizing the input data.
+Tokenization
+When to Use: Use tokenization to split text into smaller units, such as words or sentences.
+How It Works: Tokenization breaks down text into individual tokens (words, phrases, or sentences) that can be processed by NLP models.
+Cost Function: Tokenization does not use a traditional cost function but aims to optimize the splitting of text for further processing.
+Example: Tokenizing security incident reports to analyze the frequency of specific terms related to different types of attacks.
+
+
 
 Of the three [Titanic](https://www.kaggle.com/competitions/titanic) projects I worked on.  The [TensorFlow Decision Forest]((#532-project-tensorflow---decision-forest---titanic)) had the highest submission score.
 
