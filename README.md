@@ -2,7 +2,9 @@
 
 ## Executive Summary
 
-This portfolio demonstrates the strategic importance of data science in enhancing cybersecurity measures within a Fortune 100 organization. Through a series of completed and proposed projects aligned with the NIST Cybersecurity Framework, the report highlights how advanced analytical techniques can address the key responsibilities of a security team. The portfolio showcases practical applications of data science in areas such as threat detection, incident response, risk management, and compliance, illustrating how these approaches can improve the organization's security posture and resilience against cyber threats. It also invites collaboration on innovative future projects.
+This portfolio demonstrates my capability to leverage data science and machine learning to solve complex cybersecurity challenges. As a futurist and strategic thinker, I anticipate technological trends and develop proactive solutions to address emerging cybersecurity needs. This portfolio highlights my journey through various projects and methodologies, illustrating my readiness to enhance the security posture of large organizations by staying ahead of technological trends.
+
+Through a series of completed and proposed projects aligned with the NIST Cybersecurity Framework, this portfolio showcases practical applications of data science in threat detection, incident response, risk management, and compliance. It also invites collaboration on innovative future projects, aiming to drive strategic initiatives and enhance organizational resilience against cyber threats.
 
 ## Table of Contents
 1. [Introduction](#1-introduction)
@@ -59,7 +61,9 @@ This portfolio demonstrates the strategic importance of data science in enhancin
 ## 1. Introduction
 
 ### 1.1 Personal Overview
-My name is [Your Name], and I am a dedicated data scientist with a robust background in cybersecurity. Over the past few years, I have developed a keen interest in leveraging data science to address complex cybersecurity challenges. My expertise lies in applying advanced analytical techniques, such as machine learning, predictive analytics, and big data analytics, to enhance security measures.
+My name is Rex Coleman, and I am a dedicated data scientist with a robust background in cybersecurity. Over the past few years, I have developed a keen interest in leveraging data science to address complex cybersecurity challenges. My expertise lies in applying advanced analytical techniques, such as machine learning, predictive analytics, and big data analytics, to enhance security measures.
+
+My name is Rex Coleman.  I am a data scientist with a strong background in cybersecurity, dedicated to driving innovation and achieving market leadership. My career journey has been shaped by a passion for solving complex problems and a commitment to continuous learning. I am attending Georgia Tech's Master's of Science in Analytics program, top-5 nationally ranked for data science and analytics, hold a Masters in Business Administration from the Melbourne Business School in Australia, and a Bachelor of Science in Biochemistry and Molecular Biology from the University of California Santa Cruz.  I worked at FireEye / Mandiant for decade starting when FireEye was an 80 person company.  For half that time I held a variety of data related roles and for the other half, I learned the art of business as a sales rep.  Most recently, I took a few bets as an entrepreneur exploring how to solve cybersecurity problems with blockchain technology. 
 
 ### 1.2 Purpose of the Portfolio
 The purpose of this portfolio is to demonstrate my ability to apply data science to tackle real-world cybersecurity problems effectively. It aims to show how data science can be strategically integrated into cybersecurity practices to enhance threat detection, incident response, risk management, and compliance, and to invite collaboration on innovative future projects.
@@ -463,11 +467,17 @@ These skills demonstrate my commitment to mastering essential concepts for advan
 - **Advancing Analytical Capabilities**: Discuss the importance of continuously advancing analytical capabilities to stay ahead of cyber threats. This includes adopting new technologies and methodologies to enhance threat detection and response.
 - **Embracing Emerging Technologies**: Highlight the need to embrace emerging technologies to enhance security measures. By staying up-to-date with technological advancements, organizations can improve their security posture and better protect against evolving threats.
 
-## 9. Conclusion
-
 ### 9.1 Summary
-In this portfolio, I have demonstrated how data science can enhance the security team's ability to manage and mitigate cybersecurity risks. By leveraging advanced analytical techniques, organizations can improve their threat detection, response, and recovery capabilities. Data science provides a strategic advantage, enabling proactive and efficient security measures.
+
+This portfolio highlights my journey and accomplishments in integrating data science with cybersecurity. Through various completed projects, I have demonstrated proficiency in key areas such as threat detection, incident response, risk management, and compliance. My work showcases a strong foundation in machine learning, deep learning, and advanced data analysis techniques, underscoring my capability to solve complex cybersecurity challenges.
 
 ### 9.2 Call to Action
-I am enthusiastic about the opportunity to further discuss and explore the integration of data science in cybersecurity with industry leaders. I look forward to collaborating on innovative solutions and contributing to the field of cybersecurity.
+
+I invite you to explore my portfolio and consider how my skills and experiences can benefit your organization. Whether you are looking for innovative solutions to enhance your security measures or seeking a dedicated data scientist to join your team, I am eager to contribute. Let's collaborate to advance the field of cybersecurity and protect against evolving threats.
+
+### 9.3 Contact Information
+
+- **LinkedIn:** [https://www.linkedin.com/in/rexcoleman/](https://www.linkedin.com/in/rexcoleman/)
+- **Email:** rexcoleman@gmail.com
+- **Cell:** 415.351.8797
 
