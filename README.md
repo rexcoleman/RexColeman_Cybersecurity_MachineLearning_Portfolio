@@ -7,16 +7,6 @@ This portfolio demonstrates my capability to leverage data science and machine l
 Through a series of completed and proposed projects aligned with the NIST Cybersecurity Framework, this portfolio showcases practical applications of data science in threat detection, incident response, risk management, and compliance. It also invites collaboration on innovative future projects, aiming to drive strategic initiatives and enhance organizational resilience against cyber threats.
 
 
-
-[5.3.1 Report: Data Science Model Selection in Cybersecurity](#531-report-data-science-model-selection-in-cybersecurity) This 112 page report on model selection does an excellent job at simplifiying a wide array of complex topics.  It covers over 190 models, 17 cost functions and 9 performance metrics, makes the topics suprisingly easy to understand, provides multiple tools to assist with selecting models and is loaded with cybersecurity examples. Here is one example
-
-
-
-
-
-
-
-
 ## Table of Contents
 1. [Introduction](#1-introduction)
     - [1.1 Personal Overview](#11-personal-overview)
