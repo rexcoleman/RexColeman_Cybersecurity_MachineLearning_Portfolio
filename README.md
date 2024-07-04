@@ -361,7 +361,7 @@ Key considerations in model selection are discussed in detail, including data av
 
 Implementation and evaluation best practices are outlined to ensure the effective deployment and continuous improvement of machine learning models. Finally, we address the challenges and future directions in model selection, highlighting emerging trends and technologies that will shape the future of cybersecurity.
 
-By the end of this report, readers will have a thorough understanding of the key factors influencing model selection and will be equipped with the knowledge to implement machine learning solutions that enhance their cybersecurity posture.
+By the end of this report, readers will have a thorough understanding of the key factors influencing model selection and will be equipped with the knowledge to implement machine learning solutions that enhance their cybersecurity posture. [Read More...](https://github.com/rexcoleman/Data-Science-Model-Selection-in-Cybersecurity/tree/main)
 
 #### [5.3.2 Project: TensorFlow - Decision Forest - Titanic](https://github.com/rexcoleman/TensorFlow-Decision-Forest-Titanic)
 
