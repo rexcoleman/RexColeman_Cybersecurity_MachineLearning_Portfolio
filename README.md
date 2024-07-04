@@ -288,7 +288,7 @@ This repository showcases my journey through the IBM Data Science Professional C
 
 CRISP-DM diagram                                      | Feature Importance Analysis
 :---------------------------------------------------: | :---------------------------------------------------:
-<img src="img/html_table.png" alt="CRISP-DM" width="400"> | <img src="img/dratframe_created_from_webscraping.png" alt="Feature Importance" width="500">
+<img src="img/html_table.png" alt="CRISP-DM" width="400"> | <img src="img/dratframe_created_from_webscraping.png" alt="Feature Importance" width="550">
 
 *Figure 1: CRISP-DM diagram (left) and feature importance analysis (right) feature importance analysis was conducted to understand which features contributed most to the model predictions. This analysis also enhanced model interpretability and trustworthiness.*
 
