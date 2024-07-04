@@ -29,7 +29,7 @@ Through a series of completed and proposed projects aligned with the NIST Cybers
         - [5.1.3 Report: How to Win Kaggle Competitions](#513-report-how-to-win-kaggle-competitions)
         - [5.1.4 Project: Hybrid Data Science Methodology - Titanic](#514-project-hybrid-data-science-methodology---titanic)
         - [5.1.5 Project: CRISP-DM Methodology Case Study: Predicting Diabetes Onset Using the Pima Indians Diabetes Database](#515-project-crisp-dm-methodology-case-study-predicting-diabetes-onset-using-the-pima-indians-diabetes-database)
-        - [5.1.6 Project: IBM Data Science Methodology](#516-project-ibm-data-science-methodology)
+        - [5.1.6 Project: IBM Data Science Methodology - IBM Data Science Professional Specialization](#516-project-ibm-data-science-methodology---ibm-data-science-professional-specialization)
     - [5.2 Data Preparation](#52-data-preparation)
         - [5.2.1 Report: Unlocking Data Potential - Advanced Feature Engineering Techniques for Cybersecurity](#521-report-unlocking-data-potential---advanced-feature-engineering-techniques-for-cybersecurity)
         - [5.2.2 Project: Feature Engineering Deep Dive - Pima Indians](#522-project-feature-engineering-deep-dive---pima-indians)
@@ -280,7 +280,7 @@ CRISP-DM diagram                                      | Feature Importance Analy
 
 [Read More...](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
  
-### [5.1.6 Project: IBM Data Science Methodology](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main)
+### [5.1.6 IBM Data Science Methodology - IBM Data Science Professional Specialization](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main)
 ### Executive Summary
 
 This repository showcases my journey through the IBM Data Science Professional Certificate program. This specialization provides a comprehensive overview of data science fundamentals, emphasizing practical applications and real-world scenarios.  Each project aligns with the skills and knowledge necessary for a data scientist, culminating in this capstone project forecasting SpaceX rocket launch success: [report](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/blob/main/Capstone_Project_WinningTheSpaceRaceWithDataScience.pdf), [code](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C_10_AppliedDataScienceCapstone). Specifically for this repository, I showcase 4 skills that are as clearly demonstrated in other parts of my portfolio: i) web scraping, ii) SQL, iii) interactive map plotting with Folium and iv) dashboard plotting with Plotly and Dash.
