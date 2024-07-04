@@ -224,7 +224,7 @@ Releated Malware Families                             | Unreleated Malware Famil
 
 ### 5.1 Data Science Methodologies
 
-### [5.1.1 Report: Data-Driven Defense - Adapting Data Science Methodologies for Cybersecurity Excellence](https://github.com/rexcoleman/Data-Driven-Defense-Adapting-Data-Science-Methodologies-for-Cybersecurity-Excellence)
+#### [5.1.1 Report: Data-Driven Defense - Adapting Data Science Methodologies for Cybersecurity Excellence](https://github.com/rexcoleman/Data-Driven-Defense-Adapting-Data-Science-Methodologies-for-Cybersecurity-Excellence)
 #### Executive Summary
 
 In today's rapidly evolving cyber threat landscape, integrating data science methodologies into cybersecurity practices has become essential. This report explores both general and specialized data science methodologies, including CRISP-DM, IBM Data Science Methodology, and cybersecurity-specific frameworks such as CSDS. By examining how these methodologies can be adapted to meet the complex challenges of cybersecurity, this report provides a comprehensive overview of their role in enhancing detection capabilities and preventative measures.
@@ -237,19 +237,17 @@ By examining both theoretical aspects and practical applications, this report ai
 
 *Figure 2: IBM Data Science Methodology flowchart*
 
-### [5.1.2 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](https://github.com/rexcoleman/Kaggle-Competition-Value-Proposition-For-Advancing-Data-Science/tree/main)
+#### [5.1.2 Report: Strategic Importance of Kaggle Competitions in Advancing Data Science](https://github.com/rexcoleman/Kaggle-Competition-Value-Proposition-For-Advancing-Data-Science/tree/main)
 #### Executive Summary
 
 In today's rapidly evolving landscape of data science and artificial intelligence (AI), the strategic significance of Kaggle competitions cannot be overstated. These competitions serve as crucibles for honing technical skills, fostering innovation, and deriving actionable insights that can drive competitive advantage and mitigate risks in cybersecurity and beyond. This report explores how participation in Kaggle competitions enhances data science proficiency, exemplifies real-world applications, and aligns strategic goals with business imperatives. [Read More...](https://github.com/rexcoleman/Kaggle-Competition-Value-Proposition-For-Advancing-Data-Science/tree/main)
 
-### [5.1.3 Report: How to Win Kaggle Competitions](https://github.com/rexcoleman/How-To-Win-Kaggle-Competitions)
+#### [5.1.3 Report: How to Win Kaggle Competitions](https://github.com/rexcoleman/How-To-Win-Kaggle-Competitions)
 #### Executive Summary
 
 In today's rapidly evolving landscape of data science and artificial intelligence (AI), Kaggle competitions serve as crucial platforms for honing technical skills, fostering innovation, and solving real-world problems. This report provides a detailed guide on how to succeed in Kaggle competitions, outlining key steps such as initial data exploration, data cleaning, feature engineering, model development, validation, ensemble methods, and effective collaboration. Each step is ranked based on its impact on success, providing a strategic framework for participants aiming to achieve top performance. By understanding and applying these insights, data scientists can significantly enhance their chances of winning Kaggle competitions and deriving actionable insights that drive competitive advantage in various fields, including cybersecurity. [Read More...](https://github.com/rexcoleman/How-To-Win-Kaggle-Competitions)
 
 #### [5.1.4) Project: Hybrid Data Science Methodology - Titanic](https://github.com/rexcoleman/Hybrid-Data-Science-Methodology-Titanic)
-#### Executive Summary
-
 - **Description**: This project provides a comprehensive framework to help beginners in the field of data science understand and apply essential concepts and techniques. It uses the Kaggle Titanic dataset to illustrate the process of defining a problem, gathering and preparing data, performing exploratory analysis, modeling data, and evaluating model performance.
 - **Tools and Techniques**: The project employs a variety of tools and libraries, including Python, pandas, matplotlib, seaborn, scikit-learn, and XGBoost. Techniques covered include data wrangling, feature engineering, decision trees, ensemble methods, and hyperparameter tuning. It emphasizes a structured approach to data science problems, promoting critical thinking over mere application of algorithms.
 - **Impact**: This project highlights the importance of understanding the underlying principles of data science rather than just using libraries and algorithms. It provides a detailed framework that guides beginners on how to approach and solve data science problems systematically, thus bridging the gap between theoretical knowledge and practical application.
@@ -280,8 +278,8 @@ CRISP-DM diagram                                      | Feature Importance Analy
 
 [Read More...](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians/tree/main)
  
-### [5.1.6 IBM Data Science Methodology - IBM Data Science Professional Specialization](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main)
-### Executive Summary
+#### [5.1.6 IBM Data Science Methodology - IBM Data Science Professional Specialization](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main)
+#### Executive Summary
 
 This repository showcases my journey through the IBM Data Science Professional Certificate program. This 10 course specialization provides a comprehensive overview of data science fundamentals, emphasizing practical applications and real-world scenarios.  Each project aligns with the skills and knowledge necessary for a data scientist, culminating in this capstone project forecasting SpaceX rocket launch success: [report](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/blob/main/Capstone_Project_WinningTheSpaceRaceWithDataScience.pdf), [code](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C_10_AppliedDataScienceCapstone). Specifically for this repository, I showcase 4 skills that are as clearly demonstrated in other parts of my portfolio: i) web scraping, ii) SQL, iii) interactive map plotting with Folium and iv) dashboard plotting with Plotly and Dash.
 
