@@ -294,7 +294,7 @@ Web Scraping Target: HTML Tables Data                 | Resulting Pandas DataFra
 
 2015 Drone Ship Landing Failures by Launch Site       | Ranked Landing Outcomes 
 :---------------------------------------------------: | :---------------------------------------------------:
-<img src="img/SQL_2.png" alt="Folium" width="412"> | <img src="img/sql.png" alt="Folium" width="400">
+<img src="img/SQL_2.png" alt="SQL" width="412"> | <img src="img/sql.png" alt="SQL" width="400">
 
 *Figure 2: SQL analysis showing drone ship langing failures by launch site in 2015 (left) and ranking landing outcomes between 2010-06-04 and 2017-03-20 (right).*
 
@@ -305,9 +305,11 @@ SpaceX Launch Sites                                   | Successes/Failures at Ke
 
 *Figure 3: Interactive folium maps showing SpaceX launch sites (left) and launch successes/failures at Kennedy Space Center Site site using marker-clusters (right).*
 
-![Dashboard](img/interactive_plotly_dashboard_2.png)
+Comparing Magnitude of Launch Success by Site         | Individual Launch Site Success Rates
+:---------------------------------------------------: | :---------------------------------------------------:
+<img src="img/interactive_plotly_dashboard_2.png" alt="Plotly" width="400"> | <img src="**img/folium_map_success_failurs_at_site.png**" alt="Plotly" width="450">
 
-*Figure 5: Plotly interactive dashborad showing launch successes by launch site.  Kennedy Space Center has the highest successful launch rate.*
+*Figure 4: Plotly interactive dashborad comparing launch successes by launch site (left) and success rates for individual sites (right). Kennedy Space Center has both the largest number of successful launches and the highest successful launch rate.*
 
 ### [5.2 Data Preparation](https://github.com/rexcoleman/Data-Preparation-Overview/tree/main)
 ### Executive Summary
