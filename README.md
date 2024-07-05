@@ -1,4 +1,4 @@
-# RexColeman_Cybersecurity_MachineLearning_Portfolio
+# RexColeman Cybersecurity Machine Learning Portfolio
 
 ## Executive Summary
 
