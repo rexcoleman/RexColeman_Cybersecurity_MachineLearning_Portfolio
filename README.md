@@ -68,26 +68,13 @@ My name is Rex Coleman. I am a data scientist with a robust background in cybers
 ### 1.2 The Art of Learning and Teaching Through Data Science
 Throughout this portfolio, I embrace the collaborative spirit of the data science community, often reproducing and enhancing the work of others: a practice central to Kaggle's mission to advance the field. One project I am particularly proud of is the Microsoft Malware Prediction. This project involved decoding a large (8 GB) and complex (100 features) dataset, originally tackled by the second-place Kaggle winner. Diving deep into this sophisticated codebase, I spent days dissecting and understanding every nuance: a testament to my belief that teaching is the best form of learning. By writing detailed reports and explanations, even on topics initially foreign to me, I’ve significantly sharpened my skills. This hands-on process helps me elevate my expertise throughout the esciting fields of data science, machine learning and cybersecurity.
 
-### 1.3 Unique Value Proposition: From Understanding to Innovating
-Engineers often begin their careers solving technical problems but may struggle to grasp the broader business context. My journey has been the reverse, starting from a keen understanding of market needs and customer problems, nurtured through a successful sales career where I exceeded targets by 200%, and then transitioning into a technical role. This unique path equipped me with the ability to simplify complex concepts and forge connections across disciplines: from data science to cybersecurity to business strategy. My diverse background allows me to not only adapt quickly but also to lead innovation in these intersecting fields.
-
-My approach is to integrate deep technical knowledge with strategic business insights, positioning me as a bridge between the technical and executive layers of an organization. This is not about fitting a round peg into a round hole; it's about creating new shapes that redefine how problems are understood and solved. If your organization aims to lead in a rapidly evolving industry, I am ready to bring my unique blend of skills and vision to your team, helping to navigate the future challenges of cybersecurity.
-
-### 1.4 Invitation to Collaborate
-I am eager to bring my unique perspective and skills to bear on the challenges facing today’s cybersecurity leaders. This portfolio is not just a showcase of past achievements but an invitation for collaboration on innovative solutions that prepare us for the threats of tomorrow. I look forward to the opportunity to discuss how we can work together to advance our industry and protect our digital world.
-
 ### 1.3 Unique Value Proposition: Bridging Innovation and Market Strategy
-In a landscape where technical prowess often overshadows strategic insight, I stand apart by blending deep industry knowledge with a sharp focus on market demands. My career trajectory from high-achieving sales strategist to data science innovator is unique. Having started with understanding the market and customer needs at FireEye / Mandiant, I transitioned into solving the technical challenges that underpin those needs. This reverse-engineering of the typical career path has not only enabled me to see the forest for the trees but has also equipped me to build the bridges between technology and strategic business outcomes.
+In a landscape where technical prowess often overshadows soving a customer problem, I stand apart by blending deep industry knowledge with a sharp focus on market demands. My career trajectory from a high-achieving sales professional to data science innovator is unique. Having started with understanding the market and customer needs at FireEye / Mandiant (the hard part), I transitioned into solving the technical challenges that underpin those needs (the fun part). This reverse-engineering of the typical career path has not only enabled me to see the forest for the trees but has also equipped me to build the bridges between technology and strategic business outcomes.
 
 My unique value proposition lies in translating complex data science and cybersecurity challenges into strategic business solutions that drive competitive advantage and innovation. This skill set positions me uniquely as a catalyst for industry-leading change, making complex concepts accessible and actionable for strategic decision-making. If your organization is seeking to transform challenges into opportunities with cutting-edge solutions, I am prepared to lead that charge.
 
 ### 1.4 Invitation to Collaborate
 I am eager to bring my unique perspective and skills to bear on the challenges facing today’s cybersecurity leaders. This portfolio is not just a showcase of past achievements but an invitation for collaboration on innovative solutions that prepare us for the threats of tomorrow. I look forward to the opportunity to discuss how we can work together to advance our industry and protect our digital world.
-
-
-
-### 1.2 Purpose of the Portfolio
-The purpose of this portfolio is to demonstrate my ability to apply data science to tackle real-world cybersecurity problems effectively. It aims to show how data science can be strategically integrated into cybersecurity practices to enhance threat detection, incident response, risk management, and compliance, and to invite collaboration on innovative future projects.
 
 ## 2. Scope of Responsibility of the Security Team in a Fortune 100 Organization
 
