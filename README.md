@@ -2,10 +2,16 @@
 
 ## Executive Summary
 
-This portfolio demonstrates my capability to leverage data science and machine learning to solve complex cybersecurity challenges. As a futurist and strategic thinker, I anticipate technological trends and develop proactive solutions to address emerging cybersecurity needs. This portfolio highlights my journey through various projects and methodologies, illustrating my readiness to enhance the security posture of large organizations by staying ahead of technological trends.
+Welcome to the Rex Coleman Cybersecurity and Machine Learning Portfolio. As a seasoned data scientist with extensive experience in cybersecurity, I am passionate about leveraging data science to enhance security measures, drive innovation and achieve market leadership. My portfolio is designed to demonstrate a robust blend of technical expertise and strategic thinking, underpinned by projects that align closely with several Data Science and Cybersecurity Frameworks. 
 
-Through a series of completed and proposed projects aligned with the NIST Cybersecurity Framework, this portfolio showcases practical applications of data science in threat detection, incident response, risk management, and compliance. It also invites collaboration on innovative future projects, aiming to drive strategic initiatives and enhance organizational resilience against cyber threats.
+Key highlights include:
+- **Deep Learning Applications**: Showcasing projects like the enhancement of phishing detection using Neural Style Transfer and the application of U-Net for precision image segmentation, this section underlines my ability to apply cutting-edge AI techniques in practical cybersecurity contexts.
+- **Data Science Methodologies**: Detailed reports and projects demonstrate my proficiency in employing various methodologies like CRISP-DM and the IBM Data Science Methodology to tackle and mitigate cybersecurity threats.
+- **Comprehensive Projects**: From feature engineering to model selection, my projects address each phase of the data science process, ensuring thorough analytical approaches that lead to actionable insights and robust solutions in cybersecurity.
 
+My journey from a business-driven role at FireEye/Mandiant to diving deep into the technical challenges of machine learning and cybersecurity has equipped me with unique insights into both the market demands and the technical intricacies of this field. This portfolio not only showcases my technical skills but also highlights my strategic approach to integrating data science within cybersecurity frameworks to address complex challenges.
+
+I invite you to explore this portfolio to understand how my work can benefit your organization in advancing cybersecurity measures to lead the cybersecurity industry of the future. Let's connect and discuss how we can collaborate to bring innovative machine learning solutions to the ever-evolving cybersecurity landscape.
 
 ## Table of Contents
 1. [Introduction](#1-introduction)
