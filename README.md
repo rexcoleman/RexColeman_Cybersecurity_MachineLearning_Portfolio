@@ -17,7 +17,7 @@ I invite you to explore this portfolio to understand how my work can benefit you
 1. [Introduction](#1-introduction)
     - [1.1 Personal Overview](#11-personal-overview)
     - [1.2 Purpose of the Portfolio](#12-purpose-of-the-portfolio)
-2. [Scope of Responsibility of the Security Team in a Fortune 100 Organization](#2-scope-of-responsibility-of-the-security-team-in-a-fortune-100-organization)
+2. [Scope of Responsibility of the Enterprise Security Team](#2-scope-of-responsibility-of-the-enterprise-security-team)
     - [2.1 Overview of the Security Team Role](#21-overview-of-the-security-team-role)
 3. [NIST Cybrersecurity Framework: How Data Science Contributes to Cybresecurity Teams](#3-nist-cybrersecurity-framework-how-data-science-contributes-to-cybresecurity-teams)
 4. [Deep Learning](#4-deep-learning)
@@ -82,7 +82,7 @@ My unique value proposition lies in translating complex data science and cyberse
 ### 1.4 Invitation to Collaborate
 I am eager to bring my unique perspective and skills to bear on the challenges facing today’s cybersecurity leaders. This portfolio is not just a showcase of past achievements but an invitation for collaboration on innovative solutions that prepare us for the threats of tomorrow. I look forward to the opportunity to discuss how we can work together to advance our industry and protect our digital world.
 
-## 2. Scope of Responsibility of the Security Team in a Fortune 100 Organization
+## 2. Scope of Responsibility of the Enterprise Security Team
 
 ### 2.1 Overview of the Security Team Role
 The security team in a Fortune 100 organization is responsible for ensuring the security of the organization's information and technology assets. The security team's primary responsibilities include risk management, regulatory compliance, incident response, safeguarding assets, and strategic planning. In this role, the security team faces numerous challenges, including advanced persistent threats, zero-day vulnerabilities, insider threats, continuous monitoring, and resource allocation.
